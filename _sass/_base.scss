@@ -1,7 +1,7 @@
 body {
 	font-family: $normal-font;
 	color: $text-color;
-	background-image: url('../img/bg.png');
+	background-image: url('../assets/img/bg.png');
 	background-position: calc(50% + 0px) 0%;
 }
 
@@ -27,7 +27,7 @@ body {
 
 .site-header .profile{
 	display: inline-block;
-	background-image: url('../img/me.jpg');
+	background-image: url('../assets/img/me.jpg');
 	background-size: contain;
 	border-radius: 50%;
 	width: 2rem;

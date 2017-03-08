@@ -1,6 +1,6 @@
 ---
 company: flow2code
-name: Application
+title: Application
 logo: ../assets/img/projects/flow2code/logo.svg
 cover: ../assets/img/projects/others/3.jpg
 flex-basis: 16rem;

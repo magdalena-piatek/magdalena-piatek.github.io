@@ -1,6 +1,6 @@
 ---
 company: flow2code
-name: Application
+title: Application
 logo: ../assets/img/projects/flow2code/logo.svg
 cover: http://www.livescience.com/images/i/000/030/551/original/donkey.jpg?interpolation=lanczos-none&fit=inside%7C660:*
 flex-basis: 14rem;

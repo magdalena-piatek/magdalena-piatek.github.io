@@ -1,6 +1,6 @@
 ---
 company: flow2code
-name: Application
+title: Application
 logo: ../assets/img/projects/flow2code/logo.svg
 cover: https://cdn.tookapic.com/photos/2017/50/e/b/eb50dcb5433d255c0929d7e82fc1455a.JPG?w=1170&markscale=20&markpad=100&markalign=center%2Cmiddle&markalpha=10&mark=watermark.png&q=85&sharp=3&s=31ec416b0450a8a335990bfaf4d88b7b
 flex-basis: 14rem;

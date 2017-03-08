@@ -1,6 +1,6 @@
 ---
 company: Placetag
-name: UX prototyping & usability testing
+title: UX prototyping & usability testing
 logo: ../assets/img/projects/placetag/logo.svg
 cover: ../assets/img/projects/placetag/cover.png
 flex-basis: 14rem;

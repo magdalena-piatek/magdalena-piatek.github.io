@@ -23,12 +23,10 @@ permalink: /
 			<li class="skill">Functional testing</li>
 			<li class="skill">Illustrator CC</li>
 			<li class="skill">Mockplus</li>
-			<li class="skill">Moqups</li>
-			<li class="skill">QGIS</li>
 			<li class="skill">MapViewer</li>
-			<li class="skill">GIMP</li>
-			<li class="skill">Inkscape</li>
 			<li class="skill">Corel Draw</li>
+			<li class="skill">Inkscape</li>
+			<li class="skill">Moqups</li>
 		</ul>
 
 		<h2> Get in touch </h2>

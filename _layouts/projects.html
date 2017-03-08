@@ -8,9 +8,11 @@ layout: default
 	<div class="projects">
 	{% for project in site.projects %}
 	<a class="project-link project" href={{project.permalink}} style="background-image: url({{ project.cover }}); flex-basis: {{project.flex-basis}};">
-			<!-- {{ project.company }}
-			{{ project.name }} -->
-			<!-- {{ project.content }} -->
+		<div>
+			<p class="project-title">{{ project.title }}</p>
+			<hr />
+			<p class="project-company">{{ project.company }}</p>
+		</div>
 	</a>
 	{% endfor %}
 	</div>

@@ -5,13 +5,13 @@ layout: default
 	<h1 class="title">{{ page.title }}</h1>
 </header>
 <div class="content">
-	<ul class="projects">
+	<div class="projects">
 	{% for project in site.projects %}
-		<li class="project" style="background-image: url({{ project.cover }}); flex-basis: {{project.flex-basis}};">
+	<a class="project-link project" href={{project.permalink}} style="background-image: url({{ project.cover }}); flex-basis: {{project.flex-basis}};">
 			<!-- {{ project.company }}
 			{{ project.name }} -->
 			<!-- {{ project.content }} -->
-		</li>
+	</a>
 	{% endfor %}
-	</ul>
+	</div>
 </div>

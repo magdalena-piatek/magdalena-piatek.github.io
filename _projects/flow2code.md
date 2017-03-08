@@ -2,8 +2,11 @@
 company: flow2code
 name: Application
 logo: ../assets/img/projects/flow2code/logo.svg
-cover: ../assets/img/projects/flow2code/cover.png
+<!-- cover: ../assets/img/projects/flow2code/cover.png -->
+cover: https://cdn.tookapic.com/photos/2017/54/5/b/5b2a4d09ae16e2c26c4b11920c759948.jpg?w=770&q=90&sharp=3&s=8c95a8f93f3998c2e9f388e0f1665675
 flex-basis: 14rem;
+permalink: /projects/flow2code
+layout: project
 
 ---
 

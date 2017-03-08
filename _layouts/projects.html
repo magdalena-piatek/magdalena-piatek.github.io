@@ -7,9 +7,10 @@ layout: default
 <div class="content">
 	<ul class="projects">
 	{% for project in site.projects %}
-		<li class="project">
-			{{ project.company }}
-			{{ project.content }}
+		<li class="project" style="background-image: url({{ project.cover }}); flex-basis: {{project.flex-basis}};">
+			<!-- {{ project.company }}
+			{{ project.name }} -->
+			<!-- {{ project.content }} -->
 		</li>
 	{% endfor %}
 	</ul>

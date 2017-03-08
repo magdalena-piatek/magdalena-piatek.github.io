@@ -1,16 +1,17 @@
 body {
 	font-family: $normal-font;
 	color: $text-color;
-	background-image: url('../assets/img/bg.png');
+	// background-image: url('../assets/img/bg.png');
 	background-position: calc(50% + 0px) 0%;
 }
 
 .wrapper{
-	max-width: 36rem;
+	max-width: 48rem;
 	margin: 0 auto;
 	background: #fff;
 	// border: #9ded32 solid 1px;
 	padding: 1rem;
+	padding-top: 0.5rem;
 	min-height: 90vh;
 }
 
@@ -68,7 +69,7 @@ h1, h2{
 	text-align: left;
 }
 
-ul.labels {
+ul.skills, ul.projects {
 	padding: 0;
 	line-height: 2rem;
 	max-width: none;
@@ -76,7 +77,7 @@ ul.labels {
 	display: flex;
 }
 
-li{
+li.skill{
 	background-color:HSL(0, 0%, 96%);
 	display: inline-block;
 	list-style: none;
@@ -87,4 +88,20 @@ li{
 	text-align: center;
 	border-radius: 5px;
 	line-height: 1rem;
+}
+
+ul.projects{
+	line-height: 0;
+}
+
+li.project{
+	height: 12rem;
+	flex-basis: calc(100% / 3 - 1rem);
+	margin: .5rem;
+	background-color: hsl(158, 100%, 34%);
+	flex-grow: 1;
+	background-size: cover;
+	background-position: 0%;
+	list-style: none;
+	border: solid 1px #ddd;
 }

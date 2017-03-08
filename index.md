@@ -30,7 +30,6 @@ permalink: /
 		</ul>
 
 		<h2> Get in touch </h2>
-
 		+48 506 318 022
 		kontakt@magdalena-piatek.pl
 		linkedin

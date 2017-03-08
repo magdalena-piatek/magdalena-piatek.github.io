@@ -83,6 +83,9 @@ h1{
 
 
 ul.skills{
+	position: relative;
+	left: -0.25rem;
+	width: calc( 100% + .5rem);
 }
 
 ul.skills, .projects {
@@ -93,8 +96,8 @@ ul.skills, .projects {
 	display: flex;
 }
 
-li.skill{
-	background-color:HSL(0, 0%, 96%);
+li.skill {
+	background-color: HSL(0, 0%, 96%);
 	display: inline-block;
 	list-style: none;
 	vertical-align: bottom;
@@ -102,8 +105,9 @@ li.skill{
 	padding: 0.5rem;
 	flex-grow: 1;
 	text-align: center;
-	border-radius: 5px;
+	// border-radius: 5px;
 	line-height: 1rem;
+	font-size: 0.583333333rem;
 }
 
 .projects{
@@ -172,11 +176,26 @@ a.project{
 .project:hover div {
     display: block;
 	background: hsla(0, 0%, 24%, 0.8);
-	background: hsla(0, 0%, 24%, 0.8);
-	background: hsla(0, 0%, 24%, 0.8);
 	color: #fff;
 	text-align: center;
 	vertical-align: middle;
+}
+
+.project-title{
+	color: #999;
+}
+
+.project-title > a:nth-child(1){
+	font-size: 1.75rem;
+}
+
+
+.logo{
+	height: 1.5rem;
+	width: 8rem;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-bottom: 1rem;
 }
 
 
@@ -194,6 +213,6 @@ a.project{
 }
 
 .container .item:nth-child(2){
-	margin-left: 2rem;
+	margin-left: 1.5rem;
 	background-image: url("../assets/img/me2.jpg");
 }

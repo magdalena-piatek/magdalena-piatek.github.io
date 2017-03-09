@@ -3,6 +3,7 @@ body {
 	color: $text-color;
 	// background-image: url('../assets/img/bg.png');
 	background-position: calc(50% + 0px) 0%;
+
 }
 
 .wrapper{
@@ -31,7 +32,7 @@ body {
 
 .site-header .profile{
 	display: inline-block;
-	background-image: url('../assets/img/me2.jpg');
+	background-image: url('../assets/img/me.jpg');
 	background-size: cover;
 	border-radius: 50%;
 	width: 2rem;
@@ -60,18 +61,19 @@ a{
 }
 
 .site-nav .page-link:hover{
-	color: $brand-color
+	transition: color 0.4s cubic-bezier(.39,.58,.57,1);
+	color: $brand-color;
 }
 a:link,
 a:visited{
-	color: $text-color;
+	color: HSL(0, 0%, 50%);
 }
 
 p{
 }
 
 h1, h2{
-	color: #555;
+	color: HSL(0, 0%, 50%);
 	font-family: $light-font;
 	font-weight: 100;
 	text-align: left;
@@ -124,7 +126,7 @@ a.project{
 	background-color: hsla(0, 0%, 24%, 0.8);
 	flex-grow: 1;
 	background-size: cover;
-	background-position: 0%;
+	background-position: 50%;
 	list-style: none;
 	// border: solid 1px #ddd;
 }
@@ -189,13 +191,37 @@ a.project{
 	font-size: 1.75rem;
 }
 
+.details{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.details .description{
+	margin-bottom: 1rem;
+}
+
+.content p, .content li, .content ul{
+	color: HSL(0, 0%, 60%);
+	font-size: 0.833333333rem;
+	line-height: 1.166666667rem;
+}
+
 
 .logo{
-	height: 1.5rem;
-	width: 8rem;
+	height: 2rem;
+	width: 7rem;
 	background-size: contain;
 	background-repeat: no-repeat;
 	margin-bottom: 1rem;
+}
+
+
+.project-image{
+	margin-bottom: 1rem;
+}
+
+.project-image img{
+	width: 100%;
 }
 
 
@@ -206,13 +232,15 @@ a.project{
 }
 
 .container .item{
-	flex-grow: 1;
+	flex-grow: 0;
 	background-size: cover;
-	background-position: 0%;
-	flex-basis: 16rem;
+	background-position: 60%;
+	flex-basis: 18rem;
+	color: HSL(0, 0%, 60%);
 }
 
 .container .item:nth-child(2){
 	margin-left: 1.5rem;
-	background-image: url("../assets/img/me2.jpg");
+	background-image: url("../assets/img/me.jpg");
+	max-height: 30rem;
 }

@@ -10,17 +10,7 @@ url: https://mockup-terrain.com
 
 ---
 
-<div class="details">
 
-	<div class="description">
-		<p>Mockup of a terrain</p>
-	</div>
-	<!-- <div>
-		<a href={{page.url}}>
-			<div class="logo" style="background-image: url({{page.logo}})"></div>
-		</a>
-	</div> -->
-</div>
 
 <div class="project-image">
 	<img src="../assets/projects/mockup-terrain/1.jpg" />

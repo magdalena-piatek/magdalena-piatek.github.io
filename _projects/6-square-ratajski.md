@@ -10,17 +10,6 @@ layout: project
 
 ---
 
-<div class="details">
-
-	<div class="description">
-		<p>{{page.title}}</p>
-	</div>
-	<!-- <div>
-		<a href={{page.url}}>
-			<div class="logo" style="background-image: url({{page.logo}})"></div>
-		</a>
-	</div> -->
-</div>
 
 <div class="project-image">
 	<img src="../assets/projects/square-ratajski/1.png" />

@@ -14,7 +14,7 @@ url: https://stagelink.com
 <div class="details">
 
 	<div class="description">
-		<p>The creation a new design mockup of a ticket was my interview task at Stagelink.com. My starting point was a design of current A4 page ticket.</p>
+		<p>The creation a new design mockup of a ticket was my interview task for Stagelink startup. My starting point was a design of current A4 page ticket.</p>
 
 		<p>Requirements:</p>
 		<ul>

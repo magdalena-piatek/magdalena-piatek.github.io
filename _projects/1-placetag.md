@@ -10,19 +10,10 @@ url: http://placetag.pl
 ---
 
 
+<p>Last year I've prepared mockups and wireframes of web and mobile applications for Placetag.pl. I've conducted usability tests with paper prototypes for 7 users. I took also part in creating the final designs and the structure of web page.</p>
 
-<div class="details">
+<p>About project: Placetag is the web and mobile application for saving places which you would like to visit at a later time. You can categorize saved places and share them places with your friends.</p>
 
-	<div class="description">
-		<p>For Placetag I've prepared usability tests, mockups of web and mobile appliactions and also designs. Placetag is project of web and android applications for saving places which you would like to visit at a later time. You can also share your places with your friends. </p>
-
-	</div>
-	<!-- <div>
-		<a href={{page.url}}>
-			<div class="logo" style="background-image: url({{page.logo}})"></div>
-		</a>
-	</div> -->
-</div>
 
 <div class="project-image">
 	<img src="../assets/projects/placetag/1.png" />
@@ -35,9 +26,6 @@ url: http://placetag.pl
 </div>
 <div class="project-image">
 	<img src="../assets/projects/placetag/6.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/placetag/7.jpg" />
 </div>
 <div class="project-image">
 	<img src="../assets/projects/placetag/3.png" />

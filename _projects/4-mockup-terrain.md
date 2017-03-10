@@ -3,7 +3,7 @@ company: Personal
 title: Mockup of a terrain
 logo: ../assets/projects/mockup-terrain/logo.png
 cover: ../assets/projects/mockup-terrain/cover.png
-flex-basis: 10rem;
+flex-basis: 18rem;
 permalink: /projects/mockup-terrain
 layout: project
 url: https://mockup-terrain.com

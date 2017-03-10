@@ -224,6 +224,26 @@ a.project{
 	width: 100%;
 }
 
+.iphone-mockup{
+	background-image: url("../assets/projects/stagelink/ux-research/iphone.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto;
+	background-color: #ededed;
+	width: 100%;
+	height: 36rem;
+	margin-top: 1rem;
+	display: flex;
+}
+
+
+.iphone-mockup img{
+	width: 12rem;
+	height: 21.333333333rem;
+	top: 7.5rem;
+	position: relative;
+	left: calc( 50% + -5.9rem);
+}
 
 .container{
 	display: flex;

@@ -7,7 +7,7 @@ permalink: /
 
 
 	<div class="item" style="flex-grow: 4;">
-		<p>My name is Magdalena and I'm a student of spatial development. Distinguishes me creativity and conscientiousness. I'm interested in user experience and mainly mobile prototyping. I love health food &#9829;.  As for my personality, I'm a friendly, very outgoing person. Currently I live in Poznan, Poland.</p>
+		<p>My name is Magdalena and I'm a student of spatial development. Distinguishes me creativity and conscientiousness. I'm interested in user experience and mainly mobile prototyping. I love health food &#9829;. In my spare time usually I sketch. As for my personality, I'm a friendly, very outgoing person. Currently I live in Poznan, Poland.</p>
 
 		<h2> My skills </h2>
 

@@ -3,7 +3,7 @@ company: University
 title: Set of sketches from my university courses
 logo: ../assets/projects/university/logo.png
 cover: ../assets/projects/university/3.jpg
-flex-basis: 20rem;
+flex-basis: 10rem;
 permalink: /projects/university
 layout: project
 
@@ -13,7 +13,7 @@ layout: project
 	<img src="../assets/projects/university/1.jpg" />
 </div>
 <div class="project-image">
-	<img src="../assets/projects/university/2.jpg" />
+<img src="../assets/projects/university/7.jpg" />
 </div>
 <div class="project-image">
 	<img src="../assets/projects/university/3.jpg" />
@@ -26,4 +26,7 @@ layout: project
 </div>
 <div class="project-image">
 	<img src="../assets/projects/university/6.jpg" />
+</div>
+<div class="project-image">
+<img src="../assets/projects/university/2.jpg" />
 </div>

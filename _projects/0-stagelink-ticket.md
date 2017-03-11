@@ -1,13 +1,10 @@
 ---
 company: Stagelink.com
 title: Mockup of a ticket
-logo: ../assets/projects/stagelink/logo.png
 cover: ../assets/projects/stagelink/ticket/cover.png
 flex-basis: 14rem;
 permalink: /projects/stagelink-ticket
 layout: project
-url: https://stagelink.com
-
 ---
 
 

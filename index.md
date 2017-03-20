@@ -1,37 +1,36 @@
 ---
 layout: page
-title: About me
+title: O mnie
 permalink: /
 ---
 <div class="container">
 
 
 	<div class="item" style="flex-grow: 4;">
-		<p>My name is Magdalena and I'm a student of spatial development. Distinguishes me creativity and conscientiousness. I'm interested in user experience and mainly mobile prototyping. I love health food &#9829;. In my spare time usually I sketch. As for my personality, I'm a friendly, very outgoing person. Currently I live in Poznan, Poland.</p>
+		<p>Mam na imię Magdalena i&nbsp;jestem studentką 5 roku gospodarki przestrzennej na Uniwersytecie im. Adama Mickiewicza w Poznaniu. Wyróżnia mnie kreatywność i&nbsp;konsekwentność w&nbsp;działaniu. Interesuje się zagadnieniami związanymi z&nbsp;User experience, głównie prototypowaniem aplikacji mobilnych oraz przeprowadzaniem testów użyteczności. Uwielbiam zdrowe jedzenie&nbsp;&#9829;. W&nbsp;wolnym czasie szkicuję. Aktualnie mieszkam w&nbsp;Poznaniu.
+		</p>
 
-		<h2> Some of my skills </h2>
+		<h2> Moje umiejętności </h2>
 
 		<ul class="skills">
-			<li class="skill">Spatial development</li>
+
+			<li class="skill">Rysunek techniczny</li>
 			<li class="skill">User experience</li>
 			<li class="skill">UX design</li>
 			<li class="skill">UX research</li>
+			<li class="skill">Testy użyteczności</li>
 			<li class="skill">Architectural design</li>
-			<li class="skill">User acceptance testing</li>
-			<li class="skill">Usability tests</li>
 			<li class="skill">Mobile prototyping</li>
 			<li class="skill">Paper prototyping</li>
-			<li class="skill">Test planning</li>
-			<li class="skill">Scrum</li>
 			<li class="skill">Illustrator CC</li>
 			<li class="skill">CorelDRAW</li>
 			<li class="skill">Mockplus</li>
-			<li class="skill">Inkscape</li>
-			<li class="skill">Functional testing</li>
 			<li class="skill">Moqups</li>
+			<li class="skill">Inkscape</li>
+			<li class="skill">Scrum</li>
 		</ul>
 
-		<h2> Get in touch </h2>
+		<h2> Kontakt </h2>
 
 		+48 506 318 022
 		kontakt@magdalena-piatek.pl

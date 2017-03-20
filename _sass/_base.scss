@@ -133,11 +133,11 @@ a.project{
 
 .project div {
     display: none;
-	-webkit-transition: all 200ms linear;
-	-moz-transition: all 200ms linear;
-	-o-transition: all 200ms linear;
-	-ms-transition: all 200ms linear;
-	transition: all 200ms linear;
+	-webkit-transition: background 200ms linear;
+	-moz-transition: background 200ms linear;
+	-o-transition: background 200ms linear;
+	-ms-transition: background 200ms linear;
+	transition: background 200ms linear;
 	position: relative;
 	height: 12rem;
 	width: auto;
@@ -148,6 +148,7 @@ a.project{
 .project div p{
 	color: hsla(0, 0%, 95%, 0.9);
 	text-shadow: 1px 1px 1px hsla(0, 0%, 0%, 0.2);
+	text-align: center;
 }
 
 .project div hr{
@@ -180,6 +181,7 @@ a.project{
 .project:hover div {
     display: block;
 	background: hsla(0, 0%, 24%, 0.8);
+	transition: background 200ms;
 	color: #fff;
 	text-align: center;
 	vertical-align: middle;
@@ -202,10 +204,23 @@ a.project{
 	margin-bottom: 1rem;
 }
 
-.content p, .content li, .content ul{
+.content p, .content li, .content ul, .content a{
 	color: HSL(0, 0%, 60%);
 	font-size: 0.833333333rem;
 	line-height: 1.166666667rem;
+}
+
+.content a{
+	color: hsl(183.9, 41.5%, 64.9%);
+	transition: color 200ms;
+}
+
+.content a:hover{
+	color: #04a3ae;
+}
+
+.content p{
+	text-align: justify;
 }
 
 

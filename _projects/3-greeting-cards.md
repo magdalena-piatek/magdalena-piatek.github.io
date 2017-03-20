@@ -8,7 +8,6 @@ layout: project
 
 ---
 
-
 <div class="project-image">
 	<img src="../assets/projects/greeting-cards/1.jpg" />
 </div>
@@ -20,4 +19,10 @@ layout: project
 </div>
 <div class="project-image">
 	<img src="../assets/projects/greeting-cards/4.jpg" />
+</div>
+<div class="project-image">
+	<img src="../assets/projects/greeting-cards/5.jpg" />
+</div>
+<div class="project-image">
+	<img src="../assets/projects/greeting-cards/6.jpg" />
 </div>

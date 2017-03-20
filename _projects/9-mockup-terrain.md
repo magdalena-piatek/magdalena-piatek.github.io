@@ -19,6 +19,9 @@ url: https://mockup-terrain.com
 	<img src="../assets/projects/mockup-terrain/2.jpg" />
 </div>
 <div class="project-image">
+	<img src="../assets/projects/mockup-terrain/2-0.jpg" />
+</div>
+<div class="project-image">
 	<img src="../assets/projects/mockup-terrain/3.jpg" />
 </div>
 <div class="project-image">

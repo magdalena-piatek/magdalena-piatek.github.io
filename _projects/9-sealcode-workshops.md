@@ -25,3 +25,6 @@ url: https://sealcode.org
 <div class="project-image">
 	<img src="../assets/projects/sealcode/5.jpg" />
 </div>
+<div class="project-image">
+	<img src="../assets/projects/sealcode/6.jpg" />
+</div>

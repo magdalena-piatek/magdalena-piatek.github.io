@@ -1,6 +1,6 @@
 ---
-company: Personal
-title: Mockup of a terrain
+company: Uczelniany
+title: Projekt makiety parku
 logo: ../assets/projects/mockup-terrain/logo.png
 cover: ../assets/projects/mockup-terrain/cover.jpg
 flex-basis: 18rem;

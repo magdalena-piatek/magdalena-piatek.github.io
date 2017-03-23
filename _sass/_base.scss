@@ -107,10 +107,37 @@ li.skill {
 	padding: 0.5rem;
 	flex-grow: 1;
 	text-align: center;
-	// border-radius: 5px;
 	line-height: 1rem;
 	font-size: 0.583333333rem;
 }
+
+// @keyframes fade-in {
+//   from {
+//     opacity: 0; }
+//   to {
+//     opacity: 1; }
+// }
+//
+// // div.projects, ul.skills, .container > * {
+// //     animation: fade-in 600ms;
+// //     animation-fill-mode: both;
+// // }
+// //
+// // .project:nth-child(1), li.skill:nth-child(1){ animation-delay:100ms; }
+// // .project:nth-child(2), li.skill:nth-child(2){ animation-delay:120ms; }
+// // .project:nth-child(3), li.skill:nth-child(3){ animation-delay:140ms; }
+// // .project:nth-child(4), li.skill:nth-child(4){ animation-delay:160ms; }
+// // .project:nth-child(5), li.skill:nth-child(5){ animation-delay:180ms; }
+// // .project:nth-child(6), li.skill:nth-child(6){ animation-delay:200ms; }
+// // .project:nth-child(7), li.skill:nth-child(7){ animation-delay:220ms; }
+// // .project:nth-child(8), li.skill:nth-child(8){ animation-delay:240ms; }
+// // .project:nth-child(9), li.skill:nth-child(9){ animation-delay:260ms; }
+// // .project:nth-child(10), li.skill:nth-child(10){ animation-delay:280ms; }
+// // .project:nth-child(11), li.skill:nth-child(11){ animation-delay:300ms; }
+// // .project:nth-child(12), li.skill:nth-child(12){ animation-delay:320ms; }
+// // .project:nth-child(13), li.skill:nth-child(13){ animation-delay:340ms; }
+// // .project:nth-child(14), li.skill:nth-child(14){ animation-delay:360ms; }
+// // .project:nth-child(15), li.skill:nth-child(15){ animation-delay:380ms; }
 
 .projects{
 	line-height: 0;
@@ -123,7 +150,8 @@ a.project{
 	height: 12rem;
 	flex-basis: calc(100% / 3 - 1rem);
 	margin: .25rem;
-	background-color: hsla(0, 0%, 24%, 0.8);
+	// background-color: hsla(0, 0%, 24%, 0.8);
+	background-color: #fff;
 	flex-grow: 1;
 	background-size: cover;
 	background-position: 50%;
@@ -158,7 +186,6 @@ a.project{
 	width: 3.4rem;
 	margin: 0 auto;
 }
-
 
 .project div p.project-title{
 	color: hsla(0, 0%, 95%, 0.9);
@@ -204,24 +231,30 @@ a.project{
 	margin-bottom: 1rem;
 }
 
-.content p, .content li, .content ul, .content a{
+.content p, .content li, .content ul, .content a, .content i{
 	color: HSL(0, 0%, 60%);
 	font-size: 0.833333333rem;
 	line-height: 1.166666667rem;
 }
 
+
 .content a{
 	color: hsl(183.9, 41.5%, 64.9%);
-	transition: color 200ms;
 }
 
 .content a:hover{
 	color: #04a3ae;
+	transition: color 200ms;
 }
 
 .content p{
 	text-align: justify;
 }
+
+.content i{
+
+}
+
 
 
 .logo{

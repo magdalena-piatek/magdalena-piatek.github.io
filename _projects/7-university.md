@@ -9,11 +9,11 @@ layout: project
 
 
 ---
+
+
+
 <div class="project-image">
 	<img src="../assets/projects/university/1.jpg" />
-</div>
-<div class="project-image">
-<img src="../assets/projects/university/7.jpg" />
 </div>
 <div class="project-image">
 	<img src="../assets/projects/university/3.jpg" />
@@ -21,6 +21,24 @@ layout: project
 <div class="project-image">
 	<img src="../assets/projects/university/4.jpg" />
 </div>
+<div class="project-image">
+
+	<img src="../assets/projects/square-ratajski/cover.jpg" />
+</div>
+<div class="project-image">
+	<img src="../assets/projects/square-ratajski/1.jpg" />
+</div>
+<div class="project-image">
+	<img src="../assets/projects/square-ratajski/2.jpg" />
+</div>
+<div class="project-image">
+	<img src="../assets/projects/square-ratajski/3.jpg" />
+</div>
+<div class="project-image">
+<img src="../assets/projects/university/7.jpg" />
+</div>
+
+
 <div class="project-image">
 	<img src="../assets/projects/university/5.jpg" />
 </div>

@@ -1,16 +1,15 @@
 ---
 company: Placetag.pl
-title: UX prototyping & usability testing
+title: Prototypowanie & testy użyteczności
 cover: ../assets/projects/placetag/cover.jpg
 flex-basis: 14rem;
 permalink: /projects/placetag
 layout: project
 ---
 
+<p>W 2016 roku przejełam pracę nad projektem Placetag.pl, który został rozpoczęty 2015r. Przygotowywałam nowe makiety aplikacji webowej oraz mobilnej. Przeprowadzałam testy użyteczności z wykorzystaniem papierowego prototypu aplikacji mobilnej dla 7 użytkowników. Brałam również udział w tworzeniu końcowego interfejsu oraz jego struktury.</p>
 
-<p>Last year I've prepared mockups and wireframes of web and mobile applications for Placetag.pl. I've conducted usability tests with paper prototypes for 7 users. I took also part in creating the final designs and the structure of web page.</p>
-
-<p>About project: Placetag is the web and mobile application for saving places which you would like to visit at a later time. You can categorize saved places and share them places with your friends.</p>
+<p>O projekcie: Placetag jest projektem inżynierskim zrealizowany na Wydziale Informatyki i Matematyki UAM w Poznaniu. Placetag to webowa oraz mobilna aplikacja pozwalająca w prosty sposób zapisywać miejsca, które chcielibyśmy odwiedzić w późniejszym czasie. Użytkownik aplikacji może katalogować zapisane miejsca za pomocą tagów oraz kategorii - a także udostępniać miejsca ze swoimi znajomymi.
 
 
 <div class="project-image">
@@ -18,6 +17,9 @@ layout: project
 </div>
 <div class="project-image">
 	<img src="../assets/projects/placetag/5.jpg" />
+</div>
+<div class="project-image">
+	<img src="../assets/projects/placetag/3a.png" />
 </div>
 <div class="project-image">
 	<img src="../assets/projects/placetag/2.png" />

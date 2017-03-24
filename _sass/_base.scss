@@ -17,7 +17,7 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	align-content: stretch;
-	font-family: $bold-font;
+	font-family: $normal-font;
 	background-color: #fff;
 	position: sticky;
 	top: 0;
@@ -73,7 +73,7 @@ a:link, a:visited{
 
 h1, h2{
 	color: HSL(0, 0%, 50%);
-	font-family: $light-font;
+	font-family: $normal-font;
 	font-weight: 100;
 	text-align: left;
 }
@@ -188,7 +188,7 @@ a.project{
 	color: hsla(0, 0%, 95%, 0.9);
 	font-size: 1rem;
 	padding-bottom: 0.458333334rem;
-	font-family: $bold-font;
+	font-family: $normal-font;
 	word-spacing: -1.5px;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
@@ -196,9 +196,9 @@ a.project{
 
 .project div p.project-company{
 	text-transform: uppercase;
-	font-family: $bold-font;
+	font-family: $normal-font;
 	font-size: 0.5rem;
-	font-weight: bold;
+	font-weight: normal;
 	padding-top: 0.229166667rem;
 }
 
@@ -332,6 +332,6 @@ a.project{
 
 .site-footer span, .site-footer a{
 	color: #aaa;
-	font-family: $bold-font;
+	font-family: $normal-font;
 	font-size: 0.583333333rem;
 }

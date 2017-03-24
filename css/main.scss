@@ -2,8 +2,14 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
+@font-face {
+    font-family: 'Titillium';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Source Sans Pro'),url(//brick.a.ssl.fastly.net/fonts/titillium/400.woff) format('woff');
+}
 
-$normal-font: "Open Sans",sans-serif;
+$normal-font: "Titillium",sans-serif;
 $base-line-height: 1rem;
 
 $text-color:       #555;
@@ -14,6 +20,11 @@ $brand-color: 	  hsl(184, 95%, 35%);
 @import
 		"normalize",
         "base",
-		"rwd",
-		"fonts"
+		"rwd"
 ;
+
+
+// clearsans 61kb
+// sourcesanspro 70kb
+// titillium 33kb
+// opensans 60kb

@@ -1,9 +1,9 @@
 ---
-company: Uczelniany
+company: Uczelnia
 title: Projekt makiety parku
 logo: ../assets/projects/mockup-terrain/logo.png
 cover: ../assets/projects/mockup-terrain/cover.jpg
-flex-basis: 18rem;
+flex-basis: 20rem
 permalink: /projects/mockup-terrain
 layout: project
 url: https://mockup-terrain.com

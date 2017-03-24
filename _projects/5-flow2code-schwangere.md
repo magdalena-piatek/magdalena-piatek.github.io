@@ -1,9 +1,9 @@
 ---
-company: flow2code
-title: Mockup mobile app for German Hospitals
+company: flow2code.com
+title: Mockup aplikacji mobilnej dla niemieckich szpitali
 logo: ../assets/projects/flow2code/schwangere/1.png
 cover: ../assets/projects/flow2code/schwangere/cover.png
-flex-basis: 13rem;
+flex-basis: 13rem
 permalink: /projects/flow2code-schwangere
 layout: project
 

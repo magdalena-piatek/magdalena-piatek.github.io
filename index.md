@@ -20,12 +20,12 @@ permalink: /
 			<li class="skill">UX design</li>
 			<li class="skill">UX research</li>
 			<li class="skill">Testy użyteczności</li>
+			<li class="skill">Paper prototyping</li>
 			<li class="skill">Mobile prototyping</li>
 			<li class="skill">User centred design</li>
-			<li class="skill">Paper prototyping</li>
 			<li class="skill">Architectural design</li>
 			<li class="skill">Audyty użyteczności</li>
-			<li class="skill">Information Architecture</li>
+			<li class="skill">Information architecture</li>
 			<li class="skill">Scrum</li>
 			<li class="skill">Rysunek techniczny</li>
 			<li class="skill">Illustrator CC</li>

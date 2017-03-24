@@ -28,11 +28,13 @@ body {
 
 .site-header .profile{
 	display: inline-block;
-	background-image: url('../assets/img/me.jpg');
+	background-image: url('../assets/img/photo.jpg');
 	background-size: cover;
 	border-radius: 50%;
 	width: 2rem;
 	height: 2rem;
+	min-width: 1.5rem;
+	min-height: 1.5rem;
 	margin-right: 1rem;
 }
 
@@ -42,10 +44,13 @@ body {
 	align-items: center;
 	font-size: 0.583333333rem;
 }
+.site-header .site-title > span:nth-child(2){
+	color: hsl(0, 0%, 50%)
+}
 
-.site-header .site-title span{
-	margin-left: 1rem;
+.site-header .site-title > span:nth-child(3){
 	color: #aaa;
+	margin-left: 1rem;
 }
 
 .site-nav .page-link{
@@ -54,7 +59,7 @@ body {
 }
 
 .site-nav .page-link:hover{
-	transition: color 0.4s cubic-bezier(.39,.58,.57,1);
+	transition: color 400ms;
 	color: $brand-color;
 }
 
@@ -102,33 +107,35 @@ li.skill {
 	color: hsl(0, 0%, 60%);
 }
 
-// @keyframes fade-in {
-//   from {
-//     opacity: 0; }
-//   to {
-//     opacity: 1; }
+@keyframes fade-in {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; }
+}
+
+// .page-content, .site-footer > * {
+//     animation: fade-in 600ms;
+//     animation-fill-mode: both;
 // }
-//
-// // div.projects, ul.skills, .container > * {
-// //     animation: fade-in 600ms;
-// //     animation-fill-mode: both;
-// // }
-// //
-// // .project:nth-child(1), li.skill:nth-child(1){ animation-delay:100ms; }
-// // .project:nth-child(2), li.skill:nth-child(2){ animation-delay:120ms; }
-// // .project:nth-child(3), li.skill:nth-child(3){ animation-delay:140ms; }
-// // .project:nth-child(4), li.skill:nth-child(4){ animation-delay:160ms; }
-// // .project:nth-child(5), li.skill:nth-child(5){ animation-delay:180ms; }
-// // .project:nth-child(6), li.skill:nth-child(6){ animation-delay:200ms; }
-// // .project:nth-child(7), li.skill:nth-child(7){ animation-delay:220ms; }
-// // .project:nth-child(8), li.skill:nth-child(8){ animation-delay:240ms; }
-// // .project:nth-child(9), li.skill:nth-child(9){ animation-delay:260ms; }
-// // .project:nth-child(10), li.skill:nth-child(10){ animation-delay:280ms; }
-// // .project:nth-child(11), li.skill:nth-child(11){ animation-delay:300ms; }
-// // .project:nth-child(12), li.skill:nth-child(12){ animation-delay:320ms; }
-// // .project:nth-child(13), li.skill:nth-child(13){ animation-delay:340ms; }
-// // .project:nth-child(14), li.skill:nth-child(14){ animation-delay:360ms; }
-// // .project:nth-child(15), li.skill:nth-child(15){ animation-delay:380ms; }
+
+// .project:nth-child(1), li.skill:nth-child(1){ animation-delay:100ms; }
+// .project:nth-child(2), li.skill:nth-child(2){ animation-delay:120ms; }
+// .project:nth-child(3), li.skill:nth-child(3){ animation-delay:140ms; }
+// .project:nth-child(4), li.skill:nth-child(4){ animation-delay:160ms; }
+// .project:nth-child(5), li.skill:nth-child(5){ animation-delay:180ms; }
+// .project:nth-child(6), li.skill:nth-child(6){ animation-delay:200ms; }
+// .project:nth-child(7), li.skill:nth-child(7){ animation-delay:220ms; }
+// .project:nth-child(8), li.skill:nth-child(8){ animation-delay:240ms; }
+// .project:nth-child(9), li.skill:nth-child(9){ animation-delay:260ms; }
+// .project:nth-child(10), li.skill:nth-child(10){ animation-delay:280ms; }
+// .project:nth-child(11), li.skill:nth-child(11){ animation-delay:300ms; }
+// .project:nth-child(12), li.skill:nth-child(12){ animation-delay:320ms; }
+// .project:nth-child(13), li.skill:nth-child(13){ animation-delay:340ms; }
+// .project:nth-child(14), li.skill:nth-child(14){ animation-delay:360ms; }
+// .project:nth-child(15), li.skill:nth-child(15){ animation-delay:380ms; }
+// .project:nth-child(16), li.skill:nth-child(16){ animation-delay:400ms; }
+// .project:nth-child(17), li.skill:nth-child(17){ animation-delay:420ms; }
 
 .projects{
 	line-height: 0;
@@ -148,13 +155,14 @@ a.project{
 	list-style: none;
 }
 
+.project-title i{
+	font-size: 1.5rem;
+	top: -.115rem;
+	position: relative;
+}
+
 .project div {
     display: none;
-	-webkit-transition: background 200ms linear;
-	-moz-transition: background 200ms linear;
-	-o-transition: background 200ms linear;
-	-ms-transition: background 200ms linear;
-	transition: background 200ms linear;
 	position: relative;
 	height: 12rem;
 	width: auto;
@@ -197,7 +205,6 @@ a.project{
 .project:hover div {
     display: block;
 	background: hsla(0, 0%, 24%, 0.8);
-	transition: background 200ms;
 	color: #fff;
 	text-align: center;
 	vertical-align: middle;

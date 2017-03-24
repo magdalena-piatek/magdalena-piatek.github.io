@@ -1,9 +1,9 @@
 ---
-company: University
-title: Set of sketches from my university courses
+company: Uczelnia
+title: Zbiór rysunków z moich studiów
 logo: ../assets/projects/university/logo.png
 cover: ../assets/projects/university/3.jpg
-flex-basis: 10rem;
+flex-basis: 10rem
 permalink: /projects/university
 layout: project
 
@@ -21,19 +21,7 @@ layout: project
 <div class="project-image">
 	<img src="../assets/projects/university/4.jpg" />
 </div>
-<div class="project-image">
 
-	<img src="../assets/projects/square-ratajski/cover.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/square-ratajski/1.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/square-ratajski/2.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/square-ratajski/3.jpg" />
-</div>
 <div class="project-image">
 <img src="../assets/projects/university/7.jpg" />
 </div>

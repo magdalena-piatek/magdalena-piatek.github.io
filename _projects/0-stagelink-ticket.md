@@ -1,7 +1,7 @@
 ---
 company: Stagelink.com
 title: Mockup biletu
-cover: ../assets/projects/stagelink/ticket/cover.png
+cover: ../assets/projects/stagelink/ticket/cover.jpg
 flex-basis: 14rem
 permalink: /projects/stagelink-ticket
 layout: project

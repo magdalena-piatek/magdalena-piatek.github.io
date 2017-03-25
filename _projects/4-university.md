@@ -2,7 +2,7 @@
 company: Uczelnia
 title: Zbiór rysunków z moich studiów
 logo: ../assets/projects/university/logo.png
-cover: ../assets/projects/university/3.jpg
+cover: ../assets/projects/university/cover.jpg
 flex-basis: 10rem
 permalink: /projects/university
 layout: project

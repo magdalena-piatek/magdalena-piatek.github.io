@@ -2,7 +2,7 @@
 company: flow2code.com
 title: Mockup aplikacji BookFood
 logo: ../assets/projects/flow2code/bookfood/1.png
-cover: ../assets/projects/flow2code/bookfood/2.png
+cover: ../assets/projects/flow2code/bookfood/cover.jpg
 flex-basis: 12rem
 permalink: /projects/flow2code-bookfood
 layout: project

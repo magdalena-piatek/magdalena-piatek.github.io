@@ -9,7 +9,7 @@ layout: project
 ---
 
 
-<i>"Lepiej jest dawać niż brać, bo nie jest ważne, że się daje, tylko, że się o&nbsp;kimś myśli. ~Smerfy"</i>
+<p><i>"Lepiej jest dawać niż brać, bo nie jest ważne, że się daje, tylko, że się o&nbsp;kimś myśli."</i> ~Smerfy</p>
 
 Uwielbiam przygotowywać prezenty, a&nbsp;jeszcze lepiej kiedy wyglądają one oryginalnie. Poniżej zamieściłam kilka moich prac kartek okolicznościowych oraz opakowań prezentów.
 

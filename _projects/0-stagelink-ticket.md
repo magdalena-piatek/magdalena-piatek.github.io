@@ -29,7 +29,7 @@ layout: project
 </div>
 
 <div class="project-image">
-	<img src="../assets/projects/stagelink/ticket/cover.png" />
+	<img src="../assets/projects/stagelink/ticket/1.png" />
 </div>
 <div class="project-image">
 	<img src="../assets/projects/stagelink/ticket/2.png" />

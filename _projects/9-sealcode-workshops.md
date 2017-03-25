@@ -2,7 +2,7 @@
 company: Sealcode.org
 title: Organizacja warsztatów UX
 logo: ../assets/projects/sealcode/logo2.png
-cover: ../assets/projects/sealcode/1.jpg
+cover: ../assets/projects/sealcode/cover.jpg
 flex-basis: 12rem
 permalink: /projects/sealcode-workshops
 layout: project

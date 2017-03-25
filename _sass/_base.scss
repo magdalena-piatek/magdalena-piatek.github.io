@@ -1,12 +1,13 @@
 body {
 	font-family: $normal-font;
 	color: $text-color;
+	background: $bg-color;
 }
 
 .wrapper{
 	max-width: 48rem;
 	margin: 0 auto;
-	background: #fff;
+	background: $bg-color;
 	padding: 0rem 1rem 1rem 1rem;
 }
 
@@ -17,7 +18,7 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	align-content: stretch;
-	background-color: #fff;
+	background: $bg-color;
 	position: sticky;
 	top: 0;
 	z-index: 10;

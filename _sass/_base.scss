@@ -262,7 +262,9 @@ a.project{
 }
 
 .container .flow p {
-	flex-basis: calc( 100% - 10rem );
+	// flex-basis: calc( 100% - 10rem );
+	min-width: calc( 100% - 10rem );
+	flex-basis: 12.5rem; // prevent height p tag for android and old webkit 
 }
 
 .container .flow .photo {

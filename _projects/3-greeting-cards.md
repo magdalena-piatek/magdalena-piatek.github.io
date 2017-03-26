@@ -9,7 +9,7 @@ layout: project
 ---
 
 
-<p><i>„Lepiej jest dawać niż brać, bo nie jest ważne, że się daje, tylko, że się o&nbsp;kimś myśli.”</i> ~Smerfy</p>
+<p><i>„Wartość ma nie tylko sam podarunek, ale też sposób, w&nbsp;jaki zostanie ofiarowany.”</i> ~Hans Christian Andersen</p>
 
 Uwielbiam przygotowywać prezenty, a&nbsp;jeszcze lepiej kiedy wyglądają one oryginalnie. Poniżej zamieściłam kilka moich prac kartek okolicznościowych oraz opakowań prezentów.
 

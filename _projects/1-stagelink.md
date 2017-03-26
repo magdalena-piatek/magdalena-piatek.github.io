@@ -12,9 +12,7 @@ Zeszłego lata pracowałam na stanowisku UX researcher dla startupu <a href="htt
 Pod koniec swojej pracy przygotowałam 37-stronnicowy raport zawierający m.in.: charakterystykę badanych użytkowników, opisy przeprowadzonych testów, wskaźniki opisujące główne miary użyteczności aplikacji, a także analizy zaobserwowanych problemów oraz rekomendacje użytecznościowe, jak i&nbsp;designowe mające na celu poprawę produktu.
 
 O projekcie: Stagelink to aplikacja skierowana zarówno do fanów muzyki, jak i&nbsp;artystów-youtuberów oraz managerów. 
-Umożliwia ona głosowanie na miejscowość, do której fani chcieliby zaprosić danego artystę. Użytkownik podaje również kwotę jaką byłby w&nbsp;stanie zapłacić za bilet. Artysta ma możliowość śledzenia liczby zaproszeń do danego miasta, co ułatwia mu organizację trasy koncertowej z&nbsp;uwzględnieniem informacji o&nbsp;miejscu i&nbsp;cenach biletów. Aplikacja oferuje jednocześnie sprzedaż biletów online.
-
-
+Umożliwia ona głosowanie na miejscowość, do której fani chcieliby zaprosić danego artystę. Użytkownik podaje również kwotę jaką byłby w&nbsp;stanie zapłacić za bilet. Artysta ma możliwość śledzenia liczby zaproszeń do danego miasta, co ułatwia mu organizację trasy koncertowej z&nbsp;uwzględnieniem informacji o&nbsp;miejscu i&nbsp;cenach biletów. Aplikacja oferuje jednocześnie sprzedaż biletów online.
 
 <div class="iphone-mockup">
 	<img src="../assets/projects/stagelink/ux-research/resized-min.gif" />

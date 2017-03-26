@@ -10,18 +10,18 @@ layout: project
 
 
 
-		<p>Stworzenie nowego projektu biletu było moim zadaniem rekrutacyjnym do berlińskiego startupu <a href="https://stagelink.com">Stagelink</a>. Punktem wyjścia był aktualny bilet w&nbsp;formacie, którego mockup zamieszczono poniżej. Głównym celem zadania było zaprojektowanie nowej architektury informacji na bilecie.</p>
+<p>Stworzenie nowego projektu biletu było moim zadaniem rekrutacyjnym do berlińskiego startupu <a href="https://stagelink.com">Stagelink</a>. Punktem wyjścia był aktualny bilet w&nbsp;formacie, którego mockup zamieszczono poniżej. Głównym celem zadania było zaprojektowanie nowej architektury informacji na bilecie.</p>
 
-		<p>Wymagania dla nowego projektu:</p>
-		<ul>
-			<li>format biletu - maksymalnie 1/3 obszaru kartki A4,</li>
-			<li>przyjazny w&nbsp;druku,</li>
-			<li>zawierający wszystkie informacje z&nbsp;aktualnego biletu,</li>
-			<li>czas na wykonanie zadania - 60 min.</li>
-		</ul>
+<p>Wymagania dla nowego projektu:</p>
+<ul>
+	<li>format biletu - maksymalnie 1/3 obszaru kartki A4,</li>
+	<li>przyjazny w&nbsp;druku,</li>
+	<li>zawierający wszystkie informacje z&nbsp;aktualnego biletu,</li>
+	<li>czas na wykonanie zadania - 60 min.</li>
+</ul>
 		
 		
-O projekcie: Stagelink to aplikacja skierowana zarówno do fanów muzyki jak i&nbsp;internetowych artystów oraz managerów. Aplikacja umożliwia wysyłanie zaproszeń dla danego artysty, aby ten przyjechał do wybranego miasta i&nbsp;zorganizował koncert. Użytkownik aplikacji wybiera artystę oraz miejscowość i&nbsp;podaje kwotę jaką byłby wstanie zapłacić za bilet. Artysta może śledzić zebrane zaproszenia i&nbsp;organizować trasy koncertowe z&nbsp;uwzględnieniem informacji o miejscu i&nbsp;cenach biletów. Aplikacja oferuje jednocześnie sprzedaż biletów online.
+<p>O projekcie: Stagelink to aplikacja skierowana zarówno do fanów muzyki jak i&nbsp;internetowych artystów oraz managerów. Aplikacja umożliwia wysyłanie zaproszeń dla danego artysty, aby ten przyjechał do wybranego miasta i&nbsp;zorganizował koncert. Użytkownik aplikacji wybiera artystę oraz miejscowość i&nbsp;podaje kwotę jaką byłby wstanie zapłacić za bilet. Artysta może śledzić zebrane zaproszenia i&nbsp;organizować trasy koncertowe z&nbsp;uwzględnieniem informacji o miejscu i&nbsp;cenach biletów. Aplikacja oferuje jednocześnie sprzedaż biletów online.</p>
 
 
 <div class="project-image">

@@ -13,8 +13,7 @@ Pod koniec swojej pracy przygotowałam 37-stronnicowy raport zawierający m.in.:
 
 O projekcie: Stagelink to aplikacja skierowana zarówno do fanów muzyki, jak i&nbsp;artystów-youtuberów oraz managerów. 
 Umożliwia ona głosowanie na miejscowość, do której fani chcieliby zaprosić danego artystę. Użytkownik podaje również kwotę jaką byłby w&nbsp;stanie zapłacić za bilet. Artysta ma możliowość śledzenia liczby zaproszeń do danego miasta, co ułatwia mu organizację trasy koncertowej z&nbsp;uwzględnieniem informacji o&nbsp;miejscu i&nbsp;cenach biletów. Aplikacja oferuje jednocześnie sprzedaż biletów online.
-<!-- O projekcie: Stagelink, the fan-powered tour promoter, crowdsources live events for Internet stars, leveraging millions of online followers to create successful shows and tours for 21st century artists. On stagelink.com, artists and managers track fan-driven, real-time demand to plan, pre-finance, and de-risk tours, while reaching highly engaged audiences.
- -->
+
 
 
 <div class="iphone-mockup">

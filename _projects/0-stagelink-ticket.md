@@ -13,7 +13,7 @@ layout: project
 <p>Stworzenie nowego projektu biletu było moim zadaniem rekrutacyjnym do berlińskiego startupu <a href="https://stagelink.com">Stagelink</a>. Punktem wyjścia był aktualny bilet w&nbsp;formacie, którego mockup zamieszczono poniżej. Głównym celem zadania było zaprojektowanie nowej architektury informacji na bilecie.</p>
 
 <p>Wymagania dla nowego projektu:</p>
-<ul>
+<ul class="req">
 	<li>format biletu - maksymalnie 1/3 obszaru kartki A4,</li>
 	<li>przyjazny w&nbsp;druku,</li>
 	<li>zawierający wszystkie informacje z&nbsp;aktualnego biletu,</li>

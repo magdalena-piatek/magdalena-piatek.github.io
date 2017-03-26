@@ -100,7 +100,7 @@ li.skill {
 	vertical-align: bottom;
 	margin: .25rem;
 	padding: .5rem;
-	padding-top: .55rem;
+	padding-top: .6666666667rem;
 	flex-grow: 1;
 	text-align: center;
 	line-height: 1rem !important;
@@ -264,7 +264,7 @@ a.project{
 .container .flow p {
 	// flex-basis: calc( 100% - 10rem );
 	min-width: calc( 100% - 10rem );
-	flex-basis: 12.5rem; // prevent height p tag for android and old webkit 
+	flex-basis: 12.5rem; // prevent height p tag for android and old webkit
 }
 
 .container .flow .photo {

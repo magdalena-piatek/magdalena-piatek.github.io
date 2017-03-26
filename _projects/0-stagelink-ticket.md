@@ -12,20 +12,17 @@ layout: project
 
 	<div class="description">
 
-		<p>Stworzenie nowego projektu biletu było moim zadaniem rekrutacyjnym do berlińskiego startupu <a href="https://stagelink.com">Stagelink</a>. Głównym celem zadania było zaprojektowanie odpowiedniej architektury informacji na bilecie. Punktem startowym był aktualny bilet mieszczący się na kartce o&nbsp;formacie A4, którego mockup dla porównania zamieszczono poniżej.</p>
+		<p>Stworzenie nowego projektu biletu było moim zadaniem rekrutacyjnym do berlińskiego startupu <a href="https://stagelink.com">Stagelink</a>. Punktem wyjścia był aktualny bilet w&nbsp;formacie, którego mockup zamieszczono poniżej. Głównym celem zadania było zaprojektowanie nowej architektury informacji na bilecie.</p>
 
 		<p>Wymagania dla nowego projektu:</p>
 		<ul>
-			<li>format biletu - maksymalnie 1/3 wielkości kartki A4</li>
-			<li>przyjazny w&nbsp;druku</li>
-			<li>zawierający wszystkie informacje z&nbsp;aktualnego biletu</li>
+			<li>format biletu - maksymalnie 1/3 obszaru kartki A4,</li>
+			<li>przyjazny w&nbsp;druku,</li>
+			<li>zawierający wszystkie informacje z&nbsp;aktualnego biletu,</li>
+			<li>czas na wykonanie zadania - 60 min.</li>
 		</ul>
 	</div>
-	<!-- <div>
-		<a href={{page.url}}>
-			<div class="logo" style="background-image: url({{page.logo}})"></div>
-		</a>
-	</div> -->
+	
 </div>
 
 <div class="project-image">

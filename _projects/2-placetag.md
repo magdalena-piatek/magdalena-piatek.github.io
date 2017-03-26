@@ -7,7 +7,7 @@ permalink: /projects/placetag
 layout: project
 ---
 
-<p>W 2016 roku podjęłam się pracy nad projektem e<a href="http://placetag.pl">Placetag.pl</a>w ramach poprawy jego użyteczności. Przygotowałam nowe makiety aplikacji webowej oraz mobilnej. Następnie przeprowadziłam testy funkcjonalne z&nbsp;wykorzystaniem papierowego prototypu aplikacji mobilnej. Brałam również udział w&nbsp;tworzeniu końcowego interfejsu oraz jego struktury.</p>
+<p>W 2016 roku podjęłam się pracy nad projektem <a href="http://placetag.pl">Placetag.pl</a> w ramach poprawy jego użyteczności. Przygotowałam nowe makiety aplikacji webowej oraz mobilnej. Następnie przeprowadziłam testy funkcjonalne z&nbsp;wykorzystaniem papierowego prototypu aplikacji mobilnej. Brałam również udział w&nbsp;tworzeniu końcowego interfejsu oraz jego struktury.</p>
 
 <p>O projekcie: Placetag jest projektem inżynierskim zrealizowany na Wydziale Informatyki i&nbsp;Matematyki UAM w Poznaniu. Placetag to webowa oraz mobilna aplikacja pozwalająca w prosty sposób zapisywać miejsca, które chcielibyśmy odwiedzić w&nbsp;późniejszym czasie. Użytkownik aplikacji może katalogować zapisane miejsca za pomocą tagów oraz kategorii - a&nbsp;także udostępniać miejsca ze swoimi znajomymi.
 

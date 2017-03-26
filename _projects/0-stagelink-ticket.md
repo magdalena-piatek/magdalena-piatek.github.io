@@ -8,9 +8,7 @@ layout: project
 ---
 
 
-<div class="details">
 
-	<div class="description">
 
 		<p>Stworzenie nowego projektu biletu było moim zadaniem rekrutacyjnym do berlińskiego startupu <a href="https://stagelink.com">Stagelink</a>. Punktem wyjścia był aktualny bilet w&nbsp;formacie, którego mockup zamieszczono poniżej. Głównym celem zadania było zaprojektowanie nowej architektury informacji na bilecie.</p>
 
@@ -21,9 +19,10 @@ layout: project
 			<li>zawierający wszystkie informacje z&nbsp;aktualnego biletu,</li>
 			<li>czas na wykonanie zadania - 60 min.</li>
 		</ul>
-	</div>
-	
-</div>
+		
+		
+O projekcie: Stagelink to aplikacja skierowana zarówno do fanów muzyki jak i&nbsp;internetowych artystów oraz managerów. Aplikacja umożliwia wysyłanie zaproszeń dla danego artysty, aby ten przyjechał do wybranego miasta i&nbsp;zorganizował koncert. Użytkownik aplikacji wybiera artystę oraz miejscowość i&nbsp;podaje kwotę jaką byłby wstanie zapłacić za bilet. Artysta może śledzić zebrane zaproszenia i&nbsp;organizować trasy koncertowe z&nbsp;uwzględnieniem informacji o miejscu i&nbsp;cenach biletów. Aplikacja oferuje jednocześnie sprzedaż biletów online.
+
 
 <div class="project-image">
 	<img src="../assets/projects/stagelink/ticket/1.png" />

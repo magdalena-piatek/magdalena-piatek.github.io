@@ -7,6 +7,10 @@
 		flex-direction: column-reverse;
 	}
 
+	.container .flow p{
+		flex-basis: auto;
+	}
+
 	.container .flow .photo{
 		margin: 0 auto;
 		margin-bottom: 1rem;

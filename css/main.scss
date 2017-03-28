@@ -6,10 +6,17 @@
     font-family: 'Titillium';
     font-style: normal;
     font-weight: 400;
-    src: local('Source Sans Pro'),url(//brick.a.ssl.fastly.net/fonts/titillium/400.woff) format('woff');
+    src: local('Titillium'),url(//brick.a.ssl.fastly.net/fonts/titillium/400.woff) format('woff');
+}
+@font-face {
+    font-family: 'Titillium Light';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Titillium'),url(//brick.a.ssl.fastly.net/fonts/titillium/300.woff) format('woff');
 }
 
 $normal-font: "Titillium",sans-serif;
+$light-font: "Titillium Light",sans-serif;
 $base-line-height: 1rem;
 
 $text-color:       #555;
@@ -19,13 +26,7 @@ $bg-color: #fff;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-		"normalize",
-        "base",
-		"rwd"
+	"normalize",
+    "base",
+	"rwd"
 ;
-
-
-// clearsans 61kb
-// sourcesanspro 70kb
-// titillium 33kb
-// opensans 60kb

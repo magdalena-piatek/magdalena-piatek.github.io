@@ -120,11 +120,22 @@ li.skill {
 	width: calc( 100% + .5rem);
 }
 
+// .project-link {
+//     -webkit-transition: -webkit-transform 0.5s ease-in;
+// }
+//
+// .project-link:hover {
+//     -moz-transform: rotate(360deg) scale(1);
+//     -webkit-transform: rotate(360deg) scale(1);
+//     transform: rotate(360deg) scale(1);
+// }
+
+
 a.project{
 	height: 12rem;
 	flex-basis: calc(100% / 3 - 1rem);
 	margin: .25rem;
-	background-color: #fff;
+	background-color: rgba(247, 247, 247, 0.95);
 	flex-grow: 1;
 	background-size: cover;
 	background-position: 50%;
@@ -138,16 +149,30 @@ a.project{
 }
 
 .project div {
-    display: none;
+	// display: none;
+	display: block;
 	position: relative;
 	height: 12rem;
 	width: auto;
 	padding-top: 4.5rem;
+	opacity: 0;
+	transition: opacity .2s ease-in-out;
+	-moz-transition: opacity .2s ease-in-out;
+	-webkit-transition: opacity .2s ease-in-out;
+}
+
+.project:hover div {
+    // display: block;
+	opacity: 1;
+	background: hsla(0, 0%, 97%, 0.95);
+	color: #fff;
+	text-align: center;
+	vertical-align: middle;
 }
 
 .project div p{
-	color: hsla(0, 0%, 95%, 0.9);
-	text-shadow: 1px 1px 1px hsla(0, 0%, 0%, 0.2);
+	color: hsl(0, 0%, 66%);
+	// text-shadow: 1px 1px 1px hsla(0, 0%, 0%, 0.2);
 	text-align: center;
 }
 
@@ -160,7 +185,7 @@ a.project{
 }
 
 .project div p.project-title{
-	color: hsla(0, 0%, 95%, 0.9);
+	color: hsl(0, 0%, 40%);
 	font-size: 1.083333333rem;
 	padding-bottom: 0.458333334rem;
 	word-spacing: -1.5px;
@@ -173,15 +198,10 @@ a.project{
 	font-size: 0.666666667rem;
 	padding-top: 0.229166667rem;
 	font-family: $bold-font;
+	color: hsl(0, 0%, 40%);
 }
 
-.project:hover div {
-    display: block;
-	background: hsla(0, 0%, 24%, 0.85);
-	color: #fff;
-	text-align: center;
-	vertical-align: middle;
-}
+
 
 .project-title{
 	color: #999;

@@ -24,6 +24,7 @@ body {
 	z-index: 10;
 	padding-top: 1rem;
 	padding-bottom: 1rem;
+	font-family: $bold-font;
 }
 
 .site-header .profile{
@@ -76,6 +77,10 @@ h1, h2{
 	color: HSL(0, 0%, 62%);
 	font-weight: 300;
 	text-align: left;
+}
+
+ul.req{
+	padding-bottom: 1rem;
 }
 
 ul.skills{
@@ -167,6 +172,7 @@ a.project{
 	text-transform: uppercase;
 	font-size: 0.666666667rem;
 	padding-top: 0.229166667rem;
+	font-family: $bold-font;
 }
 
 .project:hover div {
@@ -284,7 +290,7 @@ a.project{
 	flex-flow: row wrap;
 	justify-content: center;
 	font-size: .708333333rem !important;
-	// font-weight: 600;
+	font-family: $bold-font;
 }
 
 .site-footer > *:nth-child(-n + 2){

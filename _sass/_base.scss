@@ -46,11 +46,11 @@ body {
 	font-size: .708333333rem;
 }
 .site-header .site-title > span:nth-child(2){
-	color: hsl(0, 0%, 50%)
+	color: hsl(0, 0%, 45%);
 }
 
 .site-header .site-title > span:nth-child(3){
-	color: #aaa;
+	color: hsl(0, 0%, 56%);
 	margin-left: 1rem;
 }
 .site-nav .page-link:nth-child(2){
@@ -70,11 +70,11 @@ a{
 }
 
 a:link, a:visited{
-	color: HSL(0, 0%, 50%);
+	color: hsl(0, 0%, 45%);
 }
 
 h1, h2{
-	color: HSL(0, 0%, 62%);
+	color: hsl(0, 0%, 45%);
 	font-weight: 300;
 	text-align: left;
 }
@@ -99,7 +99,7 @@ ul.skills, .projects {
 }
 
 li.skill {
-	background-color: HSL(0, 0%, 97%);
+	background-color: hsl(0, 0%, 97%);
 	display: inline-block;
 	list-style: none;
 	vertical-align: bottom;
@@ -221,7 +221,7 @@ a.project{
 }
 
 .content p, .content li, .content ul, .content a, .content i, .site-footer {
-	color: HSL(0, 0%, 66%);
+	color: hsl(0, 0%, 56%);
 	font-size: 0.916666667rem;
 	line-height: 1.25rem;
 }
@@ -326,6 +326,6 @@ a.project{
 
 
 .site-footer span, .site-footer a{
-	color: HSL(0, 0%, 50%);
+	color: hsl(0, 0%, 50%);
 	font-size: .708333333rem;
 }

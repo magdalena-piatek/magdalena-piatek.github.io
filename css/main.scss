@@ -2,21 +2,10 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-@font-face {
-    font-family: 'Titillium';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Titillium'),url(//brick.a.ssl.fastly.net/fonts/titillium/400.woff) format('woff');
-}
-@font-face {
-    font-family: 'Titillium Light';
-    font-style: normal;
-    font-weight: 300;
-    src: local('Titillium'),url(//brick.a.ssl.fastly.net/fonts/titillium/300.woff) format('woff');
-}
 
-$normal-font: "Titillium Light",sans-serif;
-$bold-font: "Titillium",sans-serif;
+
+$normal-font: "Titillium Light","Open Sans","Arial",sans-serif;
+$bold-font: "Titillium","Open Sans","Arial",sans-serif;
 $base-line-height: 1rem;
 
 $text-color:       #555;
@@ -30,3 +19,16 @@ $bg-color: #fff;
     "base",
 	"rwd"
 ;
+
+@font-face {
+    font-family: 'Titillium';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Titillium'),url(//brick.a.ssl.fastly.net/fonts/titillium/400.woff) format('woff');
+}
+@font-face {
+    font-family: 'Titillium Light';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Titillium'),url(//brick.a.ssl.fastly.net/fonts/titillium/300.woff) format('woff');
+}

@@ -4,18 +4,13 @@ title: O mnie
 permalink: /
 ---
 <div class="container">
-
-
 	<div class="item">
 		<div class="flow">
 			<p>Mam na imię Magdalena i&nbsp;jestem studentką 5 roku gospodarki przestrzennej na Uniwersytecie im. Adama Mickiewicza w Poznaniu. Wyróżnia mnie kreatywność i&nbsp;konsekwentność w&nbsp;działaniu. Interesuje się zagadnieniami związanymi z&nbsp;User experience, głównie prototypowaniem aplikacji mobilnych, testami użyteczności oraz badaniem potrzeb i&nbsp;zachowań użytkowników. Uwielbiam zdrowe jedzenie&nbsp;&#9829;. W&nbsp;wolnym czasie szkicuję. Aktualnie mieszkam w&nbsp;Poznaniu.</p>
 			<div class="photo"></div>
-			<!-- <img class="photo" src="../assets/img/photo.jpg" alt=""> -->
 		</div>
 		<h2> Moje umiejętności </h2>
-
 		<ul class="skills">
-
 			<li class="skill">User experience</li>
 			<li class="skill">UX design</li>
 			<li class="skill">UX research</li>
@@ -34,8 +29,7 @@ permalink: /
 			<li class="skill">Inkscape</li>
 			<li class="skill">CorelDRAW</li>
 			<li class="skill">GitHub</li>
-			<li class="skill">macOS</li>			
-			
+			<li class="skill">macOS</li>					
 		</ul>
 	</div>
 </div>

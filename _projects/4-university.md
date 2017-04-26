@@ -23,9 +23,18 @@ layout: project
 </div>
 
 <div class="project-image">
-<img src="../assets/projects/university/7.jpg" />
+	<img src="../assets/projects/university/7.jpg" />
 </div>
 
+<div class="project-image">
+	<img src="../assets/projects/university/8.jpg" />
+</div>
+<div class="project-image">
+	<img src="../assets/projects/university/9.jpg" />
+</div>
+<div class="project-image">
+	<img src="../assets/projects/university/10.jpg" />
+</div>
 
 <div class="project-image">
 	<img src="../assets/projects/university/5.jpg" />
@@ -35,4 +44,7 @@ layout: project
 </div>
 <div class="project-image">
 <img src="../assets/projects/university/2.jpg" />
+</div>
+<div class="project-image">
+	<img src="../assets/projects/university/11.jpg" />
 </div>

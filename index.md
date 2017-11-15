@@ -28,7 +28,6 @@ permalink: /
 			<li class="skill">Mockplus</li>
 			<li class="skill">Moqups</li>
 			<li class="skill">Inkscape</li>
-			<li class="skill">CorelDRAW</li>
 			<li class="skill">GitHub</li>
 			<li class="skill">macOS</li>					
 		</ul>

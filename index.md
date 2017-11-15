@@ -24,6 +24,7 @@ permalink: /
 			<li class="skill">Scrum</li>
 			<li class="skill">Rysunek techniczny</li>
 			<li class="skill">Illustrator CC</li>
+			<li class="skill">Sketch</li>
 			<li class="skill">Mockplus</li>
 			<li class="skill">Moqups</li>
 			<li class="skill">Inkscape</li>

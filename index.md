@@ -3,6 +3,7 @@ layout: page
 title: O mnie
 permalink: /
 ---
+
 <div class="container">
 	<div class="item">
 		<div class="flow">
@@ -28,7 +29,6 @@ permalink: /
 			<li class="skill">Mockplus</li>
 			<li class="skill">Moqups</li>
 			<li class="skill">Inkscape</li>
-			<li class="skill">CorelDRAW</li>
 			<li class="skill">GitHub</li>
 			<li class="skill">macOS</li>					
 		</ul>

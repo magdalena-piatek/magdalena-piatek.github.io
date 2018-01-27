@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html>
-	{% include head.html %}
-	<body>
-		<div class="wrapper">
-			{% include header.html %}
-			<div class="page-content">
-				{{ content }}
-			</div>
-			{% include footer.html %}
+<html prefix="og: http://ogp.me/ns#">
+{% include head.html %}
+
+<body>
+	<div class="wrapper">
+		{% include header.html %}
+		<div class="page-content">
+			{{ content }}
 		</div>
-	</body>
+		{% include footer.html %}
+	</div>
+</body>
+
 </html>

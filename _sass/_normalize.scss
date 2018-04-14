@@ -11,7 +11,7 @@ html {
 }
 
 body {
-	padding: 0 1rem;
+	// padding: 0 1rem;
 }
 
 ul,
@@ -21,6 +21,10 @@ ol {
 
 p + p {
 	margin-top: 1rem;
+}
+
+p:last-child {
+	margin-bottom: 0.33rem;
 }
 
 img {

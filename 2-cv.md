@@ -1,7 +1,5 @@
 ---
-layout: page
-title: CV
-permalink: /cv/
+layout: redirect
+title: My amazing post
+redirect_to: http://www.github.com
 ---
-
-Curriculum vitae

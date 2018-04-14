@@ -1,110 +1,115 @@
 @media all and (max-width: 48rem) {
-	.site-title > span:nth-child(3){
+	.site-title > span:nth-child(3) {
 		display: none;
 	}
 
-	.container .flow{
-		flex-direction: column-reverse;
+	.container .flow {
+		flex-direction: column;
 	}
 
-	.container .flow p{
+	.container .flow p {
 		flex-basis: auto;
 	}
 
-	.container .flow .photo{
+	.container .flow .photo {
 		margin: 0 auto;
 		margin-bottom: 1rem;
 	}
 }
 
 @media all and (max-width: 40rem) {
-	.site-header{
+	.site-header {
 		position: relative;
 	}
 }
 
 @media all and (max-width: 36rem) {
-	body{
+	body {
 		padding: 0;
 	}
-	.project-title a{
+	.project-title a {
 		display: none;
 	}
-	h1.project-title{
+	h1.project-title {
 		text-align: center;
 		font-size: 1.5rem;
 	}
 
-	.content p, .content li, .content ul, .content a, .content i, .site-footer {
+	.content p,
+	.content li,
+	.content ul,
+	.content a,
+	.content i,
+	.site-footer {
 		font-size: 0.75rem;
 		line-height: 1.083333333rem;
 	}
-	li.skill{
+	li.skill {
 		width: 100%;
 	}
 
-	.iphone-mockup{
+	.iphone-mockup {
 		background-image: none;
 		background-color: #fff;
 		height: auto;
 	}
 
-	.iphone-mockup img{
+	.iphone-mockup img {
 		width: 12rem;
 		height: 21.333333333rem;
 		margin: 0 auto;
 		top: 0;
 		left: 0;
 	}
-	.site-header .profile{
+	.site-header .profile {
 		width: 1.5rem;
 		height: 1.5rem;
 	}
-
 }
 
-
 @media all and (max-width: 30rem) {
-	h1,h2,h3{
+	h1,
+	h2,
+	h3 {
 		text-align: center;
 	}
-	li.skill{
+	li.skill {
 		font-size: 0.66666667rem !important;
 	}
-	.site-footer > div{
+	.site-footer > div {
 		flex-flow: row;
 		flex-grow: 1;
 		width: 100%;
 		justify-content: center;
 		text-align: center;
-		margin-bottom: .25rem;
+		margin-bottom: 0.25rem;
 	}
-	.site-footer > div:last-child{
+	.site-footer > div:last-child {
 		margin-bottom: 0;
 	}
-	.site-footer > :nth-child(-n+2){
+	.site-footer > :nth-child(-n + 2) {
 		padding: 0;
 	}
 }
 
 @media all and (max-width: 27rem) {
-	a.page-link:nth-child(1){
+	a.page-link:nth-child(1) {
 		display: none;
 	}
 }
 
 @media all and (max-width: 24rem) {
-	.container .flow .photo{
+	.container .flow .photo {
 		display: none;
 	}
-	.iphone-mockup img{
+	.iphone-mockup img {
 		width: 100%;
 		height: auto;
 	}
-	.site-header a.page-link:nth-child(2){
-		margin-left: .25rem;
+	.site-header a.page-link:nth-child(2) {
+		margin-left: 0.25rem;
 	}
-	.site-header .profile{
-		margin-right: .5rem;
+	.site-header .profile {
+		margin-right: 0.5rem;
 	}
 }

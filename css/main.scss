@@ -32,3 +32,48 @@ $bg-color: #fff;
     font-weight: 300;
     src: local('Titillium'),url(//brick.a.ssl.fastly.net/fonts/titillium/300.woff) format('woff');
 }
+@font-face {
+    font-family: 'Bitter';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Bitter'),url(//brick.a.ssl.fastly.net/fonts/bitter/400.woff) format('woff');
+}
+@font-face {
+    font-family: 'Oswald Light';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Oswald Light'),url(//brick.a.ssl.fastly.net/fonts/oswald/200.woff) format('woff');
+}
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Oswald'),url(//brick.a.ssl.fastly.net/fonts/oswald/400.woff) format('woff');
+}
+@font-face {
+    font-family: 'Oswald Bold';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Oswald Bold'),url(//brick.a.ssl.fastly.net/fonts/oswald/600.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'BPreplay';
+    font-style: normal;
+    font-weight: 600;
+    src: local('BPreplay'),url(//brick.a.ssl.fastly.net/fonts/bpreplay/600.woff) format('woff');
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Lato'),url(//brick.a.ssl.fastly.net/fonts/lato/200.woff) format('woff');
+}
+@font-face {
+    font-family: 'Blogger Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Blogger Sans'),url(//brick.a.ssl.fastly.net/fonts/blogger_sans/400.woff) format('woff');
+}

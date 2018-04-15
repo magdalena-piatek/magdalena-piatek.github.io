@@ -46,6 +46,8 @@ body {
 	display: flex;
 	flex-flow: column;
 	text-align: center;
+	margin-top: 0.5rem;
+
 	.profile {
 		background-image: url("../assets/img/photo.jpg");
 		background-size: cover;
@@ -55,55 +57,56 @@ body {
 		margin: 1rem auto;
 		box-shadow: 0em 0.875em 6.5em 0 #c3baba;
 	}
+}
 
-	.me {
-		* {
-			text-align: center;
-			margin: 0rem;
-		}
-		h1 {
-			// color: rgb(255, 92, 92);
-			// color: #ab6280;
-			// color: #b35253;
-			color: #fffef4;
-			font-family: "Oswald";
-			// background-color: #fdf7c3;
-			// background-color: #fcf8d5;
-			// background: linear-gradient(#fcf8d5, #fdf7c3);
-			background-color: #a665b4;
-			background-image: linear-gradient(135deg, #a665b4, #cf5858);
+.me {
+	* {
+		text-align: center;
+		margin: 0rem;
+	}
+	h1 {
+		// color: rgb(255, 92, 92);
+		// color: #ab6280;
+		// color: #b35253;
+		color: #fffef4;
+		font-family: "Oswald";
+		// background-color: #fdf7c3;
+		// background-color: #fcf8d5;
+		// background: linear-gradient(#fcf8d5, #fdf7c3);
+		background-color: #a665b4;
+		background-image: linear-gradient(135deg, #a665b4, #cf5858);
 
-			padding: 0.33rem;
-		}
-		h2 {
-			color: #c3baba;
-			font-family: "Oswald Light";
-			font-size: 1rem;
-			margin-top: 0.33rem;
-		}
+		padding: 0.33rem;
+	}
+	h2 {
+		color: #c3baba;
+		font-family: "Oswald Light";
+		font-size: 1rem;
+		margin-top: 0.33rem;
 	}
 }
 
 .site-header {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: space-around;
-	align-items: center;
 	background: $bg-color;
 	position: sticky;
-	top: 0;
-	z-index: 10;
-	padding-top: 1rem;
-	padding-bottom: 1rem;
-	margin-bottom: 0.25rem;
+	top: -1px;
+	z-index: 1;
 	font-family: "Oswald";
+	display: grid;
 
 	.site-nav {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		max-width: 36rem;
+		margin: 0 auto;
+
 		.page-link {
 			font-size: 0.708333333rem;
 			padding: 1rem 2rem;
-			color: #737373;
+			color: hsl(0, 0%, 45%);
+			display: flex;
+			align-items: center;
+			justify-content: center;
 
 			&:hover {
 				transition: color 400ms;
@@ -304,29 +307,16 @@ a.project {
 }
 
 .site-footer {
-	margin-top: 1.5rem;
-	margin-bottom: 0.5rem;
-	display: flex;
+	display: grid;
 	flex-flow: row wrap;
 	justify-content: center;
-	font-size: 0.708333333rem !important;
-	font-family: $bold-font;
-}
+	grid-template-columns: repeat(3, 1fr);
+	max-width: 26rem;
+	margin: 0.5rem auto 2rem;
 
-.site-footer > *:nth-child(-n + 2) {
-	padding-right: 0.5rem;
-}
-
-.site-footer .icon-mail {
-	padding-right: 0.125rem;
-}
-
-.site-footer i {
-	color: hsl(0, 0%, 76%);
-}
-
-.site-footer span,
-.site-footer a {
-	color: hsl(0, 0%, 50%);
-	font-size: 0.708333333rem;
+	.footer-item {
+		display: grid;
+		align-items: center;
+		justify-items: center;
+	}
 }

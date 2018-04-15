@@ -1,8 +1,8 @@
 ---
-
 layout: default
 title: O mnie
 permalink: /
+active: /
 ---
 
 <div class="container">
@@ -27,7 +27,7 @@ permalink: /
 		</p>
 	</div>
 	<div class="line"></div>
-	<h2> Moje umiejętności </h2>
+	{% comment %} <h2> Moje umiejętności </h2> {% endcomment %}
 	<ul class="skills">
 		<li class="skill">User experience</li>
 		<li class="skill">Strategia UX</li>
@@ -57,5 +57,7 @@ permalink: /
 		<li class="skill">Google Analytics</li>
 		<li class="skill">Golden Software MapViewer</li>
 	</ul>
+	<div class="line"></div>
+	
 </div>
 

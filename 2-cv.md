@@ -1,5 +1,6 @@
 ---
-layout: redirect
-title: My amazing post
-redirect_to: http://www.github.com
+layout: default
+# title: Curriculum vitae
+permalink: /cv/
+active: /cv/
 ---

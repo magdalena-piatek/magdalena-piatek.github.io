@@ -103,10 +103,15 @@ body {
 		.page-link {
 			font-size: 0.708333333rem;
 			padding: 1rem 2rem;
+			color: #737373;
 
 			&:hover {
 				transition: color 400ms;
 				color: #bb5e85;
+			}
+
+			&.active {
+				color: #000;
 			}
 		}
 	}
@@ -146,9 +151,13 @@ ul.skills,
 .projects {
 	padding: 0;
 	line-height: 2rem;
-	max-width: 35rem;
+	max-width: 35.5rem;
 	flex-flow: row wrap;
 	display: flex;
+}
+
+ul.skills {
+	margin: 0.5rem 0;
 }
 
 li.skill {
@@ -239,51 +248,6 @@ a.project {
 	padding-top: 0.229166667rem;
 	font-family: $bold-font;
 	color: hsl(0, 0%, 40%);
-}
-
-.project-title {
-	color: #999;
-}
-
-.project-title > a:nth-child(1) {
-	font-size: 1.75rem;
-}
-
-.details {
-	display: flex;
-	flex-wrap: wrap;
-}
-
-.details .description {
-	margin-bottom: 1rem;
-}
-
-.content p,
-.content li,
-.content ul,
-.content a,
-.content i,
-.site-footer {
-	color: hsl(0, 0%, 20%);
-	font-size: 0.875rem;
-	line-height: 1.4rem;
-}
-
-.content ul {
-	padding-top: 0.5rem;
-}
-
-.content a {
-	color: hsl(183.9, 41.5%, 64.9%);
-}
-
-.content a:hover {
-	color: #04a3ae;
-	transition: color 200ms;
-}
-
-.content p {
-	text-align: justify;
 }
 
 .project-image {

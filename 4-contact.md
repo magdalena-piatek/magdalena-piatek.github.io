@@ -2,6 +2,7 @@
 layout: default
 title: Kontakt
 permalink: /contact/
+active: /contact
 ---
 
 <div class="container">

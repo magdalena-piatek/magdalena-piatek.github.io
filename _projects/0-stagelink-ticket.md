@@ -1,6 +1,6 @@
 ---
 company: Stagelink.com
-title: Redesign architektury informacji biletu na koncert
+title: Redesign architektury informacji biletu Stagelink
 cover: ../assets/projects/stagelink/ticket/cover.jpg
 flex-basis: 14rem
 permalink: /projects/stagelink-ticket

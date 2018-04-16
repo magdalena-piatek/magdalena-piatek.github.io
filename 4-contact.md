@@ -3,6 +3,7 @@ layout: default
 title: Kontakt
 permalink: /contact/
 active: /contact
+grid-column: 5
 ---
 
 <div class="container">

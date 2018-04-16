@@ -3,6 +3,7 @@ layout: default
 title: O mnie
 permalink: /
 active: /
+grid-column: 1
 ---
 
 <div class="container">
@@ -58,6 +59,5 @@ active: /
 		<li class="skill">Golden Software MapViewer</li>
 	</ul>
 	<div class="line"></div>
-	
-</div>
 
+</div>

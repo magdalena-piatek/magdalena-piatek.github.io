@@ -1,16 +1,15 @@
 <header class="site-header">
 	<nav class="site-nav">
 
-			
-			{% for node in site.pages %} {% if node.title %}
-			{% if node.url == page.url %}
-			<a class="page-link active" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
-			{% else %}
-			<a class="page-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
-			{% endif %}
-			{% endif %} {% endfor %}
 
-			<a class="page-link" target="_blank" href="http://example.com">Curriculum vitae</a>
+		{% for node in site.pages %} {% if node.title %} {% if node.url == page.url %}
+		<a class="page-link active" style="grid-column: {{node.grid-column}}" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+		{% else %}
+		<a class="page-link" style="grid-column: {{node.grid-column}}" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+		{% endif %} {% endif %} {% if node.file == true %}
+		<a class="page-link" target="_blank" style="grid-column: 2" href="http://example.com">Curriculum vitae</a>
+		{% endif %} {% endfor %}
+
 
 
 	</nav>

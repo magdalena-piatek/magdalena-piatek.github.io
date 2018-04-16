@@ -4,13 +4,11 @@
 
 <body>
 
-	<div class="full-page-wrapper">
-		<div class="wrapper">{% include header.html %} {% include profile.html %}
-			<div class="page-content">
-				{{ content }}
-			</div>
-			{% include footer.html %}
+	<div class="wrapper">{% include header.html %} {% include profile.html %}
+		<div class="page-content animation-content">
+			{{ content }}
 		</div>
+		{% include footer.html %}
 	</div>
 </body>
 

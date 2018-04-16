@@ -3,8 +3,10 @@
 	padding: 0px;
 	box-sizing: border-box;
 	text-rendering: optimizelegibility;
-	font-smooth: auto;
-	-webkit-font-smoothing: auto;
+	font-smoothing: subpixel-antialiased;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-kerning: auto;
 }
 
 body {
@@ -20,10 +22,9 @@ body {
 	background: #fff;
 }
 
-.full-page-wrapper {
-	animation: fade-in 100ms;
+.animation-content {
+	animation: fade-in 400ms;
 	animation-delay: 0s;
-	animation-delay: 125ms;
 }
 @-webkit-keyframes fade-in {
 	0% {
@@ -93,20 +94,22 @@ body {
 	z-index: 1;
 	font-family: "Oswald";
 	display: grid;
+	border-bottom: 1px solid hsla(0, 0%, 0%, 0.04);
 
 	.site-nav {
 		display: grid;
-		grid-template-columns: repeat(4, 1fr);
+		grid-template-columns: repeat(5, 1fr);
 		max-width: 36rem;
 		margin: 0 auto;
 
 		.page-link {
 			font-size: 0.708333333rem;
-			padding: 1rem 2rem;
+			padding: 1rem;
 			color: hsl(0, 0%, 45%);
 			display: flex;
 			align-items: center;
 			justify-content: center;
+			width: 7rem;
 
 			&:hover {
 				transition: color 400ms;
@@ -180,23 +183,24 @@ li.skill {
 	flex-flow: row;
 	flex-wrap: wrap;
 	justify-content: center;
-	// flex-basis: 36rem;
+	max-width: 42rem;
+	margin: 0 auto;
 
 	.project-link {
-		width: 12rem;
 		flex-basis: 12rem;
 		flex-shrink: 1;
 		margin: 1rem;
 		flex-grow: 0.25;
 
 		.cover {
-			height: 7.166666667rem;
+			height: 7rem;
 			background-size: cover;
+			background-repeat: no-repeat;
 			border: 1px solid rgba(0, 0, 0, 0.15);
 		}
 
 		.description {
-			padding-top: 0.5rem;
+			padding-top: 1rem;
 
 			h3 {
 				font-size: 1rem;
@@ -208,6 +212,37 @@ li.skill {
 			p {
 				color: #00000080;
 				font-size: 0.875rem;
+				margin-bottom: 0.5rem;
+			}
+		}
+
+		.meta {
+			display: flex;
+			flex-flow: row;
+			flex-wrap: nowrap;
+			align-items: center;
+
+			.badge {
+				background-color: hsl(0, 7%, 92%);
+				background-size: cover;
+				background-repeat: no-repeat;
+				border-radius: 50%;
+				width: 1.5rem;
+				height: 1.5rem;
+				margin-right: 0.25rem;
+			}
+
+			.data {
+				display: flex;
+				flex-flow: column;
+
+				* {
+					line-height: 0.933333333rem;
+				}
+
+				.company {
+					color: #cf5858;
+				}
 			}
 		}
 	}

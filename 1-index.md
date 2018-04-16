@@ -3,9 +3,10 @@ layout: default
 title: O mnie
 permalink: /
 active: /
+grid-column: 1
 ---
 
-<div class="container">
+<div class="container animation-content">
 	<div class="about">
 		<p>
 			Cześć, nazywam się Magdalena Piątek. Specjalizuję się w&nbsp;strategii UX, badaniach potrzeb i&nbsp;zachowań użytkowników
@@ -58,6 +59,5 @@ active: /
 		<li class="skill">Golden Software MapViewer</li>
 	</ul>
 	<div class="line"></div>
-	
-</div>
 
+</div>

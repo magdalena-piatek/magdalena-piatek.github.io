@@ -13,6 +13,13 @@ layout: default
 				<h3 class="title">{{ project.title }}</h3>
 				<p class="short-description">{{ project.short-description }}</p>
 			</div>
+			<div class="meta">
+				<div class="badge" style="background-image: url({{ project.badge }});"></div>
+				<div class="data">
+					<div class="company">{{project.company}}</div>
+					<div class="datetime">{{project.datetime}}</div>
+				</div>
+			</div>
 		</a>
 	{% endfor %}
 	</div>

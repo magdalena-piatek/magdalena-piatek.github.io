@@ -66,25 +66,23 @@ body {
 		margin: 0rem;
 	}
 	h1 {
-		// color: rgb(255, 92, 92);
-		// color: #ab6280;
-		// color: #b35253;
 		color: #fffef4;
 		font-family: "Oswald";
-		// background-color: #fdf7c3;
-		// background-color: #fcf8d5;
-		// background: linear-gradient(#fcf8d5, #fdf7c3);
 		background-color: #a665b4;
 		background-image: linear-gradient(135deg, #a665b4, #cf5858);
-
-		padding: 0.33rem;
+		padding: 0.5rem;
 	}
 	h2 {
 		color: #c3baba;
 		font-family: "Oswald Light";
 		font-size: 1rem;
-		margin-top: 0.33rem;
+		margin-top: 0.5rem;
 	}
+}
+
+.site-header.past {
+	background-color: #a665b4;
+	background-image: linear-gradient(135deg, #a665b4, #cf5858);
 }
 
 .site-header {
@@ -95,6 +93,7 @@ body {
 	font-family: "Oswald";
 	display: grid;
 	border-bottom: 1px solid hsla(0, 0%, 0%, 0.04);
+	transition: all 0.25s ease;
 
 	.site-nav {
 		display: grid;
@@ -289,6 +288,14 @@ li.skill {
 		}
 	}
 }
+
+// .contact-photo {
+// 	background-image: url("../assets/img/contact.jpg");
+// 	background-repeat: no-repeat;
+// 	background-size: cover;
+// 	width: 100%;
+// 	height: auto;
+// }
 
 .site-footer {
 	display: grid;

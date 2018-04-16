@@ -1,6 +1,6 @@
 ---
 company: Stagelink.com
-title: Mockup biletu
+title: Redesign architektury informacji biletu na koncert
 cover: ../assets/projects/stagelink/ticket/cover.jpg
 flex-basis: 14rem
 permalink: /projects/stagelink-ticket

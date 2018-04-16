@@ -19,8 +19,29 @@
 	<meta property="og:locale:alternate" content="en_GB" />
 	<meta property="og:locale:alternate" content="de_DE" />
 
+	<link rel="stylesheet" href="//brick.freetls.fastly.net/Alegreya+Sans:400">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="stylesheet" href="{{ " /css/main.css " | prepend: site.baseurl }}">
+	<!-- <script>
+		function load() {
+			var siteHeader = document.querySelector(".site-header");
+			var mainbottom = siteHeader.offsetTop + siteHeader.offsetHeight;
+			var wrapper = document.querySelector(".wrapper");
+			console.log('loaded');
+
+			window.onscroll = function () {
+				console.log("scrolling");
+				// stop = Math.round(window.pageYOffset);
+				stop = window.pageYOffset;
+				if (stop > mainbottom) {
+					siteHeader.classList.add("past");
+				} else {
+					siteHeader.classList.remove("past");
+				}
+			};
+		}
+		window.onload = load;
+	</script> -->
 	<!-- Matomo -->
 	<script type="text/javascript">
 		var _paq = _paq || [];
@@ -32,8 +53,15 @@
 			var u = "//piwik.placetag.pl/";
 			_paq.push(['setTrackerUrl', u + 'piwik.php']);
 			_paq.push(['setSiteId', '1']);
-			var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
-			g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u + 'piwik.js'; s.parentNode.insertBefore(g, s);
+			var d = document,
+				g = d.createElement('script'),
+				s = d.getElementsByTagName('script')[0];
+			g.type = 'text/javascript';
+			1
+			g.async = true;
+			g.defer = true;
+			g.src = u + 'piwik.js';
+			s.parentNode.insertBefore(g, s);
 		})();
 	</script>
 	<noscript>

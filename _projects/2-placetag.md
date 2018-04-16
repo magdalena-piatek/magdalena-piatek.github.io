@@ -6,7 +6,7 @@ flex-basis: 14rem
 permalink: /projects/placetag
 layout: project
 short-description: Min Vid is becoming a Shield experiment, and will remain installed for current users for as long as possible while we explore implementing…
-badge: ../assets/badges/placetag.png
+badge: ../assets/badges/placetag2.png
 datetime: 2016
 ---
 

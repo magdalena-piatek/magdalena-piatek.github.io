@@ -22,26 +22,46 @@
 	<link rel="stylesheet" href="//brick.freetls.fastly.net/Alegreya+Sans:400">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="stylesheet" href="{{ " /css/main.css " | prepend: site.baseurl }}">
-	<!-- <script>
-		function load() {
-			var siteHeader = document.querySelector(".site-header");
-			var mainbottom = siteHeader.offsetTop + siteHeader.offsetHeight;
-			var wrapper = document.querySelector(".wrapper");
-			console.log('loaded');
+	<script>
+		// function scrollFunction() {
+		// 	document.querySelector(".me h1").style.visibility = "hidden"; //To hide the element.
+		// }
 
-			window.onscroll = function () {
-				console.log("scrolling");
-				// stop = Math.round(window.pageYOffset);
-				stop = window.pageYOffset;
-				if (stop > mainbottom) {
-					siteHeader.classList.add("past");
-				} else {
-					siteHeader.classList.remove("past");
-				}
-			};
-		}
-		window.onload = load;
-	</script> -->
+		// window.onscroll = scrollFunction;
+
+		// function load() {
+		// 	var siteHeader = document.querySelector(".site-header");
+		// 	var mainbottom = siteHeader.offsetTop + siteHeader.offsetHeight;
+		// 	var wrapper = document.querySelector(".wrapper");
+		// 	console.log('loaded');
+
+		// 	window.onscroll = function () {
+		// 		console.log("scrolling");
+		// 		// stop = Math.round(window.pageYOffset);
+		// 		stop = window.pageYOffset;
+		// 		console.log(stop, mainbottom)
+		// 		if (stop > mainbottom) {
+		// 			siteHeader.classList.add("past");
+		// 		} else {
+		// 			siteHeader.classList.remove("past");
+		// 		}
+		// 	};
+		// }
+		// window.onload = load;
+
+
+		window.onscroll = function () {
+			var navbar = document.querySelector(".site-header");
+			var title = document.querySelector(".me h1");
+			if (window.pageYOffset > 280) {
+				navbar.classList.add("past");
+				title.classList.add("past");
+			} else {
+				navbar.classList.remove("past");
+				title.classList.remove("past");
+			}
+		};
+	</script>
 	<!-- Matomo -->
 	<script type="text/javascript">
 		var _paq = _paq || [];

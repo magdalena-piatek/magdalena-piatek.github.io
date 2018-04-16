@@ -5,9 +5,10 @@ cover: ../assets/projects/greeting-cards/cover.jpg
 flex-basis: 16rem
 permalink: /projects/greeting-cards
 layout: project
-
+short-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+badge: ../assets/badges/heart.png
+datetime: 2016-2018
 ---
-
 
 <p><i>„Wartość ma nie tylko sam podarunek, ale też sposób, w&nbsp;jaki zostanie ofiarowany.”</i> ~Hans Christian Andersen</p>
 

@@ -1,11 +1,13 @@
 ---
 company: Stagelink.com
-title: UX Research
+title: Testy użyteczności aplikacji Stagelink
 cover: ../assets/projects/stagelink/ux-research/cover.jpg
 flex-basis: 12rem
 permalink: /projects/stagelink-ux-research
 layout: project
 short-description: Voice Fill is now available at the Firefox Add-ons website for all Firefox users. Test Pilot users will be automatically migrated to this…
+badge: ../assets/badges/stagelink.png
+datetime: 2016
 ---
 
 Zeszłego lata pracowałam na stanowisku UX researcher dla startupu <a href="https://stagelink.com">Stagelink</a> w Berlinie. Podczas mojej 3&nbsp;miesięcznej pracy badałam potrzeby rynkowe użytkowników portalu Stagelink. Identyfikowałam również mocne i&nbsp;słabe strony aplikacji oraz różnice w&nbsp;stosunku do konkurencyjnych serwisów. Współpracowałam z programistami, UX designerem oraz marketingowcami. Opracowałam scenariusze testowe i&nbsp;przeprowadziłam testy użyteczności z&nbsp;9&nbsp;zaproszonymi użytkownikami. Badania odbyły się z&nbsp;wykorzystaniem prawdziwej, produkcyjnej wersji aplikacji Stagelink. Podczas każdego testu użytkownik otrzymywał telefon z&nbsp;uruchomioną stroną internetową, na której wykonywał określone zadania. Testy były rejestrowane - zapisywany był dźwięk oraz ekran telefonu (fragment testu został zamieszczony poniżej w&nbsp;formie animacji).

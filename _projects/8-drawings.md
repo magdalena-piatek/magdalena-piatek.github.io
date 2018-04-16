@@ -6,12 +6,12 @@ cover: ../assets/projects/drawings/cover.jpg
 flex-basis: 14rem
 permalink: /projects/drawings
 layout: project
-
-
+short-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+badge: ../assets/badges/heart.png
+datetime: 2016-2018
 ---
 
 W wolnym czasie lubię szkicować oraz rysować zarówno na zwykłej kartce papieru jak i&nbsp;w&nbsp;programach przeznaczonych do tworzenia grafiki wektorowej. Poniżej zamieściłam kilka moich prac.
-
 
 <div class="project-image">
 	<img src="../assets/projects/drawings/1.jpg" />

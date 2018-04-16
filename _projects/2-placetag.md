@@ -6,6 +6,8 @@ flex-basis: 14rem
 permalink: /projects/placetag
 layout: project
 short-description: Min Vid is becoming a Shield experiment, and will remain installed for current users for as long as possible while we explore implementing…
+badge: ../assets/badges/placetag.png
+datetime: 2016
 ---
 
 <p>W 2016 roku podjęłam się pracy nad projektem <a href="http://placetag.pl">Placetag.pl</a> w ramach poprawy jego użyteczności. Przygotowałam nowe makiety aplikacji webowej oraz mobilnej. Następnie przeprowadziłam testy funkcjonalne z&nbsp;wykorzystaniem papierowego prototypu aplikacji mobilnej. Brałam również udział w&nbsp;tworzeniu końcowego interfejsu oraz jego struktury.</p>

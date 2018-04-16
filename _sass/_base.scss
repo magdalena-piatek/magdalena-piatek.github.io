@@ -88,8 +88,11 @@ body {
 }
 
 .site-header.past {
-	background-color: #a665b4;
-	background-image: linear-gradient(135deg, #a665b4, #cf5858);
+	background-color: hsla(0, 0%, 100%, 0.4);
+}
+
+.site-header.past::before {
+	filter: blur(5px);
 }
 
 .site-header {

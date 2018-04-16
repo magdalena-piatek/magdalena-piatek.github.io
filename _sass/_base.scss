@@ -150,8 +150,7 @@ ul.req {
 	padding-bottom: 1rem;
 }
 
-ul.skills,
-.projects {
+ul.skills {
 	padding: 0;
 	line-height: 2rem;
 	max-width: 35.5rem;
@@ -177,92 +176,41 @@ li.skill {
 }
 
 .projects {
-	line-height: 0;
-	position: relative;
-	left: -0.25rem;
-	width: calc(100% + 0.5rem);
-}
+	display: flex;
+	flex-flow: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	// flex-basis: 36rem;
 
-a.project {
-	height: 12rem;
-	flex-basis: calc(100% / 3 - 1rem);
-	margin: 0.25rem;
-	background-color: rgba(247, 247, 247, 0.95);
-	flex-grow: 1;
-	background-size: cover;
-	background-position: 50%;
-	list-style: none;
-}
+	.project-link {
+		width: 12rem;
+		flex-basis: 12rem;
+		flex-shrink: 1;
+		margin: 1rem;
+		flex-grow: 0.25;
 
-.project-title i {
-	font-size: 1.5rem;
-	top: -0.115rem;
-	position: relative;
-}
+		.cover {
+			height: 7.166666667rem;
+			background-size: cover;
+			border: 1px solid rgba(0, 0, 0, 0.15);
+		}
 
-.project div {
-	display: block;
-	position: relative;
-	height: 12rem;
-	width: auto;
-	padding-top: 4.5rem;
-	opacity: 0;
-	visibility: hidden;
-	transition: opacity 0.4s ease-in-out;
-	-moz-transition: opacity 0.4s ease-in-out;
-	-webkit-transition: opacity 0.4s ease-in-out;
-}
+		.description {
+			padding-top: 0.5rem;
 
-.project:hover div {
-	visibility: visible;
-	opacity: 1;
-	background: hsla(0, 0%, 97%, 0.95);
-	color: #fff;
-	text-align: center;
-	vertical-align: middle;
-}
+			h3 {
+				font-size: 1rem;
+				line-height: 1.1rem;
+				color: hsla(0, 0%, 0%, 0.8);
+				margin-bottom: 0.5rem;
+			}
 
-.project div p {
-	color: hsl(0, 0%, 66%);
-
-	text-align: center;
-}
-
-.project div hr {
-	border: 0;
-	height: 2px;
-	background-color: hsl(0, 0%, 73%);
-	width: 3.4rem;
-	margin: 0 auto;
-}
-
-.project div p.project-title {
-	color: hsl(0, 0%, 40%);
-	font-size: 1.083333333rem;
-	padding-bottom: 0.458333334rem;
-	word-spacing: -1.5px;
-	padding-left: 0.5rem;
-	padding-right: 0.5rem;
-}
-
-.project div p.project-company {
-	text-transform: uppercase;
-	font-size: 0.666666667rem;
-	padding-top: 0.229166667rem;
-	font-family: $bold-font;
-	color: hsl(0, 0%, 40%);
-}
-
-.project-image {
-	margin-top: 1rem;
-}
-
-.project-image:last-child {
-	margin-bottom: 1rem;
-}
-
-.project-image img {
-	width: 100%;
+			p {
+				color: #00000080;
+				font-size: 0.875rem;
+			}
+		}
+	}
 }
 
 .iphone-mockup {

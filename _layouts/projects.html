@@ -1,19 +1,19 @@
 ---
 layout: default
 ---
-<header class="header">
+{% comment %} <header class="header">
 	<h1 class="title">{{ page.title }}</h1>
-</header>
+</header> {% endcomment %}
 <div class="content">
 	<div class="projects">
 	{% for project in site.projects %}
-	<a class="project-link project" href={{project.permalink}} style="background-image: url({{ project.cover }}); flex-basis: {{project.flex-basis}};">
-		<div>
-			<p class="project-title">{{ project.title }}</p>
-			<hr />
-			<p class="project-company">{{ project.company }}</p>
-		</div>
-	</a>
+		<a class="project-link" href={{project.permalink}}>
+			<div class="cover" style="background-image: url({{ project.cover }});"></div>
+			<div class="description">
+				<h3 class="title">{{ project.title }}</h3>
+				<p class="short-description">{{ project.short-description }}</p>
+			</div>
+		</a>
 	{% endfor %}
 	</div>
 </div>

@@ -10,13 +10,14 @@
 }
 
 body {
-	font-family: "Alegreya Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue";
+	font-family: "Alegreya Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+		Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue";
 	color: hsl(0, 0%, 20%);
 	background: #fff;
 }
 
 .wrapper {
-	margin: 0 auto; // margin-top: 1rem;
+	margin: 0 auto;
 	background: #fff;
 }
 
@@ -46,7 +47,7 @@ body {
 .site-title {
 	display: flex;
 	flex-flow: column;
-	text-align: center; // margin-top: 0.5rem;
+	text-align: center;
 	margin-top: 3.5rem;
 	.profile {
 		background-image: url("../assets/img/photo.jpg");
@@ -58,7 +59,6 @@ body {
 		box-shadow: 0em 0.875em 6.5em 0 #c3baba;
 		transition: none;
 		&.past {
-			// box-shadow: 0em 0.875em 6.5em 0 #fff;
 			transform: translateY(-3rem);
 		}
 	}
@@ -96,11 +96,11 @@ body {
 }
 
 .site-header.past {
-	background-color: #fff
+	background-color: #fff;
 }
 
 .site-header {
-	background: $bg-color; // position: sticky;
+	background: $bg-color;
 	position: fixed;
 	width: 100%;
 	top: 0;
@@ -131,16 +131,16 @@ body {
 		}
 		.logo {
 			font-size: 0.708333333rem;
-			padding: 1rem; // color: #737373;
+			padding: 1rem;
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			width: 8rem; // color: #cf5858;
+			width: 8rem;
 			background: linear-gradient(135deg, #a665b4, #cf5858);
 			-webkit-background-clip: text;
 			-webkit-text-fill-color: hsla(0, 55.3%, 57.8%, 0.75);
-			-webkit-opacity: 1; // background: white;
-			transform: translateY(-3rem);
+			-webkit-opacity: 1;
+			// transform: translateY(0rem);
 			transition: all 400ms ease;
 			-webkit-touch-callout: none;
 			-webkit-user-select: none;
@@ -148,8 +148,10 @@ body {
 			-moz-user-select: none;
 			-ms-user-select: none;
 			user-select: none;
+			opacity: 0;
 			&.past {
-				transform: translateY(0rem);
+				// transform: translateY(0rem);
+				opacity: 1;
 			}
 		}
 	}
@@ -262,8 +264,6 @@ li.skill {
 					line-height: 0.8rem;
 				}
 				.company {
-					// color: #cf5858;
-					// color: #00000080;
 				}
 			}
 		}
@@ -310,13 +310,6 @@ li.skill {
 	}
 }
 
-// .contact-photo {
-// 	background-image: url("../assets/img/contact.jpg");
-// 	background-repeat: no-repeat;
-// 	background-size: cover;
-// 	width: 100%;
-// 	height: auto;
-// }
 .site-footer {
 	display: grid;
 	flex-flow: row wrap;

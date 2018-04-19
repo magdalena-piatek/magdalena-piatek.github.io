@@ -14,10 +14,10 @@ datetime: 2016
 
 <p>Wymagania dla nowego projektu:</p>
 <ul class="req">
-	<li>format biletu - maksymalnie 1/3 obszaru kartki A4,</li>
-	<li>przyjazny w&nbsp;druku,</li>
-	<li>zawierający wszystkie informacje z&nbsp;aktualnego biletu,</li>
-	<li>czas na wykonanie zadania - 60 min.</li>
+	<li><p>format biletu - maksymalnie 1/3 obszaru kartki A4,</p></li>
+	<li><p>przyjazny w&nbsp;druku,</p></li>
+	<li><p>zawierający wszystkie informacje z&nbsp;aktualnego biletu,</p></li>
+	<li><p>czas na wykonanie zadania - 60 min.</p></li>
 </ul>
 
 <p>O projekcie: Stagelink to aplikacja skierowana zarówno do fanów muzyki, jak i&nbsp;artystów-youtuberów oraz managerów.

@@ -58,6 +58,4 @@ grid-column: 1
 		<li class="skill">Google Analytics</li>
 		<li class="skill">Golden Software MapViewer</li>
 	</ul>
-	<div class="line"></div>
-
 </div>

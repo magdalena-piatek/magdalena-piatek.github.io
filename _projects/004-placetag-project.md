@@ -5,7 +5,7 @@ cover: ../assets/projects/placetag/cover.jpg
 flex-basis: 14rem
 permalink: /projects/placetag
 layout: project
-short-description: Min Vid is becoming a Shield experiment, and will remain installed for current users for as long as possible while we explore implementing…
+short-description: W pierwszym kwartale 2016 roku podjęłam się pracy nad projektem Placetag.pl w ramach poprawy jego użyteczności
 badge: ../assets/badges/placetag2.png
 datetime: 2016
 methods: to do uzupełnić metody, narzędzia

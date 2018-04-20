@@ -5,13 +5,13 @@ cover: ../assets/projects/stagelink/ux-research/cover_.png
 flex-basis: 12rem
 permalink: /projects/stagelink-ux-research
 layout: project
-short-description: W 2016 r. pracowałam na stanowisku UX researcher dla startupu Stagelink w Berlinie.
+short-description: W 2016 roku pracowałam na stanowisku UX researcher dla startupu Stagelink w&nbsp;Berlinie
 badge: ../assets/badges/stagelink.png
 datetime: 2016
 methods: to do uzupełnić metody, narzędzia
 ---
 
-W 2016&nbsp;r. pracowałam na stanowisku UX researcher dla startupu <a href="https://stagelink.com">Stagelink</a>&nbsp;w Berlinie. Moją 3-miesięczną pracą rozpoczęłam od określenia podstawowego segmentu klientów oraz wskazania problemu, który zamierzałam rozwiązać. Moim celem było uzyskanie informacji dotyczących otoczenia rynkowego, organizacji, konkurencji oraz innych czynników, które mogły mieć wpływ na przyszłe sukcesy startupu. Badałam potrzeby rynkowe użytkowników portalu Stagelink oraz identyfikowałam mocne&nbsp;i słabe strony aplikacji&nbsp;i różnice w stosunku do konkurencyjnych serwisów. Przekształcenie dużej ilości informacji w mniejsze, bardziej praktyczne porcje pozwoliło na uzyskanie merytorycznej wiedzy, co stanowiło podstawę do dalszych działań.
+W 2016&nbsp;r. pracowałam na stanowisku UX researcher dla startupu <a href="https://stagelink.com">Stagelink</a>w&nbsp;Berlinie. Moją 3-miesięczną pracą rozpoczęłam od określenia podstawowego segmentu klientów oraz wskazania problemu, który zamierzałam rozwiązać. Moim celem było uzyskanie informacji dotyczących otoczenia rynkowego, organizacji, konkurencji oraz innych czynników, które mogły mieć wpływ na przyszłe sukcesy startupu. Badałam potrzeby rynkowe użytkowników portalu Stagelink oraz identyfikowałam mocne i&nbsp;słabe strony aplikacji i&nbsp;różnice w&nbsp;stosunku do konkurencyjnych serwisów. Przekształcenie dużej ilości informacji w&nbsp;mniejsze, bardziej praktyczne porcje pozwoliło na uzyskanie merytorycznej wiedzy, co stanowiło podstawę do dalszych działań.
 
 <div class="iphone-mockup">
 	<img src="../assets/projects/stagelink/ux-research/resized-min.gif" />

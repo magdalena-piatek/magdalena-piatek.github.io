@@ -2,7 +2,6 @@
 company: Stagelink.com
 title: Badania użyteczności aplikacji Stagelink
 cover: ../assets/projects/stagelink/ux-research/cover_.png
-flex-basis: 12rem
 permalink: /projects/stagelink-ux-research
 layout: project
 short-description: W 2016 roku pracowałam na stanowisku UX researcher dla startupu Stagelink w&nbsp;Berlinie

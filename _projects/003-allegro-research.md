@@ -2,7 +2,6 @@
 company: Allegro
 title: Jak kupują w Internecie ludzie powyżej 50 roku życia?
 cover: ../assets/projects/allegro/cover.jpg
-flex-basis: 12rem
 permalink: /projects/allegro-ux-research
 layout: project
 short-description: Badanie miało na celu poznanie zachowań związanych z&nbsp;kupowaniem online przez osoby w&nbsp;wieku 50 i&nbsp;więcej lat

@@ -3,7 +3,6 @@ company: Studia
 title: Zbiór moich rysunków z studiów
 logo: ../assets/projects/university/logo.png
 cover: ../assets/projects/university/cover.jpg
-flex-basis: 10rem
 permalink: /projects/university
 layout: project
 short-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam

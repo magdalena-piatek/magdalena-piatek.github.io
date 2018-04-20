@@ -2,7 +2,6 @@
 company: Osobiste
 title: Kartki okolicznościowe & prezenty
 cover: ../assets/projects/greeting-cards/cover.jpg
-flex-basis: 16rem
 permalink: /projects/greeting-cards
 layout: project
 short-description: Uwielbiam przygotowywać prezenty, a jeszcze lepiej kiedy wyglądają one oryginalnie

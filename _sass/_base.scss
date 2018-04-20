@@ -373,11 +373,15 @@ li.skill {
 		margin-bottom: 0.5rem;
 
 		.project-image {
-			display: inline-flex;
+			display: inline-block;
 			width: 100%;
 			// height: 100%;
 			border: 1px solid rgba(0, 0, 0, 0.15);
 			margin: 1rem 0;
+
+			img {
+				width: 100%;
+			}
 		}
 
 		h2 {

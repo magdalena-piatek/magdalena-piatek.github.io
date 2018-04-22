@@ -24,9 +24,10 @@ W wolnym czasie lubię szkicować oraz rysować zarówno na zwykłej kartce papi
 	<li class="item" href="http://assets.imgix.net/unsplash/motorbike.jpg?w=800" style="background-image: url(http://assets.imgix.net/unsplash/motorbike.jpg?w=100);"></li>
 	<li class="item" href="http://assets.imgix.net/unsplash/hotairballoon.jpg?w=800" style="background-image: url(http://assets.imgix.net/unsplash/hotairballoon.jpg?w=100);"></li>
 </ul>
-<script src="../assets/scripts/gallery/luminous.js"></script>
+<script src="../assets/scripts/gallery/luminous.min.js"></script>
 <script>
 	new LuminousGallery(document.querySelectorAll('.item'), {}, {
+		closeOnScroll: true
 		// caption: function(trigger) {
 		// 	return trigger.querySelector('img').getAttribute('alt');
 		// }

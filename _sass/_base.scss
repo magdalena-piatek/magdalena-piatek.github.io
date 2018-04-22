@@ -21,29 +21,6 @@ body {
 	background: #fff;
 }
 
-// .animation-content {
-// 	animation: fade-in 2s;
-// 	animation-delay: 1s;
-// }
-
-// @-webkit-keyframes fade-in {
-// 	0% {
-// 		opacity: 1;
-// 	}
-// 	to {
-// 		opacity: 0;
-// 	}
-// }
-
-// @keyframes fade-in {
-// 	0% {
-// 		opacity: 1;
-// 	}
-// 	to {
-// 		opacity: 0;
-// 	}
-// }
-
 .site-title {
 	display: flex;
 	flex-flow: column;
@@ -285,8 +262,6 @@ li.skill {
 		* {
 			line-height: 0.8rem;
 		}
-		.company {
-		}
 	}
 }
 
@@ -358,7 +333,6 @@ li.skill {
 			font-size: 0.875rem;
 			line-height: 1.4rem;
 			text-align: justify;
-			// max-width: 35rem;
 			color: #333;
 		}
 		a {

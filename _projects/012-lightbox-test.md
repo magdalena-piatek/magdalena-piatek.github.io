@@ -28,9 +28,6 @@ W wolnym czasie lubię szkicować oraz rysować zarówno na zwykłej kartce papi
 <script>
 	new LuminousGallery(document.querySelectorAll('.item'), {}, {
 		closeOnScroll: true
-		// caption: function(trigger) {
-		// 	return trigger.querySelector('img').getAttribute('alt');
-		// }
 	});
 </script>
 <link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

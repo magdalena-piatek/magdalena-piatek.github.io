@@ -1,0 +1,30 @@
+{
+	"env": {
+		"browser": true
+	},
+	"plugins": ["html"],
+	"settings": {
+		"html/html-extensions": [".html"],
+		"html/xml-extensions": [".html"]
+	},
+	"extends": [
+		"eslint:recommended",
+		"plugin:import/errors",
+		"plugin:import/warnings",
+		"prettier",
+		"prettier/flowtype",
+		"prettier/standard"
+	],
+	"parserOptions": {
+		"sourceType": "module"
+	},
+	"rules": {
+		"indent": ["error", "tab"],
+		"linebreak-style": ["error", "unix"],
+		"quotes": ["error", "single"],
+		"semi": ["error", "always"]
+	},
+	"overrides": {
+		"files": "**/*.html"
+	}
+}

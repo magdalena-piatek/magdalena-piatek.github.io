@@ -1,0 +1,26 @@
+{
+  "name": "magdalena-piatek.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magdalena-piatek/magdalena-piatek.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magdalena-piatek/magdalena-piatek.github.io/issues"
+  },
+  "homepage": "https://github.com/magdalena-piatek/magdalena-piatek.github.io#readme",
+  "devDependencies": {
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-flowtype": "^2.46.3",
+    "eslint-plugin-html": "^4.0.3",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}

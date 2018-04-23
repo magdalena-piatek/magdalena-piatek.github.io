@@ -85,6 +85,10 @@ body {
 	font-family: "Oswald";
 	display: grid;
 	border-bottom: 1px solid hsla(0, 0%, 0%, 0.04);
+	.mobile-navbar{
+		display: none;
+	}
+
 	.site-nav {
 		display: grid;
 		grid-template-columns: repeat(5, 1fr);

@@ -1,5 +1,17 @@
 <header class="site-header">
-	<nav class="site-nav">
+	<div class="mobile-navbar">
+		{% for node in site.pages %} 
+			{% if node.logo == true %}
+				<a href="/" class="logo">MAGDALENA&nbsp;PIĄTEK</a>
+			{% endif %}
+		{% endfor %}
+		<div class="hamburger hamburger--collapse" onclick="toggleMenu()">
+			<div class="hamburger-box">
+				<div class="hamburger-inner"></div>
+			</div>
+		</div>
+	</div>
+	<nav class="site-nav collapsed">
 		{% for node in site.pages %} 
 			{% if node.title %} 
 				{% if node.url == page.url %}

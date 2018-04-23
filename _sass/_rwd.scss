@@ -13,7 +13,7 @@
 	overflow: visible;
 	width: 1rem;
 	height: 1rem;
-	padding: 1.5rem;
+	padding: 1.180555555rem;
 }
 .hamburger:hover {
 	opacity: 0.7;
@@ -126,6 +126,7 @@
 				grid-column: none;
 				border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 				width: 90vw;
+				padding: 0.708333333rem;
 			}
 
 			.logo {
@@ -141,23 +142,18 @@
 			// padding: 0.5rem;
 			z-index: 2;
 			transition: all 400ms ease-in-out;
-			border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+			border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+			box-shadow: 0rem 0rem 0.5rem 0 hsl(0, 7%, 96%);
 			background: #fff;
 
 			.logo {
-				// color: #bb5e85;
 				font-family: 'Oswald';
-				// font-size: 0.75rem;
-				padding: 1rem;
-
+				padding: 0.708333333rem;
 				font-size: 0.708333333rem;
-
 				background: linear-gradient(135deg, #a665b4, #cf5858);
 				-webkit-background-clip: text;
 				-webkit-text-fill-color: hsla(0, 55.3%, 57.8%, 0.75);
 				-webkit-opacity: 1;
-				// transform: translateY(3rem);
-				// transition: all 400ms ease;
 				-webkit-touch-callout: none;
 				-webkit-user-select: none;
 				-khtml-user-select: none;

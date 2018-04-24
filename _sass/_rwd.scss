@@ -197,6 +197,18 @@
 		font-size: 0.75rem;
 		line-height: 1.2rem;
 	}
+
+	.projects .project-link .description {
+		h3 {
+			font-size: 0.875rem;
+			line-height: 1rem;
+		}
+
+		p {
+			font-size: 0.75rem;
+			line-height: 0.875rem;
+		}
+	}
 }
 
 @media all and (max-width: 38rem) {

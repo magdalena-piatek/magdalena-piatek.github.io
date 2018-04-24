@@ -175,6 +175,10 @@
 		display: none;
 	}
 
+	.header {
+		padding: 0 1rem;
+	}
+
 	.container .about,
 	.container .project,
 	.container .content {
@@ -192,14 +196,40 @@
 }
 
 @media all and (max-width: 48rem) {
-	.container .about p,
-	.container .about a,
-	.container .project p,
-	.container .project a,
-	.container .content p,
-	.container .content a {
-		font-size: 0.75rem;
-		line-height: 1.2rem;
+	.header {
+		h1 {
+			font-size: 1.25rem;
+			line-height: 1.5rem;
+		}
+	}
+	.container {
+		.about {
+			p,
+			a {
+				font-size: 0.75rem;
+				line-height: 1.2rem;
+			}
+		}
+		.project {
+			p,
+			a,
+			.requirements,
+			.requirement {
+				font-size: 0.75rem;
+				line-height: 1.2rem;
+			}
+			h2 {
+				font-size: 1rem;
+				line-height: 1.25rem;
+			}
+		}
+		.content {
+			p,
+			a {
+				font-size: 0.75rem;
+				line-height: 1.2rem;
+			}
+		}
 	}
 
 	.projects .project-link .description {
@@ -216,6 +246,26 @@
 }
 
 @media all and (max-width: 38rem) {
+	.header {
+		.metadata {
+			flex-wrap: wrap;
+			flex-flow: column;
+			align-items: flex-start;
+			.data {
+				border-right: 0;
+			}
+
+			.description {
+				padding-left: 0;
+				margin-top: 0.5rem;
+			}
+		}
+
+		h1 {
+			font-size: 1.25rem;
+			line-height: 1.5rem;
+		}
+	}
 	.site-footer {
 		display: flex;
 		flex-flow: column;

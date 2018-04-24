@@ -3,10 +3,12 @@ layout: default
 ---
 <header class="header">
 	<div class="metadata">
-		<div class="badge" style="background-image: url({{ page.badge }});"></div>
-		<div class="data">
-			<div class="company">{{page.company}}</div>
-			<div class="datetime">{{page.datetime}}</div>
+		<div class="badge-container">
+			<div class="badge" style="background-image: url({{ page.badge }});"></div>
+			<div class="data">
+					<div class="company">{{page.company}}</div>
+					<div class="datetime">{{page.datetime}}</div>
+			</div>
 		</div>
 		<div class="description">
 			{{page.methods}}

@@ -177,8 +177,12 @@
 
 	.container .about,
 	.container .project,
-	.container .content,
+	.container .content {
+		padding: 0 1rem;
+	}
+
 	ul.skills {
+		max-width: 39rem;
 		padding: 0 1rem;
 	}
 	li.skill {

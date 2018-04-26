@@ -8,7 +8,7 @@ layout: project
 short-description: Stworzenie nowego projektu biletu było moim zadaniem rekrutacyjnym do berlińskiego startupu Stagelink
 badge: ../assets/badges/stagelink.png
 datetime: 2016
-methods: Architektura informacji, redesign, Illustrator
+methods: Illustrator, redesign, architektura informacji, projektowanie hierarchii, wartościowanie, porządek elementów
 ---
 
 <p>Stworzenie nowego projektu biletu było moim zadaniem rekrutacyjnym do berlińskiego startupu <a href="https://stagelink.com">Stagelink</a> (2016 r.). Punktem wyjścia był aktualny bilet w&nbsp;formacie, którego mockup zamieszczono poniżej. Głównym celem zadania było zaprojektowanie nowej architektury informacji na bilecie.</p>

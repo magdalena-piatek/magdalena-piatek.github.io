@@ -56,3 +56,10 @@ function toggleMenu() {
 		window.siteElements.expanded = !window.siteElements.expanded;
 	}
 }
+
+function hideMenu() {
+	window.siteElements.menu.classList.remove('is-active');
+	window.siteElements.siteNav.classList.remove('expanded');
+	window.siteElements.siteNav.classList.add('collapsed');
+	window.siteElements.expanded = !window.siteElements.expanded;
+}

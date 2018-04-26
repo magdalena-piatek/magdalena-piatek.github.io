@@ -13,7 +13,8 @@
 	overflow: visible;
 	width: 1rem;
 	height: 1rem;
-	padding: 1.180555555rem 1.5rem;
+	// padding: 1.180555555rem 1.5rem;
+	padding: 1.225rem 1.5rem;
 }
 .hamburger:hover {
 	opacity: 0.7;
@@ -59,7 +60,7 @@
 	top: auto;
 	bottom: 0;
 	transition-duration: 0.13s;
-	transition-delay: 0.13s;
+	// transition-delay: 0.13s;
 	transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
 .hamburger--collapse .hamburger-inner::after {
@@ -74,7 +75,7 @@
 
 .hamburger--collapse.is-active .hamburger-inner {
 	transform: translate3d(0, -10px, 0) rotate(-45deg);
-	transition-delay: 0.22s;
+	// transition-delay: 0.22s;
 	transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
 }
 .hamburger--collapse.is-active .hamburger-inner::after {
@@ -109,8 +110,10 @@
 			display: flex;
 			flex-flow: column;
 			position: relative;
-			transition: all 200ms;
+			// transition: all 200ms;
 			background: #fff;
+			width: calc(100% - 2rem);
+			margin: 0 1rem;
 
 			&.collapsed {
 				// display: none;
@@ -127,7 +130,7 @@
 			.page-link {
 				grid-column: none;
 				border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-				width: 90vw;
+				width: 100%;
 				padding: 0.708333333rem;
 				min-height: calc(2.5rem - 1px);
 				background: #fff;
@@ -149,8 +152,7 @@
 			border-bottom: 2px solid rgba(0, 0, 0, 0.04);
 			box-shadow: 0rem 0rem 0.5rem 0 hsl(0, 7%, 96%);
 			background: #fff;
-			min-height: calc(2.5rem - 2px);
-
+			min-height: 2.5rem;
 			.logo {
 				font-family: 'Oswald';
 				padding: 0.708333333rem 1rem;
@@ -173,6 +175,14 @@
 				transition: all 400ms;
 			}
 		}
+	}
+
+	.expanded + .overlay {
+		position: absolute;
+		top: 2.5rem;
+		width: 100%;
+		height: calc(100vh - 2.5rem - 2px);
+		z-index: -1;
 	}
 
 	.site-title,
@@ -312,6 +322,9 @@
 }
 
 @media all and (max-width: 27rem) {
+	.projects .project-link {
+		flex-basis: auto;
+	}
 }
 
 @media all and (max-width: 24rem) {
@@ -319,7 +332,7 @@
 		flex-flow: column;
 		width: 100%;
 		margin: 0.25rem 0;
-		padding: 0 0.5rem;
+		padding: 0 0.75rem;
 	}
 	.iphone-mockup img {
 		width: 100%;

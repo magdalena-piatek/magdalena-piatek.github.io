@@ -1,6 +1,6 @@
 ---
 layout: default
-title: O mnie
+title: O&nbsp;mnie
 permalink: /
 active: /
 grid-column: 1

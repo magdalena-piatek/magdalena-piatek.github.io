@@ -4,7 +4,7 @@ layout: default
 
 # title: Curriculum vitae
 
-link_name: Curriculum vitae
+link_name: Curriculum&nbsp;vitae
 permalink: /cv/
 active: /cv/
 redirect: true

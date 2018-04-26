@@ -92,17 +92,17 @@
 
 @media all and (max-width: 62rem) {
 	.wrapper {
-		// background-color: lightcyan;
+		padding-top: 3rem;
 	}
 
 	.site-header {
 		border: none;
 		display: flex;
 		flex-flow: column;
-		background: none;
+		// background: none;
 		height: 2.5rem;
 		&.past {
-			background: none;
+			// background: none;
 		}
 
 		.site-nav {
@@ -121,6 +121,7 @@
 				// display: flex;
 				top: 0;
 				box-shadow: 0rem 1rem 15rem 0 #c3baba;
+				min-height: calc(2.5rem * 4 - 4px);
 			}
 
 			.page-link {
@@ -128,6 +129,8 @@
 				border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 				width: 90vw;
 				padding: 0.708333333rem;
+				min-height: calc(2.5rem - 1px);
+				background: #fff;
 			}
 
 			.logo {
@@ -143,9 +146,10 @@
 			// padding: 0.5rem;
 			z-index: 2;
 			transition: all 400ms ease-in-out;
-			border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+			border-bottom: 2px solid rgba(0, 0, 0, 0.04);
 			box-shadow: 0rem 0rem 0.5rem 0 hsl(0, 7%, 96%);
 			background: #fff;
+			min-height: calc(2.5rem - 2px);
 
 			.logo {
 				font-family: 'Oswald';
@@ -170,9 +174,18 @@
 			}
 		}
 	}
+
 	.site-title,
-	.me h1 {
+	.me {
 		display: none;
+	}
+
+	.top {
+		display: none;
+	}
+
+	.line:nth-child(1) {
+		margin-top: 0.5rem;
 	}
 
 	.header {

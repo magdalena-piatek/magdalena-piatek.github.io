@@ -2,7 +2,7 @@
 company: Osobiste
 title: Projekty graficzne
 logo: ../assets/projects/drawings/logo.png
-cover: ../assets/projects/drawings/cover.jpg
+cover: ../assets/projects/drawings/illustrator/misio-4.png
 permalink: /projects/drawings
 layout: project
 short-description: W wolnym czasie lubię szkicować oraz rysować zarówno na zwykłej kartce papieru jak i&nbsp;w&nbsp;programach przeznaczonych głównie do tworzenia grafiki wektorowej
@@ -35,6 +35,8 @@ Do danego projektu warto podejść z&nbsp;głową, żeby później nie mieć poc
 <div class="project-image"><img src="../assets/projects/drawings/illustrator/1.png" /></div>
 <div class="project-image"><img src="../assets/projects/drawings/illustrator/1a.png" /></div>
 
+<div class="project-image"><img src="../assets/projects/drawings/illustrator/misio-2.png" /></div>
+<div class="project-image"><img src="../assets/projects/drawings/illustrator/misio-3.png" /></div>
 
 
 <div class="project-image">
@@ -43,30 +45,22 @@ Do danego projektu warto podejść z&nbsp;głową, żeby później nie mieć poc
 <div class="project-image"><img src="../assets/projects/drawings/illustrator/4.png" /></div>
 
 
-<div class="project-image">
-	<img src="../assets/projects/drawings/5.jpg" />
-</div>
+<div class="project-image"><img src="../assets/projects/drawings/illustrator/lisek.png" /></div>
+<div class="project-image"><img src="../assets/projects/drawings/illustrator/githabek.png" /></div>
 
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/2.png" /></div>
 
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/3.png" /></div>
 
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/5.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/6.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/7.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/8.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/9.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/10.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/11.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/12.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/13.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/14.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/15.png" /></div>
+
+
+
+
+
+
 <div class="project-image"><img src="../assets/projects/drawings/illustrator/16.png" /></div>
 <div class="project-image"><img src="../assets/projects/drawings/illustrator/17.png" /></div>
-<div class="project-image"><img src="../assets/projects/drawings/illustrator/18.png" /></div>
 
-<!-- http://photoswipe.com/documentation/getting-started.html -->
+
+
 
 <div class="project-image">
 	<img src="../assets/projects/university/11.jpg" />

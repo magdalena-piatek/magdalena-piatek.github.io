@@ -21,9 +21,9 @@ methods: budowa profilu użytkowników, identyfikacja kluczowych wrażeń, macie
 <p>Zanim przystąpiłam do budowy rozwiązania, musiałam się dowiedzieć o brzemiennych kobietach i&nbsp;ich problemach wszystkiego, co tylko się da. Dlaczego? Ponieważ budowanie nowego i&nbsp;innowacyjnego produktu wyłącznie na podstawie przeczuć jest wysoce ryzykownym przedsięwzięciem. W&nbsp;kolejnym kroku przeprowadziłam badania rynku pod kątem analizy konkurencji. Najpierw poszukałam konkurentów bezpośrednich, czyli produktów, których propozycja wartości praktycznie pokrywa się z&nbsp;moją, a&nbsp;następnie konkurentów pośrednich. Analiza wszystkich zebranych dotychczas informacji stanowiła podstawę do stworzenia mockupów mobilnej aplikacji, których część z&nbsp;nich zaprezentowano poniżej.</p>
 
 <div class="project-image">
-	<img src="../assets/projects/flow2code/schwangere/1.png" />
+	<img src="../assets/projects/flow2code/schwangere/0.jpg" />
 </div>
 
 <div class="project-image">
-	<img src="../assets/projects/flow2code/schwangere/2.png" />
+	<img src="../assets/projects/flow2code/schwangere/1.jpg" />
 </div>

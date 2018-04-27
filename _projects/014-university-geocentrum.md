@@ -1,9 +1,8 @@
 ---
 company: Studia
 title: Projekt w ramach programu "Geocentrum doskonałości"
-logo: ../assets/projects/mockup-terrain/logo.png
 cover: ../assets/projects/geocentrum/3.jpg
-permalink: /portfolio/university-geocentrum
+permalink: /portfolio/geocentrum
 layout: project
 short-description: Projekt został wykonany w&nbsp;2017&nbsp;r. w&nbsp;ramach programu „Geocentrum Doskonałości -&nbsp;autorskiego programu dostosowywania studentów WNGiG UAM do współczesnych wymagań rynku pracy”
 badge: ../assets/badges/university.png
@@ -18,12 +17,16 @@ Celem warsztatów był rozwój specjalistycznych kompetencji zawodowych oraz sam
 <div class="project-image">
 	<img src="../assets/projects/geocentrum/0.jpg" />
 </div>
-<div class="project-image">
-	<img src="../assets/projects/geocentrum/1.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/geocentrum/2.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/geocentrum/3.jpg" />
-</div>
+<ul class="gallery">
+	<li class="item" href="../assets/projects/geocentrum/1.jpg" style="background-image: url(../assets/projects/geocentrum/1.jpg);"></li>
+	<li class="item" href="../assets/projects/geocentrum/2.jpg" style="background-image: url(../assets/projects/geocentrum/2.jpg);"></li>
+	<li class="item" href="../assets/projects/geocentrum/3.jpg" style="background-image: url(../assets/projects/geocentrum/3.jpg);"></li>
+</ul>
+
+<script src="../assets/scripts/gallery/luminous.min.js"></script>
+<script>
+	new LuminousGallery(document.querySelectorAll('.item'), {}, {
+		closeOnScroll: true
+	});
+</script>
+<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

@@ -25,11 +25,3 @@ Wraz z&nbsp;grupą <a href="https://sealcode.org">Sealcode.org</a>, fundacją <a
 	<li class="item" href="../assets/projects/sealcode/4.jpg" style="background-image: url(../assets/projects/sealcode/4.jpg);"></li>
 	<li class="item" href="../assets/projects/sealcode/5.jpg" style="background-image: url(../assets/projects/sealcode/5.jpg);"></li>
 </ul>
-
-<script src="../assets/scripts/gallery/luminous.min.js"></script>
-<script>
-	new LuminousGallery(document.querySelectorAll('.item'), {}, {
-		closeOnScroll: true
-	});
-</script>
-<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

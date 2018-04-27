@@ -36,11 +36,3 @@ methods: strategia UX, strategia finansowa, budowa profilu użytkowników, ident
 	<li class="item" href="../assets/projects/placetag/6.jpg" style="background-image: url(../assets/projects/placetag/6.jpg);"></li>
 	<li class="item" href="../assets/projects/placetag/7.jpg" style="background-image: url(../assets/projects/placetag/7.jpg);"></li>
 </ul>
-
-<script src="../assets/scripts/gallery/luminous.min.js"></script>
-<script>
-	new LuminousGallery(document.querySelectorAll('.item'), {}, {
-		closeOnScroll: true
-	});
-</script>
-<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

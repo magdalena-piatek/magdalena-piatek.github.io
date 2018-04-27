@@ -29,10 +29,3 @@ methods: design thinking, projektowanie, architektura informacji, analiza potrze
 	<li class="item" href="../assets/projects/concordia-design/4.jpg" style="background-image: url(../assets/projects/concordia-design/4.jpg);"></li>
 	<li class="item" href="../assets/projects/concordia-design/5.jpg" style="background-image: url(../assets/projects/concordia-design/5.jpg);"></li>
 </ul>
-<script src="../assets/scripts/gallery/luminous.min.js"></script>
-<script>
-	new LuminousGallery(document.querySelectorAll('.item'), {}, {
-		closeOnScroll: true
-	});
-</script>
-<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

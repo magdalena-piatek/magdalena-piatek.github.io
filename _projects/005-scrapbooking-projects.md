@@ -25,11 +25,3 @@ Uwielbiam przygotowywać prezenty, a&nbsp;jeszcze lepiej kiedy wyglądają one o
 	<li class="item" href="../assets/projects/scrapbooking/4.jpg" style="background-image: url(../assets/projects/scrapbooking/4.jpg);"></li>
 	<li class="item" href="../assets/projects/scrapbooking/5.jpg" style="background-image: url(../assets/projects/scrapbooking/5.jpg);"></li>
 </ul>
-
-<script src="../assets/scripts/gallery/luminous.min.js"></script>
-<script>
-	new LuminousGallery(document.querySelectorAll('.item'), {}, {
-		closeOnScroll: true
-	});
-</script>
-<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

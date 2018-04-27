@@ -50,11 +50,3 @@ Do danego projektu warto podejść z&nbsp;głową, żeby później nie mieć poc
 	<li class="item" href="../assets/projects/graphics/26.jpg" style="background-image: url(../assets/projects/graphics/26.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/27.jpg" style="background-image: url(../assets/projects/graphics/27.jpg);"></li>
 </ul>
-
-<script src="../assets/scripts/gallery/luminous.min.js"></script>
-<script>
-	new LuminousGallery(document.querySelectorAll('.item'), {}, {
-		closeOnScroll: true
-	});
-</script>
-<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

@@ -28,11 +28,3 @@ Każdy potrzebuje odskoczni od codziennej rutyny. Jedni wybierają sport, inni u
 	<li class="item" href="../assets/projects/sketchs/7.jpg" style="background-image: url(../assets/projects/sketchs/7.jpg);"></li>
 	<li class="item" href="../assets/projects/sketchs/8.jpg" style="background-image: url(../assets/projects/sketchs/8.jpg);"></li>
 </ul>
-
-<script src="../assets/scripts/gallery/luminous.min.js"></script>
-<script>
-	new LuminousGallery(document.querySelectorAll('.item'), {}, {
-		closeOnScroll: true
-	});
-</script>
-<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

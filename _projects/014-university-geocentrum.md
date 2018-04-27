@@ -22,11 +22,3 @@ Celem warsztatów był rozwój specjalistycznych kompetencji zawodowych oraz sam
 	<li class="item" href="../assets/projects/geocentrum/2.jpg" style="background-image: url(../assets/projects/geocentrum/2.jpg);"></li>
 	<li class="item" href="../assets/projects/geocentrum/3.jpg" style="background-image: url(../assets/projects/geocentrum/3.jpg);"></li>
 </ul>
-
-<script src="../assets/scripts/gallery/luminous.min.js"></script>
-<script>
-	new LuminousGallery(document.querySelectorAll('.item'), {}, {
-		closeOnScroll: true
-	});
-</script>
-<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

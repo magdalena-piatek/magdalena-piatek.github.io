@@ -15,29 +15,24 @@ W ramach zajęć Projektowanie urbanistyczne na kierunku Gospodarka Przestrzenna
 
 
 <div class="project-image">
-	<img src="../assets/projects/mockup-terrain/1.jpg" />
+	<img src="../assets/projects/mockup-terrain/0.jpg" />
 </div>
-<div class="project-image">
-	<img src="../assets/projects/mockup-terrain/2.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/mockup-terrain/2-0.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/mockup-terrain/3.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/mockup-terrain/4.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/mockup-terrain/5.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/mockup-terrain/6.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/mockup-terrain/7.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/mockup-terrain/8.jpg" />
-</div>
+<ul class="gallery">
+	<li class="item" href="../assets/projects/mockup-terrain/1.jpg" style="background-image: url(../assets/projects/mockup-terrain/1.jpg);"></li>
+	<li class="item" href="../assets/projects/mockup-terrain/2.jpg" style="background-image: url(../assets/projects/mockup-terrain/2.jpg);"></li>
+	<li class="item" href="../assets/projects/mockup-terrain/3.jpg" style="background-image: url(../assets/projects/mockup-terrain/3.jpg);"></li>
+	<li class="item" href="../assets/projects/mockup-terrain/4.jpg" style="background-image: url(../assets/projects/mockup-terrain/4.jpg);"></li>
+	<li class="item" href="../assets/projects/mockup-terrain/5.jpg" style="background-image: url(../assets/projects/mockup-terrain/5.jpg);"></li>
+	<li class="item" href="../assets/projects/mockup-terrain/6.jpg" style="background-image: url(../assets/projects/mockup-terrain/6.jpg);"></li>
+	<li class="item" href="../assets/projects/mockup-terrain/7.jpg" style="background-image: url(../assets/projects/mockup-terrain/7.jpg);"></li>
+	<li class="item" href="../assets/projects/mockup-terrain/8.jpg" style="background-image: url(../assets/projects/mockup-terrain/8.jpg);"></li>
+</ul>
+
+<script src="../assets/scripts/gallery/luminous.min.js"></script>
+<script>
+	new LuminousGallery(document.querySelectorAll('.item'), {}, {
+		closeOnScroll: true
+	});
+</script>
+<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />
+

@@ -1,9 +1,8 @@
 ---
 company: Osobiste
 title: Rysunki odręczne
-logo: ../assets/projects/drawings/logo.png
-# cover: ../assets/projects/drawings/cover.jpg
-cover: ../assets/projects/university/4.jpg
+logo: ../assets/projects/sketchs/logo.png
+cover: ../assets/projects/sketchs/cover.jpg
 permalink: /portfolio/sketchs
 layout: project
 short-description: Każdy potrzebuje odskoczni od codziennej rutyny. Jedni wybierają sport, inni uciekają w&nbsp;filmowy lub serialowy świat, niektórzy zaś tworzą sobie własną rzeczywistość, choćby na zwykłym papierze
@@ -16,37 +15,24 @@ Każdy potrzebuje odskoczni od codziennej rutyny. Jedni wybierają sport, inni u
 
 
 <div class="project-image">
-	<img src="../assets/projects/university/1.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/university/3.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/university/4.jpg" />
+	<img src="../assets/projects/sketchs/0.jpg" />
 </div>
 
-<div class="project-image">
-	<img src="../assets/projects/university/5.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/university/6.jpg" />
-</div>
-<div class="project-image">
-<img src="../assets/projects/university/2.jpg" />
-</div>
+<ul class="gallery">
+	<li class="item" href="../assets/projects/sketchs/1.jpg" style="background-image: url(../assets/projects/sketchs/1.jpg);"></li>
+	<li class="item" href="../assets/projects/sketchs/2.jpg" style="background-image: url(../assets/projects/sketchs/2.jpg);"></li>
+	<li class="item" href="../assets/projects/sketchs/3.jpg" style="background-image: url(../assets/projects/sketchs/3.jpg);"></li>
+	<li class="item" href="../assets/projects/sketchs/4.jpg" style="background-image: url(../assets/projects/sketchs/4.jpg);"></li>
+	<li class="item" href="../assets/projects/sketchs/5.jpg" style="background-image: url(../assets/projects/sketchs/5.jpg);"></li>
+	<li class="item" href="../assets/projects/sketchs/6.jpg" style="background-image: url(../assets/projects/sketchs/6.jpg);"></li>
+	<li class="item" href="../assets/projects/sketchs/7.jpg" style="background-image: url(../assets/projects/sketchs/7.jpg);"></li>
+	<li class="item" href="../assets/projects/sketchs/8.jpg" style="background-image: url(../assets/projects/sketchs/8.jpg);"></li>
+</ul>
 
-<div class="project-image">
-	<img src="../assets/projects/drawings/1.jpg" />
-</div>
-
-<div class="project-image">
-<img src="../assets/projects/drawings/3.jpg" />
-</div>
-
-
-
-
-<div class="project-image">
-	<img src="../assets/projects/drawings/2.jpg" />
-</div>
-
+<script src="../assets/scripts/gallery/luminous.min.js"></script>
+<script>
+	new LuminousGallery(document.querySelectorAll('.item'), {}, {
+		closeOnScroll: true
+	});
+</script>
+<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

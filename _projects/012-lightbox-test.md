@@ -3,7 +3,7 @@ company: Osobiste
 title: Lightbox test
 logo: ../assets/projects/drawings/logo.png
 cover: ../assets/projects/drawings/cover.jpg
-permalink: /projects/lightbox-test
+permalink: /portfolio/lightbox-test
 layout: project
 short-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
 badge: ../assets/badges/heart.png

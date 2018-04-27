@@ -4,7 +4,7 @@ title: Rysunki odręczne
 logo: ../assets/projects/drawings/logo.png
 # cover: ../assets/projects/drawings/cover.jpg
 cover: ../assets/projects/university/4.jpg
-permalink: /projects/sketchs
+permalink: /portfolio/sketchs
 layout: project
 short-description: Każdy potrzebuje odskoczni od codziennej rutyny. Jedni wybierają sport, inni uciekają w&nbsp;filmowy lub serialowy świat, niektórzy zaś tworzą sobie własną rzeczywistość, choćby na zwykłym papierze
 badge: ../assets/badges/heart.png

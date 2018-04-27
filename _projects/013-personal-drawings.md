@@ -3,7 +3,7 @@ company: Osobiste
 title: Projekty graficzne
 logo: ../assets/projects/drawings/logo.png
 cover: ../assets/projects/drawings/illustrator/misio-4.png
-permalink: /projects/drawings
+permalink: /portfolio/drawings
 layout: project
 short-description: W wolnym czasie lubię szkicować oraz rysować zarówno na zwykłej kartce papieru jak i&nbsp;w&nbsp;programach przeznaczonych głównie do tworzenia grafiki wektorowej
 badge: ../assets/badges/heart.png

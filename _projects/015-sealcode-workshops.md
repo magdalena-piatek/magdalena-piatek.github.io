@@ -4,7 +4,7 @@ title: Organizacja warsztatów UX
 logo: ../assets/projects/sealcode/logo2.png
 cover: ../assets/projects/sealcode/cover.jpg
 flex-basis: 12rem
-permalink: /projects/sealcode-workshops
+permalink: /portfolio/sealcode-workshops
 layout: project
 url: https://sealcode.org
 short-description: Wraz z&nbsp;grupą Sealcode.org, fundacją Science2Business oraz Allegro byłam inicjatorką pomysłu przeprowadzenia warsztatów User Experience dla studentów UAM

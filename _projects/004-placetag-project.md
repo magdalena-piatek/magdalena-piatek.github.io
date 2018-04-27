@@ -2,7 +2,7 @@
 company: Placetag.pl
 title: Testy użyteczności oraz prototypowanie aplikacji Placetag.pl
 cover: ../assets/projects/placetag/cover.jpg
-permalink: /projects/placetag
+permalink: /portfolio/placetag
 layout: project
 short-description: W pierwszym kwartale 2016 roku podjęłam się pracy nad projektem Placetag.pl w ramach poprawy jego użyteczności
 badge: ../assets/badges/placetag.png
@@ -22,27 +22,25 @@ methods: strategia UX, strategia finansowa, budowa profilu użytkowników, ident
 
 <p>Placetag jest projektem inżynierskim zrealizowany na Wydziale Informatyki i&nbsp;Matematyki UAM w&nbsp;Poznaniu. Placetag to webowa oraz mobilna aplikacja pozwalająca w prosty sposób zapisywać miejsca, które chcielibyśmy odwiedzić w późniejszym czasie. Użytkownik aplikacji może katalogować zapisane miejsca za pomocą tagów oraz kategorii, a&nbsp;także udostępniać miejsca ze swoimi znajomymi.</p>
 
-<div class="project-image">
-	<img src="../assets/projects/placetag/1.png" />
-</div>
+
 <div class="project-image">
 	<img src="../assets/projects/placetag/5.jpg" />
 </div>
-<div class="project-image">
-	<img src="../assets/projects/placetag/3a.png" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/placetag/2.png" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/placetag/6.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/placetag/3.png" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/placetag/7.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/placetag/4.png" />
-</div>
+
+<ul class="gallery">
+	<li class="item" href="../assets/projects/placetag/4.jpg" style="background-image: url(../assets/projects/placetag/4.jpg);"></li>
+	<li class="item" href="../assets/projects/placetag/0.jpg" style="background-image: url(../assets/projects/placetag/0.jpg);"></li>
+	<li class="item" href="../assets/projects/placetag/1.jpg" style="background-image: url(../assets/projects/placetag/1.jpg);"></li>
+	<li class="item" href="../assets/projects/placetag/2.jpg" style="background-image: url(../assets/projects/placetag/2.jpg);"></li>
+	<li class="item" href="../assets/projects/placetag/3.jpg" style="background-image: url(../assets/projects/placetag/3.jpg);"></li>
+	<li class="item" href="../assets/projects/placetag/6.jpg" style="background-image: url(../assets/projects/placetag/6.jpg);"></li>
+	<li class="item" href="../assets/projects/placetag/7.jpg" style="background-image: url(../assets/projects/placetag/7.jpg);"></li>
+</ul>
+
+<script src="../assets/scripts/gallery/luminous.min.js"></script>
+<script>
+	new LuminousGallery(document.querySelectorAll('.item'), {}, {
+		closeOnScroll: true
+	});
+</script>
+<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

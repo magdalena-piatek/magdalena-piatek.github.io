@@ -3,7 +3,7 @@ company: flow2code.com
 title: Mockup aplikacji mobilnej dla niemieckich szpitali
 logo: ../assets/projects/flow2code/schwangere/1.png
 cover: ../assets/projects/flow2code/schwangere/cover.jpg
-permalink: /projects/flow2code-schwangere
+permalink: /portfolio/flow2code-schwangere
 layout: project
 short-description: Kolejnym projektem, jaki przygotowałam dla firmy Flow2code, była aplikacja mobilna dla ciężarnych kobiet.
 badge: ../assets/badges/flow2code.png

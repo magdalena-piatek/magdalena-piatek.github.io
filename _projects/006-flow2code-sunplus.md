@@ -3,7 +3,7 @@ company: flow2code.com
 title: Mockup aplikacji dla firmy Sun+
 logo: ../assets/projects/flow2code/sunplus/1.png
 cover: ../assets/projects/flow2code/sunplus/1.png
-permalink: /projects/flow2code-sunplus
+permalink: /portfolio/flow2code-sunplus
 layout: project
 short-description: Jednym z&nbsp;projektów, jakie przygotowałam dla Flow2code było zaprojektowanie prototypów aplikacji dla firmy Sun+.
 badge: ../assets/badges/flow2code.png

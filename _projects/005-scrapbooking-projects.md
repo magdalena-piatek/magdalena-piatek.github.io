@@ -1,8 +1,8 @@
 ---
 company: Osobiste
 title: Scrapbooking
-cover: ../assets/projects/greeting-cards/cover.jpg
-permalink: /projects/greeting-cards
+cover: ../assets/projects/scrapbooking/cover.jpg
+permalink: /portfolio/scrapbooking
 layout: project
 short-description: Uwielbiam przygotowywać prezenty, a jeszcze lepiej kiedy wyglądają one oryginalnie
 badge: ../assets/badges/heart.png
@@ -15,20 +15,21 @@ methods: scrapbooking, zdolności manualne, kreatywność, umiejętność organi
 Uwielbiam przygotowywać prezenty, a&nbsp;jeszcze lepiej kiedy wyglądają one oryginalnie. Tworzenie spersonalizowanych kartek oraz opakowań na prezenty, które następnie wręczam bliskim mi osobom, sprawia mi niezwykłą radość. Poniżej zamieściłam kilka przykładowych zdjęć mojej pasji.
 
 <div class="project-image">
-	<img src="../assets/projects/greeting-cards/1.jpg" />
+	<img src="../assets/projects/scrapbooking/0.jpg" />
 </div>
-<div class="project-image">
-	<img src="../assets/projects/greeting-cards/2.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/greeting-cards/3.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/greeting-cards/4.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/greeting-cards/5.jpg" />
-</div>
-<div class="project-image">
-	<img src="../assets/projects/greeting-cards/6.jpg" />
-</div>
+
+<ul class="gallery">
+	<li class="item" href="../assets/projects/scrapbooking/1.jpg" style="background-image: url(../assets/projects/scrapbooking/1.jpg);"></li>
+	<li class="item" href="../assets/projects/scrapbooking/2.jpg" style="background-image: url(../assets/projects/scrapbooking/2.jpg);"></li>
+	<li class="item" href="../assets/projects/scrapbooking/3.jpg" style="background-image: url(../assets/projects/scrapbooking/3.jpg);"></li>
+	<li class="item" href="../assets/projects/scrapbooking/4.jpg" style="background-image: url(../assets/projects/scrapbooking/4.jpg);"></li>
+	<li class="item" href="../assets/projects/scrapbooking/5.jpg" style="background-image: url(../assets/projects/scrapbooking/5.jpg);"></li>
+</ul>
+
+<script src="../assets/scripts/gallery/luminous.min.js"></script>
+<script>
+	new LuminousGallery(document.querySelectorAll('.item'), {}, {
+		closeOnScroll: true
+	});
+</script>
+<link rel="stylesheet" href="../assets/scripts/gallery/luminous-basic.min.css" />

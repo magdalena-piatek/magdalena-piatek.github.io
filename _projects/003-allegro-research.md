@@ -7,7 +7,7 @@ layout: project
 short-description: Badanie miało na celu poznanie zachowań związanych z&nbsp;kupowaniem online przez osoby w&nbsp;wieku 50 i&nbsp;więcej lat
 badge: ../assets/badges/allegro.png
 datetime: 2017
-methods: Persony, Customer Journey Map, Testy użyteczności, Grupa fokusowa, Card sorting
+methods: budowa profilu użytkowników, rekrutacja uczestników, scenariusze, sesja badania użytkowników, persony, mapowanie podróży użytkownika (Customer Journey Map), sortowanie kart (Card sorting), testy użyteczności, grupa fokusowa, grupowanie wyników, prezentacja
 ---
 
 Badanie miało na celu poznanie zachowań związanych z&nbsp;kupowaniem online przez osoby w&nbsp;wieku 50 i&nbsp;więcej lat, a&nbsp;w&nbsp;szczególności przyjrzenie się postawom wobec zakupów internetowych wśród kupujących w&nbsp;sieci. Dążyłam do tego, aby dowiedzieć się jakie produkty wybiera dana grupa wiekowa oraz skąd czerpie informacje na ich temat. Istotne było również określenie motywacji w&nbsp;zakresie wyboru sklepów internetowych. Uwzględniłam także kwestię preferencji dotyczących sposobu realizacji transakcji internetowych oraz stopień korzystania z&nbsp;urządzeń mobilnych. Omawiany projekt był moim zadaniem rekrutacyjnym na staż do firmy Allegro.

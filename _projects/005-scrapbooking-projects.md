@@ -7,7 +7,7 @@ layout: project
 short-description: Uwielbiam przygotowywać prezenty, a jeszcze lepiej kiedy wyglądają one oryginalnie
 badge: ../assets/badges/heart.png
 datetime: 2016-2018
-# methods: scrapbooking
+methods: scrapbooking, zdolności manualne, kreatywność, umiejętność organizacji własnej pracy
 ---
 
 <p><i>„Wartość ma nie tylko sam podarunek, ale też sposób, w&nbsp;jaki zostanie ofiarowany.”</i> ~Hans Christian Andersen</p>

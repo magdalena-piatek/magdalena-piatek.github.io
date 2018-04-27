@@ -7,10 +7,10 @@ layout: project
 short-description: W 2016 roku pracowałam na stanowisku UX researcher dla startupu Stagelink w&nbsp;Berlinie
 badge: ../assets/badges/stagelink.png
 datetime: 2016
-methods: to do uzupełnić metody, narzędzia
+methods: strategia UX, analiza zawartości, analiza konkurencyjna, Google Analytics, budowa profilu użytkowników, rekrutacja uczestników, badania kwestionariuszowe, scenariusze, sesje badania użytkowników, testy użyteczności, grupowanie wyników, dokumentacja, urządzenia mobilne
 ---
 
-W 2016&nbsp;r. pracowałam na stanowisku UX researcher dla startupu <a href="https://stagelink.com">Stagelink</a>w&nbsp;Berlinie. Moją 3-miesięczną pracą rozpoczęłam od określenia podstawowego segmentu klientów oraz wskazania problemu, który zamierzałam rozwiązać. Moim celem było uzyskanie informacji dotyczących otoczenia rynkowego, organizacji, konkurencji oraz innych czynników, które mogły mieć wpływ na przyszłe sukcesy startupu. Badałam potrzeby rynkowe użytkowników portalu Stagelink oraz identyfikowałam mocne i&nbsp;słabe strony aplikacji i&nbsp;różnice w&nbsp;stosunku do konkurencyjnych serwisów. Przekształcenie dużej ilości informacji w&nbsp;mniejsze, bardziej praktyczne porcje pozwoliło na uzyskanie merytorycznej wiedzy, co stanowiło podstawę do dalszych działań.
+W 2016&nbsp;r. pracowałam na stanowisku UX researcher dla startupu <a href="https://stagelink.com">Stagelink</a> w&nbsp;Berlinie. Moją 3-miesięczną pracą rozpoczęłam od określenia podstawowego segmentu klientów oraz wskazania problemu, który zamierzałam rozwiązać. Moim celem było uzyskanie informacji dotyczących otoczenia rynkowego, organizacji, konkurencji oraz innych czynników, które mogły mieć wpływ na przyszłe sukcesy startupu. Badałam potrzeby rynkowe użytkowników portalu Stagelink oraz identyfikowałam mocne i&nbsp;słabe strony aplikacji i&nbsp;różnice w&nbsp;stosunku do konkurencyjnych serwisów. Przekształcenie dużej ilości informacji w&nbsp;mniejsze, bardziej praktyczne porcje pozwoliło na uzyskanie merytorycznej wiedzy, co stanowiło podstawę do dalszych działań.
 
 <div class="iphone-mockup">
 	<img src="../assets/projects/stagelink/ux-research/resized-min.gif" />

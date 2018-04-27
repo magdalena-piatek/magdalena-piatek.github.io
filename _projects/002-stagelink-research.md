@@ -1,22 +1,26 @@
 ---
 company: Stagelink.com
 title: Badania użyteczności aplikacji Stagelink
-cover: ../assets/projects/stagelink/ux-research/cover_.png
+cover: ../assets/projects/stagelink/ux-research/cover.png
 permalink: /projects/stagelink-ux-research
 layout: project
 short-description: W 2016 roku pracowałam na stanowisku UX researcher dla startupu Stagelink w&nbsp;Berlinie
 badge: ../assets/badges/stagelink.png
 datetime: 2016
+background-position: top
 methods: strategia UX, analiza zawartości, analiza konkurencyjna, Google Analytics, budowa profilu użytkowników, rekrutacja uczestników, badania kwestionariuszowe, scenariusze, sesje badania użytkowników, testy użyteczności, grupowanie wyników, dokumentacja, urządzenia mobilne
 ---
 
-W 2016&nbsp;r. pracowałam na stanowisku UX researcher dla startupu <a href="https://stagelink.com">Stagelink</a> w&nbsp;Berlinie. Moją 3-miesięczną pracą rozpoczęłam od określenia podstawowego segmentu klientów oraz wskazania problemu, który zamierzałam rozwiązać. Moim celem było uzyskanie informacji dotyczących otoczenia rynkowego, organizacji, konkurencji oraz innych czynników, które mogły mieć wpływ na przyszłe sukcesy startupu. Badałam potrzeby rynkowe użytkowników portalu Stagelink oraz identyfikowałam mocne i&nbsp;słabe strony aplikacji i&nbsp;różnice w&nbsp;stosunku do konkurencyjnych serwisów. Przekształcenie dużej ilości informacji w&nbsp;mniejsze, bardziej praktyczne porcje pozwoliło na uzyskanie merytorycznej wiedzy, co stanowiło podstawę do dalszych działań.
+W 2016&nbsp;r. pracowałam na stanowisku UX researcher dla startupu <a href="https://stagelink.com">Stagelink</a> w&nbsp;Berlinie. Moją 3-miesięczną pracę rozpoczęłam od określenia podstawowego segmentu klientów oraz wskazania problemu, który zamierzałam rozwiązać. 
+
+Moim celem było uzyskanie informacji dotyczących otoczenia rynkowego, organizacji, konkurencji oraz innych czynników, które mogły mieć wpływ na przyszłe sukcesy startupu. Badałam potrzeby rynkowe użytkowników portalu Stagelink oraz identyfikowałam mocne i&nbsp;słabe strony aplikacji i&nbsp;różnice w&nbsp;stosunku do konkurencyjnych serwisów. Przekształcenie dużej ilości informacji w&nbsp;mniejsze, bardziej praktyczne porcje pozwoliło na uzyskanie merytorycznej wiedzy, co stanowiło podstawę do dalszych działań.
 
 <div class="iphone-mockup">
-	<img src="../assets/projects/stagelink/ux-research/resized-min.gif" />
+	<img src="../assets/projects/stagelink/ux-research/stagelink-animation.gif" />
 </div>
 
-Serwis internetowy już istniał, więc chcieliśmy jak najszybciej poprawić problemy, które miały największy wpływ na kluczowe dla nas wskaźniki. Potrzebowałam bezpośredniej informacji zwrotnej na temat pozytywnych i&nbsp;negatywnych doświadczeń użytkowników, w&nbsp;związku z&nbsp;czym opracowałam scenariusze testowe i&nbsp;przeprowadziłam testy użyteczności z&nbsp;9&nbsp;zaproszonymi użytkownikami. Badania odbyły się z&nbsp;wykorzystaniem prawdziwej, produkcyjnej wersji aplikacji Stagelink. Podczas każdego testu użytkownik otrzymywał telefon z&nbsp;uruchomioną stroną internetową, na której wykonywał określone zadania. Testy były rejestrowane - zapisywany był dźwięk oraz ekran telefonu (fragment testu został zamieszczony poniżej w formie animacji).
+Serwis internetowy już istniał, więc chcieliśmy jak najszybciej poprawić problemy, które miały największy wpływ na kluczowe dla nas wskaźniki. Potrzebowałam bezpośredniej informacji zwrotnej na temat pozytywnych i&nbsp;negatywnych doświadczeń użytkowników, w&nbsp;związku z&nbsp;czym opracowałam scenariusze testowe i&nbsp;przeprowadziłam testy użyteczności z&nbsp;9&nbsp;zaproszonymi użytkownikami. Badania odbyły się z&nbsp;wykorzystaniem prawdziwej, produkcyjnej wersji aplikacji Stagelink. Podczas każdego testu użytkownik otrzymywał telefon z&nbsp;uruchomioną stroną internetową, na której wykonywał określone zadania. Testy były rejestrowane -&nbsp;zapisywany był dźwięk oraz ekran telefonu (fragment testu został zamieszczony powyżej w&nbsp;formie animacji).
+
 Pod koniec swojej pracy przygotowałam 37-stronnicowy raport zawierający m.in.: charakterystykę badanych użytkowników, opisy przeprowadzonych testów, wskaźniki opisujące główne miary użyteczności aplikacji, a&nbsp;także analizy zaobserwowanych problemów oraz rekomendacje użytecznościowe, jak i&nbsp;designowe mające na celu poprawę produktu.
 Podczas swojej pracy współpracowałam z&nbsp;programistami, UX designerem oraz marketingowcami.
 

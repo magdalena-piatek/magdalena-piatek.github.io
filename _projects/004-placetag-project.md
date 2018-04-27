@@ -5,7 +5,7 @@ cover: ../assets/projects/placetag/cover.jpg
 permalink: /projects/placetag
 layout: project
 short-description: W pierwszym kwartale 2016 roku podjęłam się pracy nad projektem Placetag.pl w ramach poprawy jego użyteczności
-badge: ../assets/badges/placetag2.png
+badge: ../assets/badges/placetag.png
 datetime: 2016
 methods: strategia UX, strategia finansowa, budowa profilu użytkowników, identyfikacja kluczowych wrażeń, macierz analizy konkurencji, identyfikacja okazji rynkowych, scenariusze, sesja badania użytkowników,  testy użyteczności, grupowanie wyników, prototypowanie, strukturyzacja
 ---

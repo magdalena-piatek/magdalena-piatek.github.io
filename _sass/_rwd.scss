@@ -91,7 +91,7 @@
 		transform 0.13s 0.25s cubic-bezier(0.215, 0.61, 0.355, 1);
 }
 
-@media all and (max-width: 62rem) {
+@media all and (max-width: 62em) {
 	.wrapper {
 		padding-top: 3rem;
 	}
@@ -202,7 +202,7 @@
 		padding: 0 1rem;
 	}
 
-	.container{
+	.container {
 		.about,
 		.project,
 		.content,
@@ -221,7 +221,7 @@
 	}
 }
 
-@media all and (max-width: 48rem) {
+@media all and (max-width: 48em) {
 	.header {
 		h1 {
 			font-size: 1.25rem;
@@ -272,7 +272,7 @@
 	}
 }
 
-@media all and (max-width: 38rem) {
+@media all and (max-width: 38em) {
 	.header {
 		.metadata {
 			flex-wrap: wrap;
@@ -307,7 +307,7 @@
 	}
 }
 
-@media all and (max-width: 36rem) {
+@media all and (max-width: 36em) {
 	.iphone-mockup {
 		background-image: none;
 		background-color: #fff;
@@ -322,16 +322,16 @@
 	}
 }
 
-@media all and (max-width: 30rem) {
+@media all and (max-width: 30em) {
 }
 
-@media all and (max-width: 27rem) {
+@media all and (max-width: 27em) {
 	.projects .project-link {
 		flex-basis: auto;
 	}
 }
 
-@media all and (max-width: 24rem) {
+@media all and (max-width: 24em) {
 	ul.skills {
 		flex-flow: column;
 		width: 100%;

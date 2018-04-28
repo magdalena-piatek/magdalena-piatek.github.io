@@ -2,7 +2,7 @@
 company: flow2code.com
 title: Mockup CMS dla ScandiShop.pl
 logo: ../assets/projects/flow2code/scandishop/1.png
-cover: ../assets/projects/flow2code/scandishop/1.png
+cover: ../assets/projects/flow2code/scandishop/cover.jpg
 permalink: /portfolio/flow2code-scandishop
 layout: project
 short-description: Mockup CMS dla ScandiShop.pl był kolejnym projektem wykonywanym w ramach Flow2code. Moim zadaniem było zaprojektowanie aplikacji webowej, uwzględniając przy tym zasady responsive web design

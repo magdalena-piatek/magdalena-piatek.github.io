@@ -24,8 +24,8 @@ methods: Illustrator, redesign, architektura informacji, projektowanie hierarchi
 <h2>O startupie Stagelink</h2>
 <p>Stagelink to aplikacja skierowana zarówno do fanów muzyki, jak i&nbsp;artystów / youtuberów oraz managerów.</p><p>
 Umożliwia ona głosowanie na miejscowość, do której fani chcieliby zaprosić danego artystę. Użytkownik podaje również kwotę jaką byłby w&nbsp;stanie zapłacić za bilet. Artysta ma możliwość śledzenia liczby zaproszeń do danego miasta, co ułatwia mu organizację trasy koncertowej z&nbsp;uwzględnieniem informacji o&nbsp;miejscu i&nbsp;cenach biletów. Aplikacja oferuje jednocześnie sprzedaż biletów online.</p>
-<img class="project-image" src="../assets/projects/stagelink/ticket/0.png">
-
-<img class="project-image" src="../assets/projects/stagelink/ticket/1.png">
-
-<img class="project-image" src="../assets/projects/stagelink/ticket/2.png">
+<div>
+	<img class="project-image" src="../assets/projects/stagelink/ticket/0.png">
+	<img class="project-image" src="../assets/projects/stagelink/ticket/1.png">
+	<img class="project-image" src="../assets/projects/stagelink/ticket/2.png">
+</div>

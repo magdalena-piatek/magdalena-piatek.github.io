@@ -202,10 +202,13 @@
 		padding: 0 1rem;
 	}
 
-	.container .about,
-	.container .project,
-	.container .content {
-		padding: 0 1rem;
+	.container{
+		.about,
+		.project,
+		.content,
+		.gallery {
+			padding: 0 1rem;
+		}
 	}
 
 	ul.skills {

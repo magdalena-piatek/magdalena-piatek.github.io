@@ -5,7 +5,7 @@ logo: ../assets/projects/flow2code/schwangere/1.png
 cover: ../assets/projects/flow2code/schwangere/cover.jpg
 permalink: /portfolio/flow2code-schwangere
 layout: project
-short-description: Kolejnym projektem, jaki przygotowałam dla firmy Flow2code, była aplikacja mobilna dla ciężarnych kobiet.
+short-description: Kolejnym projektem, jaki przygotowałam dla firmy Flow2code, była aplikacja mobilna dla ciężarnych kobiet
 badge: ../assets/badges/flow2code.png
 datetime: 2017
 methods: budowa profilu użytkowników, identyfikacja kluczowych wrażeń, macierz analizy konkurencji, identyfikacja okazji rynkowych, prototypowanie, strukturyzacja, projektowanie hierarchii, wartościowanie, porządek elementów

@@ -5,7 +5,7 @@ logo: ../assets/projects/flow2code/bookfood/1.png
 cover: ../assets/projects/flow2code/bookfood/cover.jpg
 permalink: /portfolio/flow2code-bookfood
 layout: project
-short-description: Mockup aplikacji BookFood był pierwszym projektem, jaki stworzyłam w ramach pracy dla Flow2code.
+short-description: Mockup aplikacji BookFood był pierwszym projektem, jaki stworzyłam w ramach pracy dla Flow2code
 badge: ../assets/badges/flow2code.png
 datetime: 2016
 methods: budowa profilu użytkowników, identyfikacja kluczowych wrażeń, macierz analizy konkurencji, identyfikacja okazji rynkowych, prototypowanie, strukturyzacja, projektowanie hierarchii, wartościowanie, porządek elementów

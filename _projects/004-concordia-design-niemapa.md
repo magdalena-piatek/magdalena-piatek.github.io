@@ -4,7 +4,7 @@ title: Niemapa Poznania
 cover: ../assets/projects/concordia-design/cover.jpg
 permalink: /portfolio/concordia-design-niemapa-poznania
 layout: project
-short-description: NIEMAPA odkrywa Poznań na nowo, opisuje i&nbsp;ilustruje znane i&nbsp;nieznane miejsca, wyznacza nowe szlaki, przypomina o parkach, ogrodach czy urokliwych zakątkach.
+short-description: NIEMAPA odkrywa Poznań na nowo, opisuje i&nbsp;ilustruje znane i&nbsp;nieznane miejsca, wyznacza nowe szlaki, przypomina o parkach, ogrodach czy urokliwych zakątkach
 badge: ../assets/badges/concordia-design.png
 datetime: 2016
 methods: design thinking, projektowanie, architektura informacji, analiza potrzeb użytkowników

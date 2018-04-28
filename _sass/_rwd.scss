@@ -183,6 +183,7 @@
 		width: 100%;
 		height: calc(100vh - 2.5rem - 2px);
 		z-index: -1;
+		min-height: 100vh;
 	}
 
 	.site-title,

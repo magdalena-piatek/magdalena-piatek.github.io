@@ -15,18 +15,18 @@
 		{% for node in site.pages %} 
 			{% if node.title %} 
 				{% if node.url == page.url %}
-					<a class="page-link active" style="grid-column: {{node.grid-column}}" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+					<a class="page-link active" style="-ms-grid-column: {{node.grid-column}}; grid-column: {{node.grid-column}};" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
 				{% else %}
-					<a class="page-link" style="grid-column: {{node.grid-column}}" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+					<a class="page-link" style="-ms-grid-column: {{node.grid-column}}; grid-column: {{node.grid-column}};" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
 				{% endif %} 
 			{% endif %} 
 			
 			{% if node.file == true %}
-				<a class="page-link" target="_blank" style="grid-column: {{node.grid-column}}" href="{{ node.href }}">{{ node.link_name }}</a>
+				<a class="page-link" target="_blank" style="-ms-grid-column: {{node.grid-column}}; grid-column: {{node.grid-column}};" href="{{ node.href }}">{{ node.link_name }}</a>
 			{% endif %} 
 			
 			{% if node.logo == true %}
-				<div class="logo" style="grid-column: 3">MAGDALENA&nbsp;PIĄTEK</div>
+				<div class="logo" style="-ms-grid-column: 3; grid-column: 3;">MAGDALENA&nbsp;PIĄTEK</div>
 			{% endif %}
 		{% endfor %}
 	</nav>

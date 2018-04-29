@@ -74,14 +74,16 @@ body {
 	top: 0;
 	z-index: 2;
 	font-family: 'Oswald';
-	display: grid;
+	display: flex;
 	border-bottom: 1px solid hsla(0, 0%, 0%, 0.04);
 	.mobile-navbar {
 		display: none;
 	}
 
 	.site-nav {
+		display: -ms-grid;
 		display: grid;
+		-ms-grid-columns: repeat(5, 1fr);
 		grid-template-columns: repeat(5, 1fr);
 		max-width: 42rem;
 		margin: 0 auto;
@@ -398,13 +400,16 @@ li.skill {
 }
 
 .site-footer {
+	display: -ms-grid;
 	display: grid;
 	flex-flow: row wrap;
 	justify-content: center;
+	-ms-grid-columns: repeat(3, 1fr);
 	grid-template-columns: repeat(3, 1fr);
 	max-width: 26rem;
 	margin: 0.5rem auto 2rem;
 	.footer-item {
+		display: -ms-grid;
 		display: grid;
 		align-items: center;
 		justify-items: center;

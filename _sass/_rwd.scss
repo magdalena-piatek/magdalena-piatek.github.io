@@ -29,6 +29,12 @@
 	left: -0.5rem;
 }
 
+.is-active {
+	.hamburger-box {
+		top: -0.5125rem;
+	}
+}
+
 .hamburger-inner {
 	display: block;
 	top: 50%;
@@ -213,7 +219,7 @@
 	}
 
 	.container {
-		.about{
+		.about {
 			padding: 1rem 1rem 0 1rem;
 		}
 	}

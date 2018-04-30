@@ -3,7 +3,7 @@ title: Magdalena Piątek - Badacz i projektant UX (User Experience)
 email: kontakt@magdalena-piatek.pl
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://magdalena-piatek.pl" # the base hostname & protocol for your site
+url: "https://magdalena-piatek.pl" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 

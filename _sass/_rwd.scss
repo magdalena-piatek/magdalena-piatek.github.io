@@ -285,6 +285,29 @@
 	}
 }
 
+@media all and (max-width: 42em) {
+	.container .contact {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: stretch;
+		align-content: stretch;
+		margin: 1rem 0;
+		padding: 0 1rem;
+		width: 100%;
+
+		.contact-details {
+			margin: 0;
+			margin-bottom: 1rem;
+			min-width: auto;
+		}
+		form {
+			margin: 0;
+			min-width: auto;
+		}
+	}
+}
+
 @media all and (max-width: 38em) {
 	.header {
 		.metadata {

@@ -10,7 +10,7 @@ grid-column: 5
 	<div class="about">
 		<p>Stwórzmy coś niesamowitego. Razem!</p>
 	</div>
-	<div class="content">
+	{% comment %} <div class="content"> {% endcomment %}
 		<div class="contact">
 			<ul class="contact-details">
 				<li>
@@ -32,7 +32,7 @@ grid-column: 5
 					<img class="icon" src="/assets/icons/cv.svg" width="12px" height="12px">
 					<a target="_blank" href="../files/cv-magdalena-piatek.pdf">Moje CV</a></li>
 			</ul>
-			<form method="POST" action="https://formspree.io/kontakt@arkadiusz-wieczorek.pl">
+			<form method="POST" action="https://formspree.io/kontakt@magdalena-piatek.pl">
 				<input name="name" placeholder="Twoje imię" type="text" required>
 				<input name="email" placeholder="Twój adres e-mail" type="email" required>
 				<input type="hidden" name="_language" value="pl" />
@@ -42,5 +42,5 @@ grid-column: 5
 				<button type="submit">Wyślij</button>
 			</form>
 		</div>
-    </div>
+    {% comment %} </div> {% endcomment %}
 </div>

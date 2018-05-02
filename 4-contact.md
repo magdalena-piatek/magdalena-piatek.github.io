@@ -8,7 +8,7 @@ grid-column: 5
 
 <div class="container">
 	<div class="about">
-		<p>Stwórzmy coś niesamowitego. Razem!</p>
+		<p>Stwórzmy&nbsp;coś&nbsp;niesamowitego.&nbsp;Razem!</p>
 	</div>
 	{% comment %} <div class="content"> {% endcomment %}
 		<div class="contact">

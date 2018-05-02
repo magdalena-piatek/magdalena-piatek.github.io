@@ -6,7 +6,7 @@ active: /
 grid-column: 1
 ---
 
-<div class="container animation-content">
+<div class="container">
 	<div class="about">
 		<p>
 			Cześć, nazywam się Magdalena Piątek. Specjalizuję się w&nbsp;strategii UX, badaniach potrzeb i&nbsp;zachowań użytkowników

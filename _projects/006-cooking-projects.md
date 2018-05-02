@@ -17,7 +17,7 @@ methods: estetyka, pomysł, koncepcja, jakość, eksponowanie atutów, autentycz
 <p>Uważam, że trzeba się rozwijać, uczyć i&nbsp;zdobywać więcej. Sięgać do gwiazd i&nbsp;realizować swoje marzenia. Tylko tak możemy w&nbsp;życiu znaleźć drogę do prawdziwego szczęścia. Wierzę, że w przyszłości dania przygotowane przeze mnie będą na tyle intrygujące, że przekonają moich najbliższych, że kuchnia roślinna jest równie smaczna, co tradycyjna.</p>
 
 <div class="project-image">
-	<img src="../assets/projects/cooking/0.jpg" />
+	<img src="../assets/projects/cooking/18.jpg" />
 </div>
 
 <ul class="gallery">
@@ -38,7 +38,7 @@ methods: estetyka, pomysł, koncepcja, jakość, eksponowanie atutów, autentycz
 	<li class="item" href="../assets/projects/cooking/15.jpg" style="background-image: url(../assets/projects/cooking/15.jpg);"></li>
 	<li class="item" href="../assets/projects/cooking/16.jpg" style="background-image: url(../assets/projects/cooking/16.jpg);"></li>
 	<li class="item" href="../assets/projects/cooking/17.jpg" style="background-image: url(../assets/projects/cooking/17.jpg);"></li>
-	<li class="item" href="../assets/projects/cooking/18.jpg" style="background-image: url(../assets/projects/cooking/18.jpg);"></li>
+	<li class="item" href="../assets/projects/cooking/18.jpg" style="background-image: url(../assets/projects/cooking/0.jpg);"></li>
 	<li class="item" href="../assets/projects/cooking/19.jpg" style="background-image: url(../assets/projects/cooking/19.jpg);"></li>
 	<li class="item" href="../assets/projects/cooking/20.jpg" style="background-image: url(../assets/projects/cooking/20.jpg);"></li>
 	<li class="item" href="../assets/projects/cooking/21.jpg" style="background-image: url(../assets/projects/cooking/21.jpg);"></li>
@@ -47,6 +47,4 @@ methods: estetyka, pomysł, koncepcja, jakość, eksponowanie atutów, autentycz
 	<li class="item" href="../assets/projects/cooking/24.jpg" style="background-image: url(../assets/projects/cooking/24.jpg);"></li>
 	<li class="item" href="../assets/projects/cooking/25.jpg" style="background-image: url(../assets/projects/cooking/25.jpg);"></li>
 	<li class="item" href="../assets/projects/cooking/26.jpg" style="background-image: url(../assets/projects/cooking/26.jpg);"></li>
-	<li class="item" href="../assets/projects/cooking/27.jpg" style="background-image: url(../assets/projects/cooking/27.jpg);"></li>
-	<li class="item" href="../assets/projects/cooking/28.jpg" style="background-image: url(../assets/projects/cooking/28.jpg);"></li>
 </ul>

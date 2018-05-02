@@ -104,7 +104,6 @@
 
 	.site-header {
 		border: none;
-		box-shadow: none;
 		display: flex;
 		flex-flow: column;
 		// background: none;
@@ -317,6 +316,19 @@
 		.footer-item {
 			display: inline-block;
 			padding-bottom: 0.5rem;
+		}
+
+		.footer-item:nth-child(1) {
+			order: 0;
+		}
+		.footer-item:nth-child(2) {
+			order: 2;
+		}
+		.footer-item:nth-child(3) {
+			order: 1;
+		}
+		.footer-item:nth-child(4) {
+			order: 3;
 		}
 	}
 }

@@ -2,7 +2,7 @@
 company: Osobiste
 title: Projekty graficzne
 logo: ../assets/projects/graphics/logo.png
-cover: ../assets/projects/graphics/cover.png
+cover: ../assets/projects/graphics/cover.jpg
 permalink: /portfolio/graphics
 layout: project
 short-description: W wolnym czasie lubię szkicować oraz rysować zarówno na zwykłej kartce papieru jak i&nbsp;w&nbsp;programach przeznaczonych głównie do tworzenia grafiki wektorowej

@@ -74,7 +74,6 @@ body {
 	font-family: 'Oswald';
 	display: flex;
 	border-bottom: 1px solid hsla(0, 0%, 0%, 0.04);
-	box-shadow: 0rem 0rem 0.5rem 0 #f6f4f4;
 	.mobile-navbar {
 		display: none;
 	}
@@ -397,6 +396,43 @@ li.skill {
 		}
 	}
 }
+.container .content .contact-details {
+	margin: 1rem 0;
+	padding-left: 0.0625rem;
+	display: flex;
+	flex-flow: column;
+	color: hsl(0, 0%, 78.6%);
+	font-size: 0.75rem;
+	line-height: 1.2rem;
+
+	li {
+		font-size: 0.75rem;
+		line-height: 1.2rem;
+		transition: all 400ms;
+		list-style-type: none;
+
+		.icon {
+			width: 0.5rem;
+			height: 0.5rem;
+			vertical-align: unset;
+			opacity: 0.5;
+			margin-right: 0.25rem;
+		}
+
+		a {
+			color: #333;
+			font-size: 0.75rem;
+			line-height: 1.2rem;
+			&:hover {
+				color: #bb5e85;
+			}
+		}
+
+		&:hover {
+			color: #bb5e85;
+		}
+	}
+}
 
 .site-footer {
 	display: -ms-grid;
@@ -405,12 +441,17 @@ li.skill {
 	justify-content: center;
 	-ms-grid-columns: repeat(3, 1fr);
 	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(2, 1fr);
 	max-width: 26rem;
 	margin: 0.5rem auto 2rem;
+	grid-row-gap: 0.5rem;
 	.footer-item {
 		display: -ms-grid;
 		display: grid;
 		align-items: center;
 		justify-items: center;
+	}
+	.footer-item:last-child {
+		grid-column: 1/4;
 	}
 }

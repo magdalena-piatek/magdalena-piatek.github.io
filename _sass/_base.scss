@@ -259,6 +259,7 @@ li.skill {
 		flex-flow: column;
 		* {
 			line-height: 0.8rem;
+			white-space: nowrap;
 		}
 	}
 }

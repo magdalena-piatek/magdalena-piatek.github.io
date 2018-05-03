@@ -13,9 +13,8 @@ methods: rysunek techniczny, projektowanie, kreatywność, umiejętność organi
 
 Każdy potrzebuje odskoczni od codziennej rutyny. Jedni wybierają sport, inni uciekają w filmowy lub serialowy świat, niektórzy zaś tworzą sobie własną rzeczywistość, choćby na zwykłym papierze. Rysowanie mnie uspokoją i&nbsp;niesamowicie poprawia mi humor. Czasem zdarzają się się jednak takie momenty, gdzie kompletnie nie umiem się do tego zabrać, ale prędzej czy później pojawia się pomysł i&nbsp;wtedy wiem, że powstanie coś fajnego –&nbsp;coś mojego. Poniżej zamieściłam kilka swoich prac.
 
-
 <div class="project-image">
-	<img src="../assets/projects/sketchs/0.jpg" />
+	<img class="item" src="../assets/projects/sketchs/0.jpg" href="../assets/projects/sketchs/0.jpg" />
 </div>
 
 <ul class="gallery">

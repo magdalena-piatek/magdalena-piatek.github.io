@@ -19,7 +19,7 @@ methods: design thinking, model biznesowy, budowa profilu użytkowników, projek
 <p>NieMAPA to wyjątkowo zaprojektowana seria ilustrowanych przewodników po mieście, która pokazuje opisuje ciekawe i&nbsp;nieznane miejsca. NieMAPA odkrywa Poznań na nowo, opisuje i&nbsp;ilustruje znane i&nbsp;nieznane miejsca, wyznacza nowe szlaki, przypomina o&nbsp;parkach, ogrodach czy urokliwych zakątkach. Spacer z&nbsp;NieMAPĄ, obfituje w&nbsp;zabawy związane z&nbsp;miastem, jego kulturą, historią i&nbsp;tym niepowtarzalnym charakterem. To doskonała propozycja na spędzenie weekendu z&nbsp;dziećmi, a&nbsp;także na hipsterskie odkrywanie miasta w&nbsp;alternatywny sposób.</p>
 
 <div class="project-image">
-	<img src="../assets/projects/concordia-design/original.jpg" />
+	<img class="item" src="../assets/projects/concordia-design/original.jpg" href="../assets/projects/concordia-design/original.jpg" />
 </div>
 
 <ul class="gallery">

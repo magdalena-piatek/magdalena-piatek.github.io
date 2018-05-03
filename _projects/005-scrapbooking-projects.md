@@ -15,13 +15,15 @@ methods: scrapbooking, zdolności manualne, kreatywność, umiejętność organi
 Uwielbiam przygotowywać prezenty, a&nbsp;jeszcze lepiej kiedy wyglądają one oryginalnie. Tworzenie spersonalizowanych kartek oraz opakowań na prezenty, które następnie wręczam bliskim mi osobom, sprawia mi niezwykłą radość. Poniżej zamieściłam kilka przykładowych zdjęć mojej pasji.
 
 <div class="project-image">
-	<img src="../assets/projects/scrapbooking/0.jpg" />
+	<img class="item" href="../assets/projects/scrapbooking/0.jpg" src="../assets/projects/scrapbooking/0.jpg" />
 </div>
 
 <ul class="gallery">
 	<li class="item" href="../assets/projects/scrapbooking/1.jpg" style="background-image: url(../assets/projects/scrapbooking/1.jpg);"></li>
 	<li class="item" href="../assets/projects/scrapbooking/2.jpg" style="background-image: url(../assets/projects/scrapbooking/2.jpg);"></li>
 	<li class="item" href="../assets/projects/scrapbooking/3.jpg" style="background-image: url(../assets/projects/scrapbooking/3.jpg);"></li>
-	<li class="item" href="../assets/projects/scrapbooking/4.jpg" style="background-image: url(../assets/projects/scrapbooking/4.jpg);"></li>
 	<li class="item" href="../assets/projects/scrapbooking/5.jpg" style="background-image: url(../assets/projects/scrapbooking/5.jpg);"></li>
+	<li class="item" href="../assets/projects/scrapbooking/6.jpg" style="background-image: url(../assets/projects/scrapbooking/6.jpg);"></li>
+	<li class="item" href="../assets/projects/scrapbooking/7.jpg" style="background-image: url(../assets/projects/scrapbooking/7.jpg);"></li>
+	<!-- <li class="item" href="../assets/projects/scrapbooking/4.jpg" style="background-image: url(../assets/projects/scrapbooking/4.jpg);"></li> -->
 </ul>

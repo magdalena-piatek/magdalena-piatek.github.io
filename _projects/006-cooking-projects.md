@@ -17,7 +17,7 @@ methods: estetyka, pomysł, koncepcja, jakość, eksponowanie atutów, autentycz
 <p>Uważam, że trzeba się rozwijać, uczyć i&nbsp;zdobywać więcej. Sięgać do gwiazd i&nbsp;realizować swoje marzenia. Tylko tak możemy w&nbsp;życiu znaleźć drogę do prawdziwego szczęścia. Wierzę, że w przyszłości dania przygotowane przeze mnie będą na tyle intrygujące, że przekonają moich najbliższych, że kuchnia roślinna jest równie smaczna, co tradycyjna.</p>
 
 <div class="project-image">
-	<img src="../assets/projects/cooking/18.jpg" />
+	<img class="item" src="../assets/projects/cooking/18.jpg" href="../assets/projects/cooking/18.jpg" />
 </div>
 
 <ul class="gallery">

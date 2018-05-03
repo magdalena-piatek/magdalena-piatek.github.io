@@ -17,7 +17,7 @@ Mockup <a href="https://flow2code.com/systems/scandishop/auth/login">CMS</a> dla
 Kompleksowa analiza wymagań klienta oraz określenie z&nbsp;jakim problemami się boryka umożliwiła ocenę przygotowanej wcześniej propozycji wartości. Interesariuszowi zależało na stworzeniu prostego CMSu do liczenia wydatków i&nbsp;przychodów. Największą zaletą zaprojektowanej aplikacji jest spersonalizowanie oraz działanie zgodnie z&nbsp;potrzebami określonymi przez klienta, który chciał mieć wszystkie najważniejsze informacje odnośnie swojego internetowego sklepu w&nbsp;jednym miejscu. Uzyskane informacje stanowiły bazę do zaprojektowania mockupów dla ScandiShop.pl, których część została przedstawiona poniżej.
 
 <div class="project-image">
-	<img src="../assets/projects/flow2code/scandishop/0.jpg" />
+	<img class="item" src="../assets/projects/flow2code/scandishop/0.jpg" href="../assets/projects/flow2code/scandishop/0.jpg" />
 </div>
 <ul class="gallery">
 	<li class="item" href="../assets/projects/flow2code/scandishop/1.jpg" style="background-image: url(../assets/projects/flow2code/scandishop/1.jpg);"></li>

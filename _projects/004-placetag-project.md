@@ -22,9 +22,8 @@ methods: strategia UX, strategia finansowa, budowa profilu użytkowników, ident
 
 <p>Placetag jest projektem inżynierskim zrealizowany na Wydziale Informatyki i&nbsp;Matematyki UAM w&nbsp;Poznaniu. Placetag to webowa oraz mobilna aplikacja pozwalająca w prosty sposób zapisywać miejsca, które chcielibyśmy odwiedzić w późniejszym czasie. Użytkownik aplikacji może katalogować zapisane miejsca za pomocą tagów oraz kategorii, a&nbsp;także udostępniać miejsca ze swoimi znajomymi.</p>
 
-
 <div class="project-image">
-	<img src="../assets/projects/placetag/5.jpg" />
+	<img class="item" src="../assets/projects/placetag/5.jpg" href="../assets/projects/placetag/5.jpg" />
 </div>
 
 <ul class="gallery">

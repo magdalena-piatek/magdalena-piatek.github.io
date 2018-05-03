@@ -20,7 +20,7 @@ Celem warsztatów był rozwój specjalistycznych kompetencji zawodowych oraz sam
 	<img class="item" href="../assets/projects/geocentrum/6.jpg" src="../assets/projects/geocentrum/6.jpg" />
 </div>
 <ul class="gallery">
-	<li class="item" href="../assets/projects/geocentrum/5.jpg" style="background-image: url(../assets/projects/geocentrum/0.jpg);"></li>
+	<li class="item" href="../assets/projects/geocentrum/0.jpg" style="background-image: url(../assets/projects/geocentrum/0.jpg);"></li>
 	<li class="item" href="../assets/projects/geocentrum/1.jpg" style="background-image: url(../assets/projects/geocentrum/1.jpg);"></li>
 	<li class="item" href="../assets/projects/geocentrum/2.jpg" style="background-image: url(../assets/projects/geocentrum/2.jpg);"></li>
 	<li class="item" href="../assets/projects/geocentrum/3.jpg" style="background-image: url(../assets/projects/geocentrum/3.jpg);"></li>

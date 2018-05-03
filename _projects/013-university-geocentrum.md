@@ -12,7 +12,7 @@ datetime: 2017
 methods: Inkscape, inwentaryzacja, zdolności analityczne, projektowanie, umiejętności planowania, umiejętności twórczego rozwiązywania problemów, zdolności manualne, umiejętność organizacji własnej pracy, projekt komputerowy
 ---
 
-Projekt został wykonany w&nbsp;2017 r. w&nbsp;ramach programu „<a href="http://geocentrum.home.amu.edu.pl/">Geocentrum Doskonałości</a> -&nbsp;autorskiego programu dostosowywania studentów Wydziału Nauk Geograficznych i&nbsp;Geologicznych UAM do współczesnych wymagań rynku pracy” we współpracy z&nbsp;Kancelarią Urbanistyczną Filip Koczorowski.
+Projekt został wykonany w&nbsp;2017 r. w&nbsp;ramach programu „<a target="_blank" href="http://geocentrum.home.amu.edu.pl/">Geocentrum Doskonałości</a> -&nbsp;autorskiego programu dostosowywania studentów Wydziału Nauk Geograficznych i&nbsp;Geologicznych UAM do współczesnych wymagań rynku pracy” we współpracy z&nbsp;Kancelarią Urbanistyczną Filip Koczorowski.
 
 Celem warsztatów był rozwój specjalistycznych kompetencji zawodowych oraz samoorganizacji w&nbsp;zakresie umiejętności planowania i&nbsp;twórczego rozwiązywania problemów poprzez wykonanie koncepcji zagospodarowania przestrzennego oraz miejscowego planu zagospodarowania przestrzennego wybranego obszaru zlokalizowanego w&nbsp;Żydowie. Cała praca została uprzedzona jednodniowym wyjazdem studialnym w&nbsp;teren, który był przedmiotem projektowania. Pozwoliło to na przeprowadzenie dokładnej inwentaryzacji, którą przedstawia jedna z&nbsp;plansz. Jako, że cały projekt został przeniesiony z&nbsp;kalki na komputer zajęcia pozwoliły również na podniesienie umiejętności wykorzystania specjalistycznych programów komputerowych.
 

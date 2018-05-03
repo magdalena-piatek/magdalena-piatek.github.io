@@ -15,7 +15,7 @@ datetime: 2016
 methods: zdolności organizacyjne, organizowanie warsztatów, rekrutacja uczestników, badania kwestionariuszowe
 ---
 
-Wraz z&nbsp;grupą <a href="https://sealcode.org">Sealcode.org</a>, fundacją <a href="http://s2b.edu.pl/">Science2Business</a> oraz Allegro byłam inicjatorką pomysłu przeprowadzenia warsztatów User Experience dla studentów UAM, które odbyły 10 czerwca 2016r. na Wydziale Matematyki i&nbsp;Informatyki w&nbsp;Poznaniu.
+Wraz z&nbsp;grupą <a target="_blank" href="https://sealcode.org">Sealcode.org</a>, fundacją <a target="_blank" href="http://s2b.edu.pl/">Science2Business</a> oraz Allegro byłam inicjatorką pomysłu przeprowadzenia warsztatów User Experience dla studentów UAM, które odbyły 10 czerwca 2016r. na Wydziale Matematyki i&nbsp;Informatyki w&nbsp;Poznaniu.
 
 <div class="project-image">
 	<img class="item" src="../assets/projects/sealcode/0.jpg" href="../assets/projects/sealcode/0.jpg" />

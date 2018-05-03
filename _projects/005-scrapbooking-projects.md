@@ -12,7 +12,9 @@ datetime: 2016-2018
 methods: scrapbooking, zdolności manualne, kreatywność, umiejętność organizacji własnej pracy
 ---
 
-<p><i>„Wartość ma nie tylko sam podarunek, ale też sposób, w&nbsp;jaki zostanie ofiarowany.”</i> ~Hans Christian Andersen</p>
+<i>„Wartość ma nie tylko sam podarunek, ale też sposób, w&nbsp;jaki zostanie ofiarowany.”</i>
+
+<p style="text-align: right; margin-top: 0;">~Hans Christian Andersen</p>
 
 Uwielbiam przygotowywać prezenty, a&nbsp;jeszcze lepiej kiedy wyglądają one oryginalnie. Tworzenie spersonalizowanych kartek oraz opakowań na prezenty, które następnie wręczam bliskim mi osobom, sprawia mi niezwykłą radość. Poniżej zamieściłam kilka przykładowych zdjęć mojej pasji.
 

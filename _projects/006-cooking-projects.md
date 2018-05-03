@@ -12,7 +12,7 @@ datetime: 2018
 methods: estetyka, pomysł, koncepcja, jakość, eksponowanie atutów, autentyczność, kreatywność
 ---
 
-<p>W&nbsp;kwietniu 2018&nbsp;r. rozpoczęła się moja przygoda zdrowszego i&nbsp;szczęśliwszego życia. Podjęłam wyzwanie i&nbsp;przeszłam na weganizm. Po części chciałam udowodnić sobie i&nbsp;rodzinie, że dam radę, ale najważniejszym powodem była dla mnie etyka oraz zdrowie. Mimo, że to dopiero początki mogę śmiało powiedzieć, że nie wyobrażam sobie innego stylu życia.</p>
+<p>W&nbsp;kwietniu 2018&nbsp;r. rozpoczęła się moja przygoda zdrowszego i&nbsp;szczęśliwszego życia. Podjęłam wyzwanie i&nbsp;przeszłam na weganizm. Po części chciałam udowodnić sobie i&nbsp;rodzinie, że dam radę, ale najważniejszymi powodami były dla mnie etyka oraz zdrowie. Mimo, że to dopiero początki mogę śmiało powiedzieć, że nie wyobrażam sobie innego stylu życia.</p>
 
 <p>Moje potrawy powstają z&nbsp;uwielbienia do kuchni roślinnej, jej smaków i&nbsp;aromatów, które są niebywale rozmaite. Bez produktów odzwierzęcych: żadnego mleka, mięsa, czy śmietany. Moje kuchnia opiera się na świeżych, sezonowych produktach i&nbsp;ciekawych połączeniach. Warzywa zamieniają się w&nbsp;pyszne desery, zaś główne dania zawsze są kolorowe i&nbsp;smaczne. Poza smakiem najważniejsza jest dla mnie estetyka podawania posiłków. Potrawy, które nam się podobają i&nbsp;wyglądają apetycznie, po prostu bardziej nam smakują.</p>
 

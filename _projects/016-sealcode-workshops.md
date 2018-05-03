@@ -3,6 +3,8 @@ company: Sealcode.org
 title: Organizacja warsztatów UX
 logo: ../assets/projects/sealcode/logo2.png
 cover: ../assets/projects/sealcode/cover.jpg
+cover-background: "#e7e8da"
+
 flex-basis: 12rem
 permalink: /portfolio/ux-workshops
 layout: project

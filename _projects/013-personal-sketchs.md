@@ -3,6 +3,8 @@ company: Osobiste
 title: Rysunki odręczne
 logo: ../assets/projects/sketchs/logo.png
 cover: ../assets/projects/sketchs/cover.jpg
+cover-background: "#f0f0f0"
+
 permalink: /portfolio/sketchs
 layout: project
 short-description: Każdy potrzebuje odskoczni od codziennej rutyny. Jedni wybierają sport, inni uciekają w&nbsp;filmowy lub serialowy świat, niektórzy zaś tworzą sobie własną rzeczywistość, choćby na zwykłym papierze

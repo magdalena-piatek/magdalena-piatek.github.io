@@ -3,6 +3,8 @@ company: flow2code.com
 title: Mockup aplikacji BookFood
 logo: ../assets/projects/flow2code/bookfood/1.png
 cover: ../assets/projects/flow2code/bookfood/cover.jpg
+cover-background: "#ededed"
+
 permalink: /portfolio/flow2code-bookfood
 layout: project
 short-description: Mockup aplikacji BookFood był pierwszym projektem, jaki stworzyłam w ramach pracy dla Flow2code

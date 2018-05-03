@@ -2,6 +2,8 @@
 company: Concordia&nbsp;Design
 title: Niemapa Poznania
 cover: ../assets/projects/concordia-design/cover.jpg
+cover-background: "#fdfef9"
+
 permalink: /portfolio/concordia-design-niemapa-poznania
 layout: project
 short-description: NieMAPA to wyjątkowo zaprojektowana seria ilustrowanych przewodników po mieście, która pokazuje opisuje ciekawe i&nbsp;nieznane miejsca

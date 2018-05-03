@@ -2,6 +2,8 @@
 company: Studia
 title: Projekt w ramach programu "Geocentrum doskonałości"
 cover: ../assets/projects/geocentrum/cover.jpg
+cover-background: "#f1f7f7"
+
 permalink: /portfolio/geocentrum
 layout: project
 short-description: Projekt został wykonany w&nbsp;2017&nbsp;r. w&nbsp;ramach programu „Geocentrum Doskonałości -&nbsp;autorskiego programu dostosowywania studentów WNGiG UAM do współczesnych wymagań rynku pracy”

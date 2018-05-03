@@ -2,6 +2,8 @@
 company: Osobiste
 title: Moja roślinna kuchnia
 cover: ../assets/projects/cooking/cover.jpg
+cover-background: "#dbddcf"
+
 permalink: /portfolio/cooking
 layout: project
 short-description: W&nbsp;kwietniu 2018&nbsp;r. rozpoczęła się moja przygoda zdrowszego i&nbsp;szczęśliwszego życia. Podjęłam wyzwanie i&nbsp;przeszłam na weganizm

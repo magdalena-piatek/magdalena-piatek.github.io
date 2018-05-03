@@ -2,6 +2,7 @@
 company: Stagelink.com
 title: Redesign architektury informacji biletu Stagelink
 cover: ../assets/projects/stagelink/ticket/cover.jpg
+cover-background: "#ededed"
 
 permalink: /portfolio/stagelink-ticket
 layout: project

@@ -2,6 +2,8 @@
 company: Osobiste
 title: Scrapbooking
 cover: ../assets/projects/scrapbooking/cover.jpg
+cover-background: "#fcf7d7"
+
 permalink: /portfolio/scrapbooking
 layout: project
 short-description: Uwielbiam przygotowywać prezenty, a jeszcze lepiej kiedy wyglądają one oryginalnie

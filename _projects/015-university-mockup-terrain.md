@@ -3,6 +3,8 @@ company: Studia
 title: Projekt makiety parku
 logo: ../assets/projects/mockup-terrain/logo.png
 cover: ../assets/projects/mockup-terrain/cover.jpg
+cover-background: "#fcf7d7"
+
 permalink: /portfolio/mockup-terrain
 layout: project
 short-description: W ramach zajęć Projektowanie urbanistyczne na kierunku Gospodarka Przestrzenna na Uniwersytecie im. Adama Mickiewicza w&nbsp;Poznaniu przygotowałam makietę parku zlokalizowanego wśród zabudowy wielorodzinnej

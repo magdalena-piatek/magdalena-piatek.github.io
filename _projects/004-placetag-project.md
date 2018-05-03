@@ -2,6 +2,8 @@
 company: Placetag.pl
 title: Testy użyteczności oraz prototypowanie aplikacji Placetag.pl
 cover: ../assets/projects/placetag/cover.jpg
+cover-background: "#f6e8db"
+
 permalink: /portfolio/placetag
 layout: project
 short-description: W pierwszym kwartale 2016 roku podjęłam się pracy nad projektem Placetag.pl w ramach poprawy jego użyteczności

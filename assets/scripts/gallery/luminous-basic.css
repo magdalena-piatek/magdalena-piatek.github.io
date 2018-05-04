@@ -92,6 +92,7 @@
 
 .lum-lightbox {
 	background: rgba(0, 0, 0, 0.6);
+	z-index: 2;
 }
 
 .lum-lightbox-inner {
@@ -125,7 +126,7 @@
 
 .lum-lightbox-loader:before,
 .lum-lightbox-loader:after {
-	content: "";
+	content: '';
 	display: block;
 	width: 20px;
 	height: 20px;
@@ -177,7 +178,7 @@
 	overflow: hidden;
 	text-indent: 150%;
 	white-space: nowrap;
-	background: transparent;
+	background: #0006;
 	border: 0;
 	margin: 0;
 	padding: 0;
@@ -185,27 +186,26 @@
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
-	height: 100px;
-	max-height: 100%;
-	width: 60px;
+	height: 4rem;
+	width: 4rem;
 	cursor: pointer;
 }
 
 .lum-previous-button {
-	left: 12px;
+	left: 1rem;
 }
 
 .lum-next-button {
-	right: 12px;
+	right: 1rem;
 }
 
 .lum-gallery-button:after {
-	content: "";
+	content: '';
 	display: block;
 	position: absolute;
 	top: 50%;
-	width: 36px;
-	height: 36px;
+	width: 1.5rem;
+	height: 1.5rem;
 	border-top: 4px solid rgba(255, 255, 255, 0.8);
 }
 
@@ -213,7 +213,7 @@
 	transform: translateY(-50%) rotate(-45deg);
 	border-left: 4px solid rgba(255, 255, 255, 0.8);
 	box-shadow: -2px 0 rgba(0, 0, 0, 0.2);
-	left: 12%;
+	left: 1.5rem;
 	border-radius: 3px 0 0 0;
 }
 
@@ -221,27 +221,6 @@
 	transform: translateY(-50%) rotate(45deg);
 	border-right: 4px solid rgba(255, 255, 255, 0.8);
 	box-shadow: 2px 0 rgba(0, 0, 0, 0.2);
-	right: 12%;
+	right: 1.5rem;
 	border-radius: 0 3px 0 0;
 }
-
-/* This media query makes screens less than 460px wide display in a "fullscreen"-esque mode. Users can then scroll around inside the lightbox to see the entire image. */
-/* @media (max-width: 460px) {
-  .lum-lightbox-image-wrapper {
-    display: block;
-    overflow: auto;
-    -webkit-overflow-scrolling: touch;
-  }
-
-  .lum-lightbox-caption {
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-  }
-
-  .lum-lightbox-inner img {
-    max-width: none;
-    max-height: none;
-    display: block;
-  }
-} */

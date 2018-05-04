@@ -12,7 +12,7 @@ datetime: 2016
 methods: strategia UX, strategia finansowa, budowa profilu użytkowników, identyfikacja kluczowych wrażeń, macierz analizy konkurencji, identyfikacja okazji rynkowych, scenariusze, sesja badania użytkowników,  testy użyteczności, grupowanie wyników, prototypowanie, strukturyzacja
 ---
 
-<p>Z&nbsp;początkiem 2016 roku podjęłam się pracy nad projektem <a target="_blank" href="http://placetag.pl">Placetag.pl</a>&nbsp;w&nbsp;ramach poprawy jego użyteczności. Pierwszym krokiem było określenie strategii finansowej, z&nbsp;uwzględnieniem modelu biznesowego.</p>
+<p>Z&nbsp;początkiem 2016 roku podjęłam się pracy nad projektem <a target="_blank" href="http://placetag.pl">Placetag.pl</a> w&nbsp;ramach poprawy jego użyteczności. Pierwszym krokiem było określenie strategii finansowej, z&nbsp;uwzględnieniem modelu biznesowego.</p>
 
 <p>Wraz z&nbsp;całym zespołem zdefiniowaliśmy podstawowy segment klientów oraz określiliśmy problemy z&nbsp;jakimi użytkownicy się borykają. To umożliwiło opracowanie prowizorycznych profili klientów. W&nbsp;celu weryfikacji początkowej propozycji wartości rozwiązania przeprowadziłam badania zorientowane na rozpoznanie rynku z&nbsp;udziałem zdefiniowanego segmentu klientów.</p>
 

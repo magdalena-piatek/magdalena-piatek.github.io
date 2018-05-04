@@ -25,30 +25,30 @@ Do danego projektu warto podejść z&nbsp;głową, żeby później nie mieć poc
 <ul class="gallery">
 	<li class="item" href="../assets/projects/graphics/0.png" style="background-image: url(../assets/projects/graphics/0.png);"></li>
 	<li class="item" href="../assets/projects/graphics/6.jpg" style="background-image: url(../assets/projects/graphics/6.jpg);"></li>
+	<li class="item" href="../assets/projects/graphics/7.jpg" style="background-image: url(../assets/projects/graphics/7.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/23.jpg" style="background-image: url(../assets/projects/graphics/23.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/24.jpg" style="background-image: url(../assets/projects/graphics/24.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/25.jpg" style="background-image: url(../assets/projects/graphics/25.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/22.jpg" style="background-image: url(../assets/projects/graphics/22.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/11.jpg" style="background-image: url(../assets/projects/graphics/11.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/14.jpg" style="background-image: url(../assets/projects/graphics/14.jpg);"></li>
+	<li class="item" href="../assets/projects/graphics/8.jpg" style="background-image: url(../assets/projects/graphics/8.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/12.jpg" style="background-image: url(../assets/projects/graphics/12.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/13.jpg" style="background-image: url(../assets/projects/graphics/13.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/5.jpg" style="background-image: url(../assets/projects/graphics/5.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/27.jpg" style="background-image: url(../assets/projects/graphics/27.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/15.jpg" style="background-image: url(../assets/projects/graphics/15.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/16.jpg" style="background-image: url(../assets/projects/graphics/16.jpg);"></li>
-	<li class="item" href="../assets/projects/graphics/17.jpg" style="background-image: url(../assets/projects/graphics/17.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/9.jpg" style="background-image: url(../assets/projects/graphics/9.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/10.jpg" style="background-image: url(../assets/projects/graphics/10.jpg);"></li>
-	<li class="item" href="../assets/projects/graphics/7.jpg" style="background-image: url(../assets/projects/graphics/7.jpg);"></li>
+	<li class="item" href="../assets/projects/graphics/17.jpg" style="background-image: url(../assets/projects/graphics/17.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/1.jpg" style="background-image: url(../assets/projects/graphics/1.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/2.jpg" style="background-image: url(../assets/projects/graphics/2.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/3.jpg" style="background-image: url(../assets/projects/graphics/3.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/4.jpg" style="background-image: url(../assets/projects/graphics/4.jpg);"></li>
-	<li class="item" href="../assets/projects/graphics/8.jpg" style="background-image: url(../assets/projects/graphics/8.jpg);"></li>
+	<li class="item" href="../assets/projects/graphics/26.jpg" style="background-image: url(../assets/projects/graphics/26.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/18.jpg" style="background-image: url(../assets/projects/graphics/18.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/19.jpg" style="background-image: url(../assets/projects/graphics/19.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/20.jpg" style="background-image: url(../assets/projects/graphics/20.jpg);"></li>
 	<li class="item" href="../assets/projects/graphics/21.jpg" style="background-image: url(../assets/projects/graphics/21.jpg);"></li>
-	<li class="item" href="../assets/projects/graphics/26.jpg" style="background-image: url(../assets/projects/graphics/26.jpg);"></li>
 </ul>

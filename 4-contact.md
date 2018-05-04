@@ -15,7 +15,9 @@ grid-column: 5
 			<ul class="contact-details">
 				<li>
 					<img class="icon" src="/assets/icons/mail.svg" width="12px" height="12px">
+					<!--email_off-->
 					<a href="mailto:kontakt@magdalena-piatek.pl" title="Napisz do mnie">kontakt@magdalena-piatek.pl</a></li>
+					<!--email_off-->
 				<li>
 					<img class="icon" src="/assets/icons/phone.svg" width="12px" height="12px">
 					<a target="_blank" href="tel:48506318022">+48&nbsp;506&nbsp;318&nbsp;022</a></li>

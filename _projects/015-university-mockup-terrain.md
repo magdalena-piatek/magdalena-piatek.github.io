@@ -10,6 +10,7 @@ layout: project
 short-description: W ramach zajęć „Projektowanie urbanistyczne” przygotowałam makietę parku zlokalizowanego wśród zabudowy wielorodzinnej
 badge: ../assets/badges/university.png
 datetime: 2015
+background-position: top
 methods: projektowanie, umiejętności planowania, umiejętności twórczego rozwiązywania problemów, zdolności manualne, umiejętność organizacji własnej pracy
 ---
 

@@ -1,4 +1,4 @@
-window.onscroll = function() {
+window.onscroll = function () {
 	var elements = [
 		document.querySelector('.site-header'),
 		document.querySelector('.me h1'),
@@ -20,15 +20,17 @@ window.onscroll = function() {
 if (document.readyState == 'complete') {
 	getElements();
 } else {
-	document.onreadystatechange = function() {
+	document.onreadystatechange = function () {
 		if (document.readyState === 'complete') {
 			getElements();
 		}
 	};
 }
-window.onload = function() {
+
+window.onload = function () {
 	getElements();
 };
+
 window.siteElements = null;
 
 function getElements() {

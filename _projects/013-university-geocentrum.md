@@ -1,6 +1,6 @@
 ---
 company: Studia
-title: Projekt w ramach programu "Geocentrum doskonałości"
+title: Projekty w ramach programu "Geocentrum doskonałości"
 cover: ../assets/projects/geocentrum/cover.jpg
 cover-background: "#f1f7f7"
 
@@ -11,6 +11,9 @@ badge: ../assets/badges/university.png
 datetime: 2017
 methods: Inkscape, inwentaryzacja, zdolności analityczne, projektowanie, umiejętności planowania, umiejętności twórczego rozwiązywania problemów, zdolności manualne, umiejętność organizacji własnej pracy, projekt komputerowy
 ---
+
+
+„<a target="_blank" href="http://geocentrum.home.amu.edu.pl/">Geocentrum Doskonałości</a>" to autorski program dostosowywania studentów Wydziału Nauk Geograficznych i&nbsp;Geologicznych UAM do współczesnych wymagań rynku pracy
 
 Projekt został wykonany w&nbsp;2017 r. w&nbsp;ramach programu „<a target="_blank" href="http://geocentrum.home.amu.edu.pl/">Geocentrum Doskonałości</a> -&nbsp;autorskiego programu dostosowywania studentów Wydziału Nauk Geograficznych i&nbsp;Geologicznych UAM do współczesnych wymagań rynku pracy” we współpracy z&nbsp;Kancelarią Urbanistyczną Filip Koczorowski.
 

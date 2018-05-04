@@ -14,7 +14,7 @@ datetime: 2016-2018
 methods: Illustrator, Inkscape, AutoCad, projektowanie, grafika wektorowa, umiejętności planowania, umiejętności twórczego rozwiązywania problemów, zdolności manualne, umiejętność organizacji własnej pracy
 ---
 
-Oprócz tradycyjnego rysowania, w&nbsp;wolnym czasie lubię również tworzyć w&nbsp;programach przeznaczonych do grafiki wektorowej. Jest to jedna z&nbsp;moich pasji. Grafiki tworzę głównie w&nbsp;Adobe Illustrator&nbsp;CC. Uwielbiam rysować geometryczne podobizny zwierząt. Część z&nbsp;przedstawionych poniżej prac została wykonana w&nbsp;ramach studiów na Uniwersytecie im.&nbsp;Adama Mickiewicza w&nbsp;Poznaniu na kierunku Gospodarka Przestrzenna.
+Oprócz tradycyjnego rysowania, w&nbsp;wolnym czasie lubię również pracować w&nbsp;programach przeznaczonych do tworzenia grafiki wektorowej. Jest to jedna z&nbsp;moich pasji. Uwielbiam rysować geometryczne podobizny zwierząt, czy też rozwijać swoje umiejętności poprzez odtwarzanie już istniejących grafik. Część z&nbsp;przedstawionych poniżej prac została wykonana w&nbsp;ramach studiów na Uniwersytecie im.&nbsp;Adama Mickiewicza w&nbsp;Poznaniu na kierunku Gospodarka Przestrzenna. Grafiki tworzę głównie w&nbsp;programie Adobe Illustrator&nbsp;CC.
 
 Do danego projektu warto podejść z&nbsp;głową, żeby później nie mieć poczucia straconego czasu. Odpowiedni plan działania nie zaszkodzi, a&nbsp;może jedynie nas uchronić od dodatkowych poprawek. Kilka przykładowych prac zamieściłam poniżej.
 

@@ -1,16 +1,34 @@
 <header class="site-header">
-	<a class="site-title" href="{{ site.baseurl }}/">
-		<div class="profile"></div>
-		<!-- <span>{{ site.title }}</span><span>User experience researcher and designer</span> -->
-		<span>Magdalena Piątek</span><span>User experience researcher and designer</span>
-	</a>
-	<nav class="site-nav">
-		<div class="trigger">
-			{% for page in site.pages %}
-				{% if page.title %}
-					<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-				{% endif %}
-			{% endfor %}
+	<div class="mobile-navbar">
+		{% for node in site.pages %} 
+			{% if node.logo == true %}
+				<a href="/" class="logo">MAGDALENA&nbsp;PIĄTEK</a>
+			{% endif %}
+		{% endfor %}
+		<div class="hamburger hamburger--collapse" onclick="toggleMenu()">
+			<div class="hamburger-box">
+				<div class="hamburger-inner"></div>
+			</div>
 		</div>
+	</div>
+	<nav class="site-nav collapsed">
+		{% for node in site.pages %} 
+			{% if node.title %} 
+				{% if node.url == page.url %}
+					<a class="page-link active" style="-ms-grid-column: {{node.grid-column}}; grid-column: {{node.grid-column}};" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+				{% else %}
+					<a class="page-link" style="-ms-grid-column: {{node.grid-column}}; grid-column: {{node.grid-column}};" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+				{% endif %} 
+			{% endif %} 
+			
+			{% if node.file == true %}
+				<a class="page-link" target="_blank" style="-ms-grid-column: {{node.grid-column}}; grid-column: {{node.grid-column}};" href="{{ node.href }}">{{ node.link_name }}</a>
+			{% endif %} 
+			
+			{% if node.logo == true %}
+				<a href="/" class="logo" style="-ms-grid-column: 3; grid-column: 3;">MAGDALENA&nbsp;PIĄTEK</a>
+			{% endif %}
+		{% endfor %}
 	</nav>
+	<div class="overlay" onclick="hideMenu()"></div>
 </header>

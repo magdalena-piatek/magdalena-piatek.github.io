@@ -3,11 +3,13 @@
 {% include head.html %}
 
 <body>
-	<div class="wrapper">
-		{% include header.html %}
-		<div class="page-content">
+
+	<div class="wrapper">{% include header.html %} {% include profile.html %}
+		<div class="page-content animation-content">
 			{{ content }}
 		</div>
+		<div class="line"></div>
+
 		{% include footer.html %}
 	</div>
 </body>

@@ -20,15 +20,23 @@ $bg-color: #fff;
 	"rwd"
 ;
 
+
 @font-face {
-    font-family: 'Titillium';
+    font-family: 'Oswald Light';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Oswald Light'),url(//brick.a.ssl.fastly.net/fonts/oswald/200.woff) format('woff');
+}
+@font-face {
+    font-family: 'Oswald';
     font-style: normal;
     font-weight: 400;
-    src: local('Titillium'),url(//brick.a.ssl.fastly.net/fonts/titillium/400.woff) format('woff');
+    src: local('Oswald'),url(//brick.a.ssl.fastly.net/fonts/oswald/400.woff) format('woff');
 }
 @font-face {
-    font-family: 'Titillium Light';
+    font-family: 'Alegreya Sans';
     font-style: normal;
-    font-weight: 300;
-    src: local('Titillium'),url(//brick.a.ssl.fastly.net/fonts/titillium/300.woff) format('woff');
+    font-weight: 400;
+    src: local('Alegreya Sans'),url(//brick.freetls.fastly.net/fonts/alegreyasans/400.woff) format('woff');
 }
+

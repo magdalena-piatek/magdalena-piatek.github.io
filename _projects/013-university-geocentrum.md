@@ -1,7 +1,7 @@
 ---
 company: Studia
 title: Projekty w ramach programu „Geocentrum Doskonałości”
-cover: ../assets/projects/geocentrum/cover-2.jpg
+cover: ../assets/projects/geocentrum/cover.jpg
 cover-background: "#f3f2d3"
 
 permalink: /portfolio/geocentrum

@@ -20,11 +20,9 @@
 					<a class="page-link" style="-ms-grid-column: {{node.grid-column}}; grid-column: {{node.grid-column}};" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
 				{% endif %} 
 			{% endif %} 
-			
 			{% if node.file == true %}
 				<a class="page-link" target="_blank" style="-ms-grid-column: {{node.grid-column}}; grid-column: {{node.grid-column}};" href="{{ node.href }}">{{ node.link_name }}</a>
 			{% endif %} 
-			
 			{% if node.logo == true %}
 				<a href="/" class="logo" style="-ms-grid-column: 3; grid-column: 3;">MAGDALENA&nbsp;PIĄTEK</a>
 			{% endif %}

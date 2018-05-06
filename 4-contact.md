@@ -38,7 +38,7 @@ grid-column: 5
 				<input name="name" placeholder="Twoje imię" type="text" required>
 				<input name="email" placeholder="Twój adres e-mail" type="email" required>
 				<input type="hidden" name="_language" value="pl" />
-				<input type="hidden" name="_subject" value="Wiadomość z formularza - magdalena-piatek.pl" />
+				<input type="hidden" name="_subject" value="Wiadomość z magdalena-piatek.pl" />
 				<input type="hidden" name="_next" value="/thank-you/" />
 				<textarea name="message" placeholder="Twoja wiadomość" required></textarea>
 				<button type="submit">Wyślij</button>

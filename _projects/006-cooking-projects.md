@@ -2,6 +2,8 @@
 company: Osobiste
 title: Moja roślinna kuchnia
 cover: ../assets/projects/cooking/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/cooking/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#dbddcf"
 
 permalink: /portfolio/cooking

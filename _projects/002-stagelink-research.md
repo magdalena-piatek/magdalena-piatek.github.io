@@ -2,6 +2,8 @@
 company: Stagelink.com
 title: Badania użyteczności aplikacji Stagelink
 cover: ../assets/projects/stagelink/ux-research/cover.png
+og-image: magdalena-piatek.pl/assets/projects/stagelink/ux-research/cover.png
+og-image-type: image/png
 cover-background: "#ededed"
 
 permalink: /portfolio/stagelink-ux-research

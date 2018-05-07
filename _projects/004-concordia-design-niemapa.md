@@ -2,6 +2,8 @@
 company: Concordia&nbsp;Design
 title: Niemapa Poznania
 cover: ../assets/projects/concordia-design/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/concordia-design/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#fdfef9"
 
 permalink: /portfolio/concordia-design-niemapa-poznania

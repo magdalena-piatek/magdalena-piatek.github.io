@@ -2,8 +2,9 @@
 company: Stagelink.com
 title: Redesign architektury informacji biletu Stagelink
 cover: ../assets/projects/stagelink/ticket/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/stagelink/ticket/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#ededed"
-
 permalink: /portfolio/stagelink-ticket
 layout: project
 short-description: Stworzenie nowego projektu biletu było moim zadaniem rekrutacyjnym do berlińskiego startupu Stagelink

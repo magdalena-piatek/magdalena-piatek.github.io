@@ -3,6 +3,8 @@ company: flow2code.com
 title: Mockup CMS dla ScandiShop.pl
 logo: ../assets/projects/flow2code/scandishop/1.png
 cover: ../assets/projects/flow2code/scandishop/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/flow2code/scandishop/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#f7f7f7"
 
 permalink: /portfolio/flow2code-scandishop

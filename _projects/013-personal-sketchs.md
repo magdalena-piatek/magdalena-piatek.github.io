@@ -3,6 +3,8 @@ company: Osobiste
 title: Rysunki odręczne
 logo: ../assets/projects/sketchs/logo.png
 cover: ../assets/projects/sketchs/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/sketchs/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#f0f0f0"
 
 permalink: /portfolio/sketchs

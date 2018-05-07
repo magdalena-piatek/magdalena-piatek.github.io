@@ -2,6 +2,8 @@
 company: Osobiste
 title: Scrapbooking
 cover: ../assets/projects/scrapbooking/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/scrapbooking/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#fcf7d7"
 
 permalink: /portfolio/scrapbooking

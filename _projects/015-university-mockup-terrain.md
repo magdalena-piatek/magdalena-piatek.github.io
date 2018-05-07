@@ -3,6 +3,8 @@ company: Studia
 title: Projekt makiety parku
 logo: ../assets/projects/mockup-terrain/logo.png
 cover: ../assets/projects/mockup-terrain/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/mockup-terrain/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#fcf7d7"
 
 permalink: /portfolio/mockup-terrain

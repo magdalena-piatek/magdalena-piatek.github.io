@@ -3,6 +3,8 @@ company: Osobiste
 title: Projekty graficzne
 logo: ../assets/projects/graphics/logo.png
 cover: ../assets/projects/graphics/cover.png
+og-image: magdalena-piatek.pl/assets/projects/graphics/cover.png
+og-image-type: image/png
 cover-background: "#ffffff"
 
 permalink: /portfolio/graphics

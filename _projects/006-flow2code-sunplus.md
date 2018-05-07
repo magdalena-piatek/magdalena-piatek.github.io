@@ -3,6 +3,8 @@ company: flow2code.com
 title: Mockup aplikacji dla firmy Sun+
 logo: ../assets/projects/flow2code/sunplus/1.png
 cover: ../assets/projects/flow2code/sunplus/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/flow2code/sunplus/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#f7f7f7"
 
 permalink: /portfolio/flow2code-sunplus

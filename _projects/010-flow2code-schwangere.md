@@ -3,6 +3,8 @@ company: flow2code.com
 title: Mockup aplikacji mobilnej dla niemieckich szpitali
 logo: ../assets/projects/flow2code/schwangere/1.png
 cover: ../assets/projects/flow2code/schwangere/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/flow2code/schwangere/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#ededed"
 
 permalink: /portfolio/flow2code-schwangere

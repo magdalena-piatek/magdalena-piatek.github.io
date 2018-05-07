@@ -2,6 +2,8 @@
 company: Placetag.pl
 title: Testy użyteczności oraz prototypowanie aplikacji Placetag.pl
 cover: ../assets/projects/placetag/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/placetag/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#f6e8db"
 
 permalink: /portfolio/placetag

@@ -2,6 +2,8 @@
 company: Studia
 title: Projekty w ramach programu „Geocentrum Doskonałości”
 cover: ../assets/projects/geocentrum/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/geocentrum/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#f3f2d3"
 
 permalink: /portfolio/geocentrum

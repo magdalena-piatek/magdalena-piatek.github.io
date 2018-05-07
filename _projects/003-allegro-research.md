@@ -2,6 +2,8 @@
 company: Allegro
 title: Jak kupują w Internecie ludzie powyżej 50 roku życia?
 cover: ../assets/projects/allegro/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/allegro/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#e3e2df"
 
 permalink: /portfolio/allegro-ux-research

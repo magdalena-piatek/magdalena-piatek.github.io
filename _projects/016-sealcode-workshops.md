@@ -3,6 +3,8 @@ company: Sealcode.org
 title: Organizacja warsztatów UX
 logo: ../assets/projects/sealcode/logo2.png
 cover: ../assets/projects/sealcode/cover.jpg
+og-image: magdalena-piatek.pl/assets/projects/sealcode/cover.jpg
+og-image-type: image/jpeg
 cover-background: "#e7e8da"
 
 flex-basis: 12rem

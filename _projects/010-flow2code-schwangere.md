@@ -15,7 +15,7 @@ datetime: 2017
 methods: budowa profilu użytkowników, identyfikacja kluczowych wrażeń, macierz analizy konkurencji, identyfikacja okazji rynkowych, prototypowanie, strukturyzacja, projektowanie hierarchii, wartościowanie, porządek elementów
 ---
 
-<p>Kolejnym projektem, jaki przygotowałam dla firmy <a target="_blank" href="https://flow2code.com/">Flow2code</a>, była makieta aplikacji mobilnej dla ciężarnych kobiet. Przygotowane mockupy zostały wykorzystane jako uzupełniene dokumentacji przetargowej. W&nbsp;drodze przetargu zostały wyłonione dwie firmy do realizacji, w&nbsp;tym Flow2code.</p>
+<p>Kolejnym projektem, jaki przygotowałam dla firmy <a target="_blank" href="https://flow2code.com/">Flow2code</a>, była makieta aplikacji mobilnej dla ciężarnych kobiet. Przygotowane mockupy zostały wykorzystane jako uzupełnienie dokumentacji przetargowej. W&nbsp;drodze przetargu zostały wyłonione dwie firmy do realizacji, w&nbsp;tym Flow2code.</p>
 
 <p>Fundacja dla kobiet w&nbsp;ciąży w&nbsp;Niemczech we współpracy z&nbsp;niemieckimi szpitalami chciała zbudować platformę edukacyjną dla swoich brzemiennych pacjentek. Celem aplikacji mobilnej jest towarzyszenie kobietom w&nbsp;ciąży w&nbsp;tym najtrudniejszym momencie w&nbsp;ich życiu, edukować je oraz budować image szpitali, jako nieodzownego partnera ciężarnych kobiet.</p>
 

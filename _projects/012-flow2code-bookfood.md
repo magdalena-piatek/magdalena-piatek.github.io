@@ -20,8 +20,16 @@ Mockup aplikacji BookFood był pierwszym projektem (proof of concept), jaki stwo
 Wywiad konkurencyjny umożliwił sformułowanie wniosków w&nbsp;kwestii tego, co się sprawdza, dlaczego to się sprawdza oraz jakie okazje kryje rynek dla naszego produktu. Nie zależało mi na wprowadzeniu produktu, który tylko kopiowałby wszystkie funkcje i&nbsp;cechy oferowane przez konkurentów. Nie zależało mi również na tym, aby moja analiza sprowadzała się do zwykłego porównania cech produktów konkurencyjnych. Moim zadaniem było poddanie wszystkiego analizie i&nbsp;wskazanie najważniejszych funkcji i możliwości, które pozwolą stworzyć jakąś innowację w&nbsp;zakresie wartości. Chcieliśmy zostawić konkurentów daleko w&nbsp;tyle proponując coś wyjątkowego, co będzie wyraźnie lepsze od ich dotychczasowej oferty. Podstawową funkcjonalnością było powiadamianie klienta o&nbsp;korzyściach, które może zyskać, wybierając naszą ofertę. Wszystkie uzyskane dotychczas dane stanowiły bazę do zaprojektowania aplikacji.
 
 <div class="project-image">
-	<img class="item" src="../assets/projects/flow2code/bookfood/0.jpg" href="../assets/projects/flow2code/bookfood/0.jpg" />
+	<img class="item" src="../assets/projects/flow2code/bookfood/0.png" href="../assets/projects/flow2code/bookfood/0.png" />
 </div>
-<div class="project-image">
-	<img class="item" src="../assets/projects/flow2code/bookfood/1.jpg" href="../assets/projects/flow2code/bookfood/1.jpg" />
-</div>
+<ul class="gallery">
+	<li class="item" href="../assets/projects/flow2code/bookfood/1.png" style="background-image: url(../assets/projects/flow2code/bookfood/1.png);"></li>
+	<li class="item" href="../assets/projects/flow2code/bookfood/2.png" style="background-image: url(../assets/projects/flow2code/bookfood/2.png);"></li>
+	<li class="item" href="../assets/projects/flow2code/bookfood/3.png" style="background-image: url(../assets/projects/flow2code/bookfood/3.png);"></li>
+	<li class="item" href="../assets/projects/flow2code/bookfood/4.png" style="background-image: url(../assets/projects/flow2code/bookfood/4.png);"></li>
+	<li class="item" href="../assets/projects/flow2code/bookfood/5.png" style="background-image: url(../assets/projects/flow2code/bookfood/5.png);"></li>
+	<li class="item" href="../assets/projects/flow2code/bookfood/6.png" style="background-image: url(../assets/projects/flow2code/bookfood/6.png);"></li>
+	<li class="item" href="../assets/projects/flow2code/bookfood/7.png" style="background-image: url(../assets/projects/flow2code/bookfood/7.png);"></li>
+	<li class="item" href="../assets/projects/flow2code/bookfood/8.png" style="background-image: url(../assets/projects/flow2code/bookfood/8.png);"></li>
+	<li class="item" href="../assets/projects/flow2code/bookfood/9.png" style="background-image: url(../assets/projects/flow2code/bookfood/9.png);"></li>
+</ul>

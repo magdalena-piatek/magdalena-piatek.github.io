@@ -51,4 +51,5 @@ methods: estetyka, pomysł, koncepcja, jakość, eksponowanie atutów, autentycz
 	<li class="item" href="../assets/projects/cooking/24.jpg" style="background-image: url(../assets/projects/cooking/24.jpg);"></li>
 	<li class="item" href="../assets/projects/cooking/25.jpg" style="background-image: url(../assets/projects/cooking/25.jpg);"></li>
 	<li class="item" href="../assets/projects/cooking/26.jpg" style="background-image: url(../assets/projects/cooking/26.jpg);"></li>
+	<li class="item" href="../assets/projects/cooking/26.jpg" style="background-image: url(../assets/projects/cooking/28.jpg);"></li>
 </ul>

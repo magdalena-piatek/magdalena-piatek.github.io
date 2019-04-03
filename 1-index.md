@@ -37,7 +37,6 @@ grid-column: 1
 		<li class="skill">Prototypowanie</li>
 		<li class="skill">Projektowanie zorientowane na użytkownika</li>
 		<li class="skill">Design thinking</li>
-		<li class="skill">Raporty</li>
 		<li class="skill">Audyty użyteczności</li>
 		<li class="skill">Scrum</li>
 		<li class="skill">Google Analytics</li>
@@ -50,10 +49,8 @@ grid-column: 1
 		<li class="skill">Inkscape</li>
 		<li class="skill">AutoCad</li>
 		<li class="skill">CorelDRAW</li>
-    	<li class="skill">Typeform</li>
     	<li class="skill">GitHub</li>
     	<li class="skill">macOS</li>
     	<li class="skill">Rysunek techniczny</li>
     </ul>
-
 </div>

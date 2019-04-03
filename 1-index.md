@@ -47,7 +47,6 @@ grid-column: 1
 		<li class="skill">Zeplin</li>
 		<li class="skill">Illustrator CC</li>
 		<li class="skill">Inkscape</li>
-		<li class="skill">AutoCad</li>
 		<li class="skill">CorelDRAW</li>
     	<li class="skill">GitHub</li>
     	<li class="skill">macOS</li>

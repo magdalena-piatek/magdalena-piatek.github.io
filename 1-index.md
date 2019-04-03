@@ -43,15 +43,13 @@ grid-column: 1
 		<li class="skill">Google Analytics</li>
 		<li class="skill">Matomo (Piwik)</li>
 		<li class="skill">Sketch</li>
-		<li class="skill">Mockplus</li>
-		<li class="skill">Moqups</li>
+		<li class="skill">Figma</li>
+		<li class="skill">Adobe XD</li>
 		<li class="skill">Zeplin</li>
 		<li class="skill">Illustrator CC</li>
 		<li class="skill">Inkscape</li>
 		<li class="skill">AutoCad</li>
 		<li class="skill">CorelDRAW</li>
-    	<li class="skill">QGIS</li>
-    	<li class="skill">Golden Software MapViewer</li>
     	<li class="skill">Typeform</li>
     	<li class="skill">GitHub</li>
     	<li class="skill">macOS</li>

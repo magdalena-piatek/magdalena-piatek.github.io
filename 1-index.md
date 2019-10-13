@@ -10,9 +10,7 @@ grid-column: 1
 	<div class="about">
 		<p>
 			Cześć, nazywam się Magdalena Piątek. Specjalizuję się w&nbsp;projektowaniu interfejsów użytkownika.  Interesuję się również badaniami potrzeb i&nbsp;zachowań użytkowników.  
-			
 		</p>
-
     	<p>
     		Aktualnie projektuję produkty cyfrowe dla <a href="https://domdata.pl/" target="_blank">DomData AG</a>. Ściśle współpracuję ze swoimi współpracownikami i&nbsp;przyszłymi użytkownikami, aby zapewnić docelowym odbiorcom jak najlepsze wrażenia z&nbsp;użytkowania.
     	</p>
@@ -23,7 +21,6 @@ grid-column: 1
     <div class="line"></div>
     {% comment %} <h2> Moje umiejętności </h2> {% endcomment %}
     <ul class="skills">
-
     	<li class="skill">User interface design</li>
     	<li class="skill">Web design</li>
     	<li class="skill">Wireframes</li>
@@ -48,5 +45,4 @@ grid-column: 1
     	<li class="skill">Google Analytics</li>
     	<li class="skill">BPM</li>
     </ul>
-
 </div>

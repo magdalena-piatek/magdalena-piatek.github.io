@@ -1,0 +1,23 @@
+I"
+<p>Jednym z&nbsp;projektów, jakie przygotowałam dla <a target="_blank" href="https://flow2code.com/">Flow2code</a> było zaprojektowanie prototypów aplikacji dla firmy <a target="_blank" href="http://sun-plus.pl/">Sun+</a>. Czas realizacji projektu był bardzo ograniczony, w&nbsp;związku z&nbsp;czym niezwykle istotne było stworzenie harmonogramu zadań, uwzględniającego hierarchię poszczególnych etapów. Estymowanie zadań jest pomocne przy tzw.&nbsp;projektach „na wczoraj”. Ważne, by presja czasu nie oddziaływała negatywnie na naszą pracę, a&nbsp;była naszym motywatorem. Dzięki planowaniu swojej pracy wiem ile potrzebuję czasu na wykonanie danego zadania.</p>
+
+<p>Pierwszym krokiem była analiza wymagań klienta, jakie musi spełniać poszukiwanie rozwiązanie. Aplikacja miała pełnić funkcję oprogramowania CRM, optymalizując procesy zachodzące pomiędzy firmą a&nbsp;jej pracownikami. Sformułowane wnioski stanowiły podstawę do etapu projektowania.</p>
+
+<p>Pierwszym narzędziem, po które sięgnęłam była zwykła kartka A4 i&nbsp;długopis. Jest to najtańszy i&nbsp;najszybszy sposób wizualizacji pomysłów. Kolejnym krokiem było przeniesienie mockupów do programu, czego efektem są przedstawione poniżej screeny. Ze względu na ograniczony czas realizacji projektu, najważniejsze w&nbsp;tym przypadku było rozmieszczenie poszczególnych elementów.</p>
+
+<p>Dla Flow2code przygotowywałam projekty aplikacji mobilnych i webowych. Kompleksowa analiza wymagań biznesowych oraz określenie potrzeb potencjalnych użytkowników umożliwiło przygotowanie wireframe’ów spełniających oczekiwane funkcjonalności. Dwoma największymi projektami są CRM dla ScandiShop.pl oraz aplikacja dla optymalizacji procesów między firmą a jej pracownikami dla Sun+.</p>
+
+<h2>O Flow2code</h2>
+
+<p>Flow2code to software house założony w 2013 roku, zajmujący się tworzeniem i rozwojem aplikacji internetowych oraz mobilnych z użyciem najnowszych technologii. Firma współpracuje z klientami z Wielkiej Brytanii, Niemiec, Holandii i Polski.</p>
+
+<div class="project-image">
+	<img class="item" src="../assets/projects/flow2code/sunplus/1.jpg" href="../assets/projects/flow2code/sunplus/1.jpg" />
+</div>
+<div class="project-image">
+	<img class="item" src="../assets/projects/flow2code/sunplus/0.jpg" href="../assets/projects/flow2code/sunplus/0.jpg" />
+</div>
+<div class="project-image">
+	<img class="item" src="../assets/projects/flow2code/sunplus/2.jpg" href="../assets/projects/flow2code/sunplus/2.jpg" />
+</div>
+:ET

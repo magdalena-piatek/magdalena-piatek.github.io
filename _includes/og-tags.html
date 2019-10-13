@@ -1,26 +1,24 @@
-{% if page.company %} 
-	<meta property="og:title" content="Magdalena Piątek - Portfolio / {{ page.title }}" />
-	<meta property="og:url" content="https://magdalena-piatek.pl{{page.permalink}}" />
-	<meta property="og:image" content="http://{{page.og-image}}" />
-	<meta property="og:image:secure_url" content="https://{{page.og-image}}" />
-	<meta property="og:image:type" content="{{page.og-image-type}}" />
-	<meta property="og:image:alt" content="{{page.company}} - {{page.title}}" />
+{% if page.company %}
+<meta property="og:title" content="Magdalena Piątek - Portfolio / {{ page.title }}" />
+<meta property="og:url" content="https://magdalena-piatek.pl{{page.permalink}}" />
+<meta property="og:image" content="http://{{page.og-image}}" />
+<meta property="og:image:secure_url" content="https://{{page.og-image}}" />
+<meta property="og:image:type" content="{{page.og-image-type}}" />
+<meta property="og:image:alt" content="{{page.company}} - {{page.title}}" />
 {% else %}
-	{% if page.portfolio %}
-		<meta property="og:title" content="{{ site.title }} - Portfolio" />
-		<meta property="og:url" content="https://magdalena-piatek.pl/portfolio/" />
-		<meta property="og:image" content="http://magdalena-piatek.pl/assets/img/magdalena-piatek-portfolio.png" />
-		<meta property="og:image:secure_url" content="https://magdalena-piatek.pl/assets/img/magdalena-piatek-portfolio.png" />
-		<meta property="og:image:type" content="image/png" />
-		<meta property="og:image:alt" content="Magdalena Piątek - Badacz i projektant UX (User Experience) - Portfolio" />
-	{% else %}
-		<meta property="og:title" content="{{ site.title }}" />
-		<meta property="og:url" content="https://magdalena-piatek.pl/" />
-		<meta property="og:image" content="http://magdalena-piatek.pl/assets/img/magdalena-piatek-ux.jpg" />
-		<meta property="og:image:secure_url" content="https://magdalena-piatek.pl/assets/img/magdalena-piatek-ux.jpg" />
-		<meta property="og:image:type" content="image/jpeg" />
-		<meta property="og:image:alt" content="Magdalena Piątek - Badacz i projektant UX (User Experience)" />
-	{% endif %}
+{% if page.portfolio %}
+<meta property="og:title" content="{{ site.title }} - Portfolio" />
+<meta property="og:url" content="https://magdalena-piatek.pl/portfolio/" />
+<meta property="og:image" content="http://magdalena-piatek.pl/assets/img/magdalena-piatek-portfolio.png" />
+<meta property="og:image:secure_url" content="https://magdalena-piatek.pl/assets/img/magdalena-piatek-portfolio.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:alt" content="Magdalena Piątek - UI / UX Designer - Portfolio" />
+{% else %}
+<meta property="og:title" content="{{ site.title }}" />
+<meta property="og:url" content="https://magdalena-piatek.pl/" />
+<meta property="og:image" content="http://magdalena-piatek.pl/assets/img/magdalena-piatek-ux.jpg" />
+<meta property="og:image:secure_url" content="https://magdalena-piatek.pl/assets/img/magdalena-piatek-ux.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:alt" content="Magdalena Piątek - UI / UX Designer" />
 {% endif %}
-
-
+{% endif %}

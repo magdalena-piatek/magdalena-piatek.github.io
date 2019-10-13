@@ -4,9 +4,11 @@ portfolio: true
 ---
 <div class="content">
 	<div class="projects">
-	{% for project in site.projects %}
+		{% for project in site.projects %}
 		<a class="project-link" href={{project.permalink}}>
-			<div class="cover" style="background-color: {{project.cover-background}}; background-image: url({{ project.cover }});  {% if project.background-position %} background-position: {{project.background-position}} {% endif %}"></div>
+			<div class="cover"
+				style="background-color: {{project.cover-background}}; background-image: url({{ project.cover }});  {% if project.background-position %} background-position: {{project.background-position}} {% endif %}">
+			</div>
 			<div class="description">
 				<h3 class="title">{{ project.title }}</h3>
 				<p class="short-description">{{ project.short-description }}</p>
@@ -19,6 +21,6 @@ portfolio: true
 				</div>
 			</div>
 		</a>
-	{% endfor %}
+		{% endfor %}
 	</div>
 </div>

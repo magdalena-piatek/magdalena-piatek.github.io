@@ -15,10 +15,8 @@ methods: Adobe XD, Adobe Illustrator CC, Mockup, Web Design, Landing page, Blog
 
 <p>Dla firmy <a target="_blank" href="https://www.facebook.com/softmatrix/">SoftMatrix</a> przygotowałam mockup nowej
 	strony internetowej. Projekt strony obejmuje landing page oraz makiety dla firmowego bloga. Poniższe screeny
-	przedstawiają kolejno widok strony głównej, arytkuł wraz zwszystkimi elementami takimi jak nagłówki, paragrafy,
-	cytaty, bloki kodu czy też komentarze oraz widok grupy artykułów.</p>
-
-
+	przedstawiają kolejno widok strony głównej, arytkuł wraz z&nbsp;wszystkimi elementami, takimi jak nagłówki,
+	paragrafy, cytaty, bloki kodu czy też komentarze oraz widok grupy artykułów.</p>
 
 <h2>O firmie SoftMatrix</h2>
 <p>SoftMatrix jest małą firmą o&nbsp;profilu informatycznym zajmującą się dostarczaniem kompleksowych rozwiązań
